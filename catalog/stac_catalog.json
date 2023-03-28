@@ -27,6 +27,12 @@
             "title": "Unidades Academicas UADER",
             "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/UA.json"
         }
+        {
+            "rel": "child",
+            "id": "users/geocis/BareSurfaces/BF_1980_2019",
+            "title": "Reserva Esc. Alberdi",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/reserva_alberdi.json"
+        }
     ]
 
 }
