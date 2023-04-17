@@ -11,12 +11,18 @@ STAC se conforma a través de una red de archivos **JSON** (JavaScript Object No
 
 ### **STAC ITEM**: unidad atómica central o bloque de construcción fundamental, representa un solo activo espaciotemporal como un GeoJSON complementado con metadatos adicionales. <br>
 
-![item](https://github.com/IDE-FCyT/IDE-FCyT/blob/7977f3ffb6e2edd13935bebdfcf11cccf2807cb4/images/item.png)
+![item](https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/item.png)
 
 
 ### **STAC CATÁLOGO**: especifica una estructura para vincular varios elementos STAC para rastrearlos o examinarlos. Es un archivo JSON simple y flexible de enlaces a items, catálogos o colecciones. De manera análoga se puede comparar como una carpeta en una estructura de archivos, contenedora de items, pero también puede contener catálogos o colecciones.<br>
 
+![catalogo](https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/catalogo.png)
+
+
 ### **STAC COLLECIÓN**: se utiliza para describir un grupo de elementos relacionados. Son catálogos que agregan más metadatos necesarios y describen un grupo de elementos relacionados. <br>
+
+![coleccion](https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/coleccion.png)
+
 
 ### **API STAC**: las API (interfaz de programación de aplicaciones del inglés application programming interface) STAC, es una especificación de API RESTful para consultar catálogos de forma dinámica. Está diseñada con un conjunto estándar de puntos finales (endpoint) para buscar catálogos, colecciones y elementos.
 
