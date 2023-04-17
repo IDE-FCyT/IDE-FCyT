@@ -99,6 +99,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Introducción: index.md
+  - Indicaciones de uso: pages/Indicaciones_de_uso.md
   - Catalogo: pages/catalogo.md
   - Capas de la IDE:
     - Hansen Bosque: pages/handsen.md
