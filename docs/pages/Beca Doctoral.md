@@ -2,4 +2,4 @@
 ***Boladeras Facudno, Galarza Rocio, Battauz Yamila***
 
 
-<img src="images/Geotecnologías aplicadas al estudio del nivel de antropización de humedales en la Provincia de Entre Ríos y su relación con indicadores ecológicos.png" width="1000" height="600" />
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/b865b0e1a827939dd38787c6043126bcb809661f/images/Poster.png" width="1000" height="600" />
