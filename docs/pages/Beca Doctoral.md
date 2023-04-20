@@ -2,4 +2,4 @@
 ***Boladeras Facudno, Galarza Rocio, Battauz Yamila***
 
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Poster.png" width="1100" height="600" />
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Poster.QR.png" width="1100" height="600" />
