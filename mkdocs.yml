@@ -52,6 +52,10 @@ extra:
       link: https://github.com/samapriya
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/fcyt.uader/?hl=es
+    - icon: fontawesome/brands/envelope
+      link: mailto:fcyt_ide@uader.edu.ar
+    
+    
     
 
 # Extensions
