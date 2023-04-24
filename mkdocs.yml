@@ -111,9 +111,10 @@ nav:
   - Proyectos:
     - Incendio Isla Puente: pages/incendioislapuente.md
     - Vulnerabilidad Delta del Paraná: pages/VulnerabilidadDeltadelParaná.md
-    - Geotecnologías aplicadas (Santoni): pages/unlu_santoni.md
+    - Geotecnologías aplicadas: pages/unlu_santoni.md
     - Aplicaciones de Tecnologías de Información Geográfica: pages/Morante.md
     - Algoritmo GEE plantaciones forestales: pages/algoritmo_GEE_forestal.md
     - Reserva Esc. Alberdi: pages/escuela_alberdi.md
     - Humedales: pages/Beca Doctoral.md
+    - Análisis del cambio de uso del suelo y cambio climático en el Espinal: pages/cambio_uso_suelo.md
   - Contacto: pages/contacto.md
