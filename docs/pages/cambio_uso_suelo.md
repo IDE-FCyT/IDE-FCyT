@@ -42,3 +42,4 @@ cambios en la cuenca, y factible de ser aplicada a nivel regional.
 *Jornada Provincial de Difusión de Proyectos de Tesis y Líneas de Investigación
 doctorales y postdoctorales. Concordia, 26 de Abril de 2023.*
 
+<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/presentacion_laura.jpg" width="100%" height="85%">
