@@ -36,7 +36,8 @@ cuantificación de la pérdida de bosques es perfectible posteriormente con otra
 técnicas, LandTrendr resultó una herramienta accesible y potente para detectar
 cambios en la cuenca, y factible de ser aplicada a nivel regional.
 
-<a href = "https://ide-fcyt.github.io/IDE-FCyT/pages/unlu_santoni/" target = "_blank" >Diapositivas de presentación 👈 </a>
+[Descargar la presentación 👈](https://drive.google.com/file/d/1fK1M2k_7MewME4o5wmfchyVzSv1PsuLj/view?usp=sharing)
+
 
 ## **Presentación de la línea de trabajo y principales avances**
 *Jornada Provincial de Difusión de Proyectos de Tesis y Líneas de Investigación
