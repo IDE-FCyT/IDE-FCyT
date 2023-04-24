@@ -16,7 +16,7 @@ y la sustentabilidad territorial regional en base a los patrones espacio-tempora
 
 ## Presentaciones a congreso:
 ---
-## **Geotecnologías aplicadas al análisis espacio temporal de la deforesta*ción en la cuenca del arroyo Feliciano (Entre Ríos)**
+## **Geotecnologías aplicadas al análisis espacio temporal de la deforestación en la cuenca del arroyo Feliciano (Entre Ríos)**
 *VI Congreso Internacional de Ordenamiento Territorial y Tecnologías de la Información Geográfica. Buenos Aires, 26-27-28 de Octubre de 2022*
 ## Resumen 
 
@@ -42,4 +42,4 @@ cambios en la cuenca, y factible de ser aplicada a nivel regional.
 *Jornada Provincial de Difusión de Proyectos de Tesis y Líneas de Investigación
 doctorales y postdoctorales. Concordia, 26 de Abril de 2023.*
 
-<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/presentacion_laura.jpg" width="100%" height="85%">
+<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/presentacion_laura.jpg">
