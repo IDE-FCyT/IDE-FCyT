@@ -3,7 +3,7 @@
 ![logo_ide](images/logo_ide.jpg)
 ---
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=IDE-FCyT.IDE-FCyT)](https://github.com/IDE-FCyT)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIDE-FCyT%2FIDE-FCyT&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FIDE-FCyT%2FIDE-FCyT)
 
 
 
