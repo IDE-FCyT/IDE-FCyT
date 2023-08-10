@@ -105,6 +105,7 @@ markdown_extensions:
 nav:
   - Introducción: index.md
   - Indicaciones de uso: pages/Indicaciones_de_uso.md
+  - Acerca de la IDE - FCyT/UADER: pages/acerca.md
   - Catalogo: pages/catalogo.md
   - Capas de la IDE:
     - Hansen Bosque: pages/handsen.md
