@@ -4,7 +4,7 @@ La **FCyT** es una iniciativa aprobada por la Facultad mediante Resolucón CD 21
 La información que reune la IDE-FCYT se encuentra accesible para quienes deesen consultarla.
 
 Invitamos a nuetra comunidad a ser parte de esta iniciativa.	
-<a href="https://drive.google.com/file/d/1UzPCqdlfALjy3FCkF38PzZ_eb0SeGaUj/view?usp=sharing" download="Res. 218/22">*Resol. de Aprobación de la IDE - FCyT UADER RESOL CD 218/22*.</a>
+<a href="https://drive.google.com/file/d/1UzPCqdlfALjy3FCkF38PzZ_eb0SeGaUj/view?usp=sharing" target="_blank" download="Res. 218/22">*Resol. de Aprobación de la IDE - FCyT UADER RESOL CD 218/22*.</a>
 
 
 *Equipo de trabajo de la IDE - FCyT* : Coordinador: **Lic. Santiago Díaz**, Colaborador: **Lic. Noelí Baeza**.
