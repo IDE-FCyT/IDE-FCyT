@@ -15,4 +15,4 @@ Para acceder a más información podes conultar en el sitio web oficial de la Se
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9IAFtBuWIxA?si=0UIcoEKMWpmB7mI_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * Póster presentado en el I Simposio Internacional de Prácticas de Restauración Ecológica y III Encuentro Nacional de Restauración Ecológica de la Argentina: 22, 23 y 24 de Noviembre de 2023 en la ciudad de Neuquén.
-<a href="https://drive.google.com/file/d/1n93JTNqv0p14ZTIOVLHUyoAZSAgL69lI/view?usp=sharing" target="_blank" download="poster REA">Póster en PDF 👈</a>
+<a href="https://drive.google.com/file/d/1WXu1HgIQlhDEJflUl7o6W9wIia3WH0VX/view?usp=sharing" target="_blank" download="poster REA">Póster en PDF 👈</a>
