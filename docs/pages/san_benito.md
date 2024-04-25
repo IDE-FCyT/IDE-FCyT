@@ -14,7 +14,7 @@ Se destaca el ambiente colaborativo que se compartió entre las instituciones. L
 
 ## Mapa Integrador 
 
-<img src="/images/San Benito mapa.jpg" width="700" height="500" />
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/San%20Benito%20mapa.jpg?raw=true" width="700" height="500" />
 
 ## Material Audiovisual 
 
@@ -27,4 +27,4 @@ Se destaca el ambiente colaborativo que se compartió entre las instituciones. L
 
 <a href="https://drive.google.com/file/d/1LVn_1HueopL33H2xEtibUyWUc0Laf-M5/view?usp=sharing" target="_blank" download="Informe Final">**Informe Final**</a>
 
- <img src="/images/imagne_SB.jpg" width="700" height="500" />
+ <img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/imagne_SB.jpg?raw=true" width="700" height="500" />
