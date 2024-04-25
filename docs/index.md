@@ -27,9 +27,6 @@ Asimismo, la IDE de la Facultad se complementa con la Infraestructura de Datos E
 IDERA </iframe>
 </center>
 
----
 
-<center>
-<iframe src = "https://www.entrerios.gov.ar/ideer/" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> 
-</iframe>
-</center>
+
+
