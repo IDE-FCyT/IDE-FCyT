@@ -10,5 +10,5 @@ Esta experiencia surge en el marco de la Facultad de Ciencia y Tecnología, como
 
 * XI Jornadas de Educación en Percepción Remota en el Ámbito del MERCOSUR: 20 años de educación en percepción remota y sistemas de información espacial. Temuco, 13 al 17 de Noviembre del 2017.
 
-<img src="IDE-FCyT/IDE-FCyT/images/poster_temuco.jpg" width="700" height="600" />
+<img src="/images/poster_temuco.jpg" width="700" height="600" />
 

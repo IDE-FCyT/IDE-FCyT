@@ -11,7 +11,7 @@ Las cuencas hidrográficas son unidades estratégicas para el Ordenamiento Terri
 
 * XII Jornadas de Educación en Percepción Remota en el Ámbito del MERCOSUR: Geoteconologías y educación: nuevos paradigmas para la gestión de un planeta cambiante. Buenos Aires, 11 al 15 de Noviembre del 2017.
 
-<img src="IDE-FCyT/IDE-FCyT/images/poster_paracao.jpg" width="700" height="600" />
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/poster_paracao.jpg?raw=true" width="700" height="600" />
 
 
 <a href="https://drive.google.com/file/d/1uLjlWpnqLyuavL0-w7j1CcYb1sg4ik2f/view?usp=sharing" target="_blank" download="Informe">**Descarga Artículo**</a>
