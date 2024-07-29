@@ -116,8 +116,8 @@ nav:
     - Algoritmo GEE plantaciones forestales: pages/algoritmo_GEE_forestal.md
     - Reserva Esc. Alberdi: pages/escuela_alberdi.md
     - Humedales: pages/Beca Doctoral.md
-    - Espinal: 
-     - PFI- Espinal - Aceñolaza: pages/cambio_uso_suelo.md
+    - Espinal:
+      - PFI- Espinal - Aceñolaza: pages/cambio_uso_suelo.md
     # - Análisis del cambio de uso del suelo y cambio climático en el Espinal: pages/cambio_uso_suelo.md
     - Articulación UADER-FCyT y San Benito "Espacios Verdes": pages/san_benito.md
     - Modelos de paisaje con TanGeoMS: pages/modelos_paisaje.md
