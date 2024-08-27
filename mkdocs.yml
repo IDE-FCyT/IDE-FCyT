@@ -122,4 +122,7 @@ nav:
     - Articulación UADER-FCyT y San Benito "Espacios Verdes": pages/san_benito.md
     - Modelos de paisaje con TanGeoMS: pages/modelos_paisaje.md
     - Contexto territorial cuenca Paracao: pages/paracao.md
+    - Publicaciones en la Jornadas de Ciencia y Tecnología "FCyT":
+      - Avances página web "Reserva Alberdi": pages/webRA.md
+      - Mapa web "Reservas Naturales de Entre Ríos": pages/mapaweb.md
   - Contacto: pages/contacto.md
