@@ -26,4 +26,4 @@ decisiones en políticas de conservación y manejo sostenible. Al facilitar el a
 detallada y precisa, se espera fomentar la protección y valorización de los recursos naturales del
 territorio provincial.
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Poster.QR.png" width="900" height="1000" />
+<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/mapaweb.png" width="900" height="1000" />
