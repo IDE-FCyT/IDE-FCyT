@@ -125,4 +125,5 @@ nav:
     - Publicaciones en la Jornadas de Ciencia y Tecnología "FCyT":
       - Avances página web "Reserva Alberdi": pages/webRA.md
       - Mapa web "Reservas Naturales de Entre Ríos": pages/mapaweb.md
+    - Ciclo de conversatorios y conferencias del CIDS: pages/cids.md
   - Contacto: pages/contacto.md
