@@ -1,5 +1,5 @@
 # Ciclo de conversatorios y conferencias del CIDS 
-
+---
 El ciclo de conversatorios y conferencias “Desde el diálogo de saberes al laboratorio a cielo abierto” es organizado por el CIDS y se enmarca dentro del programa Activá Territorio de la FCyT. 
 Uno de los objetivos del ciclo es compartir herramientas de gestión territorial ambiental desde una perspectiva transdisciplinar. Estos encuentros son fruto de investigaciones centradas en el desarrollo territorial con un enfoque en la sustentabilidad. Las investigaciones, ancladas en nuestra región, ofrecen metodologías cualitativas y cuantitativas que apuntan a un futuro común, productivo, cooperativo y ambientalmente sustentable. 
 Los encuentros son virtuales, no arancelados y requieren inscripción previa. Cada Conversatorio cuenta con certificado de participación.
