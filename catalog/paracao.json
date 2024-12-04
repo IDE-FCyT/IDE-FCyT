@@ -6,7 +6,7 @@
     ],
     "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
     "title": "Cuenca del Arroyo Paracao",
-    "description": "Aportes al Ordenamiento Territorial de la cuenca del arroyo Paracao",
+    "description": "Aportes al Ordenamiento Territorial de la cuenca del arroyo Paracao (Oro Verde, Entre Ríos)",
     "license": "CC-BY-4.0",
     "gee:type": "vector",
     "links": [
@@ -28,17 +28,17 @@
         {
             "title": "Cuenca del Arroyo Paracao",
             "rel": "related",
-            "href": "https://raw.githack.com/laura-santoni/OAT-cuenca-Paracao-Entre-Rios/main/SIG-cuenca-parcao/index.html#13/-31.8211/-60.5520",
+            "href": "https://raw.githack.com/laura-santoni/OAT-cuenca-Paracao-Entre-Rios/main/qgis2web_2024_12_03-20_59_13_746658/index.html",
             "type": "text/html",
             "code": "JavaScript"
         },
         {
-            "href": "https://raw.githubusercontent.com/laura-santoni/OAT-cuenca-Paracao-Entre-Rios/refs/heads/main/cuenca_paracao.png",
+            "href": "https://raw.githubusercontent.com/laura-santoni/OAT-cuenca-Paracao-Entre-Rios/main/iv-oro%20verde-2024.jpg?raw=true",
             "rel": "preview",
             "type": "image/png"
          },
          {
-            "href": "https://drive.google.com/drive/folders/1Km-t5zj83rgnCpP2bWlVDYyRSc4EZH_z",
+            "href": "https://drive.google.com/drive/folders/1-7ZI-KkWWx5Raa88OlsIHkImX2SOYDKo?usp=drive_link",
             "rel": "Link de descarga",
             "type": "application/zip"
          },
