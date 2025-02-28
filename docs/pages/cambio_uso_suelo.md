@@ -44,3 +44,15 @@ cambios en la cuenca, y factible de ser aplicada a nivel regional.
 doctorales y postdoctorales. Concordia, 26 de Abril de 2023.*
 
 <img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/presentacion_laura.jpg">
+
+<br>
+
+
+*¿Qué hacemos los investigadores de CONICET de la FCyT-Oro verde? Presentación oral de las líneas de investigación en Ciencias Biológicas. Propuesta de extensión organizada por la UADER. Oro Verde, 26 de Junio de 2024.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_4RKyJfWpo?si=_3jy-ZTQmjvFrsEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Nueva mirada sobre el monte nativo hoy. Propuesta de extensión organizada por la UADER. Federal, 6 de Septiembre de 2024.*
+<br>
+
+*Encuentro de doctorandos, presentación de trabajos y resultados de investigación. Concepción del Uruguay, 27 de Septiembre de 2024.*
