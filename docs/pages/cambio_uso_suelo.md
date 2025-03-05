@@ -39,7 +39,7 @@ cambios en la cuenca, y factible de ser aplicada a nivel regional.
 [Descargar la presentación 👈](https://drive.google.com/file/d/1fK1M2k_7MewME4o5wmfchyVzSv1PsuLj/view?usp=sharing)
 
 
-## **Presentación de la línea de trabajo y principales avances**
+## **Presentaciones de las líneas de trabajo y principales avances**
 * *Jornada Provincial de Difusión de Proyectos de Tesis y Líneas de Investigación
 doctorales y postdoctorales. Concordia, 26 de Abril de 2023.*
 
@@ -47,7 +47,7 @@ doctorales y postdoctorales. Concordia, 26 de Abril de 2023.*
 <br>
 
 
-* *¿Qué hacemos los investigadores de CONICET de la FCyT-Oro verde? Presentación oral de las líneas de investigación en Ciencias Biológicas. Propuesta de extensión organizada por la UADER. Oro Verde, 26 de Junio de 2024.*
+* *¿Qué hacemos los investigadores de CONICET de la FCyT-Oro verde? Presentación de las líneas de investigación en Ciencias Biológicas. Propuesta de extensión organizada por la UADER. Oro Verde, 26 de Junio de 2024.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W_4RKyJfWpo?si=_3jy-ZTQmjvFrsEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
