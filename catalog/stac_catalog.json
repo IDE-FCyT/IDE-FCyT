@@ -50,6 +50,12 @@
             "id": "users/geocis/BareSurfaces/BF_1980_2019",
             "title": "Reserva de usos múltiples Tierra Chaná",
             "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/chana.json"
+        },
+         {
+            "rel": "child",
+            "id": "users/geocis/BareSurfaces/BF_1980_2019",
+            "title": "Laguna Chalacatepec",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/laguna.json"
         }
     ]
 

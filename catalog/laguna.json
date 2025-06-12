@@ -1,0 +1,105 @@
+{
+    "stac_version": "1.0.0",
+    "type": "Collection",
+    "stac_extensions": [
+        "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
+    ],
+    "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
+    "title": "Laguna Chalacatepec, México",
+    "description": "Perímetro",
+    "license": "CC-BY-4.0",
+    "gee:type": "vector",
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/reserva_alberdi.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "title": "Laguna Chalacatepec, México",
+            "rel": "related",
+            "href": "https://rawcdn.githack.com/noelibaeza/laguna/7c40cb823401c01bccdb73ede6ed475d10783130/index.html",
+            "type": "text/html",
+            "code": "JavaScript"
+        },
+        {
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/images/tierraChana.jpg",
+            "rel": "preview",
+            "type": "image/png"
+         },
+           
+        {
+            "href": "https://drive.google.com/drive/folders/1Sdy0Cu9cYB8Kmgi1eeG4xTlM4P1l2dnS?usp=drive_link",
+            "rel": "Link de descarga",
+            "type": "application/zip"
+        },  
+       
+        {
+            "rel": "license",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
+        }
+    ],
+    "extent": {
+        "spatial": {
+            "bbox": [
+                [
+                    -105.2486,
+                    19.4850,
+                    -104.6433,
+                    19.9408
+                ]
+            ]
+        },
+        "temporal": {
+            "interval": [
+                [
+                    "2021-07-21T05:31:04.396719Z",
+                    "2021-07-21T05:31:04.396719Z"
+                ]
+            ]
+        }
+    },
+    "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
+    "gee:user_uploaded": true,
+    "keywords": [
+        "Laguna, México, zonificación, poligono"
+    ],
+    "providers": [
+        {
+            "name": "CEREGEO",
+            "roles": [
+                "producer",
+                "licensor"
+            ]
+        },
+        {
+            "name": "Centro Regional de Geomática",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Virginia Piani",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Noeli Baeza",
+            "roles": [
+                "processor"
+            ]
+        }
+        
+    ]
+}
