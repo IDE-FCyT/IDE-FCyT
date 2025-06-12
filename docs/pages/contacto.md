@@ -1,9 +1,7 @@
 ![Logo FCYT-UADER](https://raw.githubusercontent.com/Ceregeo/Ceregeo/main/docs/images/logofcyt1.png "FCYT-UADER")
 
-
----
 # Infraestructura de Datos Espaciales - IDE
----
+
 La **Facultad de Ciencia y Tecnología** pertenece a la **Universidad Autónoma de Entre Ríos**, es una institución pública de educación superior, creada en el año 2000 y abocada a la formación de docentes en disciplinas científicas, así como a la enseñanza de la ciencia y las tecnologías.
 
 ### **Misión**
@@ -21,11 +19,17 @@ formación superior al interior de la provincia, teniendo en cuenta sus caracter
 
 Cuenta con 11 sedes, dos extensiones áulicas y dos escuelas pre-universitarias: el Colegio del Uruguay “Justo José de Urquiza”, ubicado en la ciudad de Concepción del Uruguay; y la Escuela Técnica Nº 35 en la ciudad de Crespo.
 
-#### Ubicación Sede Central Oro Verde
+### Ubicación Sede Central Oro Verde
 
-<iframe src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3389.663707405235!2d-60.524107684841645!3d-31.834149981266922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b44b973b15bedd%3A0xa59a2314fe8063f2!2sFacultad%20de%20Ciencia%20y%20Tecnolog%C3%ADa%20(UADER)!5e0!3m2!1ses-419!2sar!4v1651150690872!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> </iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6779.327413434335!2d-60.521919!3d-31.83415!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b44b973b15bedd%3A0xa59a2314fe8063f2!2sFacultad%20de%20Ciencia%20y%20Tecnolog%C3%ADa%20(UADER)!5e0!3m2!1ses-419!2sar!4v1749747662227!5m2!1ses-419!2sar" 
+style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+allowfullscreen="" loading="lazy"></iframe>
+</div>
+
 
 ---
+## Consultas
 
-[Send :Acceso web oficial FCYT-UADER:](http://fcyt.uader.edu.ar/web/ "WEB FCYT-UADER")
-
+📧 fcyt_ide@uader.edu.ar  
+🌐 [Web oficial FCYT-UADER](https://fcyt.uader.edu.ar/)
