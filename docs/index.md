@@ -21,11 +21,9 @@ Sin embargo, muchas veces esta información no se encuentra accesible para quien
 
 
 
-Asimismo, la IDE de la Facultad se complementa con la Infraestructura de Datos Espaciales de la Provincia de Entre Ríos <a href = "https://www.entrerios.gov.ar/ideer/">(IDEER)</a> y a la Infraestructura de Datos Espaciales de la República Argentina <a href = "https://www.idera.gob.ar/" > (IDERA) </a>.
-<center>
-<iframe src= "https://www.idera.gob.ar/" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> 
-IDERA </iframe>
-</center>
+Asimismo, la IDE de la Facultad se complementa con la Infraestructura de Datos Espaciales de la República Argentina <a href = "https://www.idera.gob.ar/" > (IDERA) </a>.
+
+
 
 
 

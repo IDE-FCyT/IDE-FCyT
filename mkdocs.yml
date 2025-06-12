@@ -9,7 +9,7 @@ repo_url: https://github.com/IDE-FCyT/IDE-FCyT
 edit_uri: ./edit/main/docs
 
 # Copyright
-copyright: 'Copyright &copy; 2021 - 2022 Fernando Tentor'
+copyright: 'Copyright &copy; 2021 - IDE FCyT UADER'
 
 theme:
   name: material
@@ -49,7 +49,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/samapriya
+      link: https://github.com/IDE-FCyT
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/fcyt.uader/?hl=es
     - icon: fontawesome/solid/paper-plane
@@ -106,24 +106,33 @@ nav:
   - Introducción: index.md
   - Indicaciones de uso: pages/Indicaciones_de_uso.md
   - Acerca de la IDE - FCyT/UADER: pages/acerca.md
-  - Catalogo: pages/catalogo.md
-  - Capas de la IDE:
-    - Hansen Bosque: pages/handsen.md
+  - Catálogo de datos: pages/catalogo.md
+  # - Capas de :la IDE
+  #   - Hansen Bosque: pages/handsen.md
   - Proyectos:
-    - Incendio Isla Puente: pages/incendioislapuente.md
-    - Vulnerabilidad Delta del Paraná: pages/VulnerabilidadDeltadelParaná.md
-    - Aplicaciones de Tecnologías de Información Geográfica: pages/Morante.md
-    - Algoritmo GEE plantaciones forestales: pages/algoritmo_GEE_forestal.md
-    - Reserva Esc. Alberdi: pages/escuela_alberdi.md
-    - Humedales: pages/Beca Doctoral.md
-    - Espinal:
-      - Análisis del cambio de uso del suelo y cambio climático en el Espinal: pages/cambio_uso_suelo.md
-      - PFI- Espinal - Aceñolaza: pages/espinal_pfi.md
-    - Articulación UADER-FCyT y San Benito "Espacios Verdes": pages/san_benito.md
-    - Modelos de paisaje con TanGeoMS: pages/modelos_paisaje.md
-    - Contexto territorial cuenca Paracao: pages/paracao.md
-    - Publicaciones en la Jornadas de Ciencia y Tecnología "FCyT":
+    - Proyecto por ecosistema/región:
+      - Delta del Paraná:
+        - Vulnerabilidad del Delta: pages/VulnerabilidadDeltadelParaná.md
+        - Incendios e Islas: pages/incendioislapuente.md
+      - Región del Espinal:
+        - Cambio de uso del suelo: pages/cambio_uso_suelo.md
+        - Proyecto PFI Aceñolaza: pages/espinal_pfi.md
+      - Humedales:
+        - Investigación doctoral en humedales: pages/Beca Doctoral.md
+    - Proyecto por línea tématica:
+      - Gestión forestal:
+        - Algoritmo GEE plantaciones forestales: pages/algoritmo_GEE_forestal.md
+        - Proyecto Hansen Bosque: pages/handsen.md
+      - Modelado y tecologías:
+        - Aplicaciones de Tecnologías de Información Geográfica: pages/Morante.md
+        - Modelos de paisaje con TanGeoMS: pages/modelos_paisaje.md
+    - Proyectos intitucionales y territoriales:
+      - Reserva Esc. Alberdi: pages/escuela_alberdi.md
+      - Contexto territorial cuenca Paracao: pages/paracao.md
+      - Articulación UADER-FCyT y San Benito "Espacios Verdes": pages/san_benito.md
+  - Resultados y divulgación:
+    - Publicaciones científicas:
       - Avances página web "Reserva Alberdi": pages/webRA.md
       - Mapa web "Reservas Naturales de Entre Ríos": pages/mapaweb.md
-    - Ciclo de conversatorios y conferencias del CIDS: pages/cids.md
+  - Cilco de conversatorios y conferencias (CIDS): pages/cids.md
   - Contacto: pages/contacto.md
