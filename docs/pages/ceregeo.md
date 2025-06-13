@@ -1,3 +1,4 @@
+
 <center>
  <img src = https://raw.githubusercontent.com/Ceregeo/Ceregeo/main/docs/images/logoceregeo.jpeg alt = "CeReGEO" width="70%" height="70%" ></img>
 </center> 
