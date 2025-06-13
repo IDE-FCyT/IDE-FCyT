@@ -15,8 +15,6 @@ theme:
   name: material
   logo: images/IDE_LOGO.svg
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
     - toc.integrate 
 
   # 404 page
