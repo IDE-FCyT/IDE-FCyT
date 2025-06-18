@@ -26,7 +26,7 @@
             "type": "application/json"
         },
         {
-            "title": "Reserva de usos múltiples Tierra Chaná",
+            "title": "Visualizar datos en el mapa",
             "rel": "related",
             "href": "https://rawcdn.githack.com/noelibaeza/TierraChana/a7eda8aab1079704fc5ea927144d25ee4340bc85/qgis2web/index.html",
             "type": "text/html",

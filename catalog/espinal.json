@@ -26,7 +26,7 @@
             "type": "application/json"
         },
         {
-            "title": "Caracterización de la ecorregión Espinal",
+            "title": "Visualizar datos en el mapa",
             "rel": "related",
             "href": "https://rawcdn.githack.com/noelibaeza/espinal/d69c5094615db40886ff9bbd08b0e357f07d76af/index.html",
             "type": "text/html",
@@ -46,7 +46,14 @@
         {
             "rel": "license",
             "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
+        },
+         {
+            "rel": "about",
+            "href": "https://drive.google.com/file/d/1lbM_zfnVMKavMT0HWWMEs6DtyzE8b_34/view?usp=sharing",
+            "title": "Metadatos detallados (PDF)",
+            "type": "application/pdf"
         }
+
     ],
     "extent": {
         "spatial": {

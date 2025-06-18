@@ -26,7 +26,7 @@
             "type": "application/json"
         },
         {
-            "title": "Sistema de Áreas Naturales Protegidas de Entre Ríos",
+            "title": "Visualizar datos en el mapa",
             "rel": "related",
             "href": "https://raw.githack.com/noelibaeza/APNER/main/index.html#7/-31.473/-60.203",
             "type": "text/html",

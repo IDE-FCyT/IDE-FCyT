@@ -26,7 +26,7 @@
             "type": "application/json"
         },
         {
-            "title": "Unidades Académicas UADER",
+            "title": "Visualizar datos en el mapa",
             "rel": "related",
             "href": "https://raw.githack.com/noelibaeza/unidades_academicas/main/qgis2web/index.html",
             "type": "text/html",

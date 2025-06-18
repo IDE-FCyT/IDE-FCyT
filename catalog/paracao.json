@@ -26,7 +26,7 @@
             "type": "application/json"
         },
         {
-            "title": "Cuenca del Arroyo Paracao",
+            "title": "Visualizar datos en el mapa",
             "rel": "related",
             "href": "https://raw.githack.com/laura-santoni/OAT-cuenca-Paracao-Entre-Rios/main/qgis2web_2024_12_03-20_59_13_746658/index.html",
             "type": "text/html",

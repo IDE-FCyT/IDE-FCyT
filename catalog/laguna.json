@@ -6,7 +6,7 @@
     ],
     "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
     "title": "Laguna Chalacatepec, México",
-    "description": "Perímetro",
+    "description": "Ubicación y perímetro de la laguna de Chalacatepec",
     "license": "CC-BY-4.0",
     "gee:type": "vector",
     "links": [
@@ -26,7 +26,7 @@
             "type": "application/json"
         },
         {
-            "title": "Laguna Chalacatepec, México",
+            "title": "Visualizar datos en el mapa",
             "rel": "related",
             "href": "https://rawcdn.githack.com/noelibaeza/laguna/7c40cb823401c01bccdb73ede6ed475d10783130/index.html",
             "type": "text/html",
