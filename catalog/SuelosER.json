@@ -27,7 +27,7 @@
         },
         {
             "title": "Visualizar datos en el mapa",
-            "rel": "related",
+            "rel": "about",
             "href": "https://ftentoru.users.earthengine.app/view/cartasueloser",
             "type": "text/html",
             "code": "JavaScript"

@@ -27,7 +27,7 @@
         },
         {
             "title": "Visualizar datos en el mapa",
-            "rel": "related",
+            "rel": "about",
             "href": "https://rawcdn.githack.com/noelibaeza/espinal/d69c5094615db40886ff9bbd08b0e357f07d76af/index.html",
             "type": "text/html",
             "code": "JavaScript"
@@ -38,8 +38,9 @@
             "type": "image/png"
          },
          {
+            "rel": "about",
             "href": "https://drive.google.com/drive/u/1/folders/1T8xjyB4B4d8IO6eITo9XgsH9Qci1-PMG",
-            "rel": "Link de descarga",
+            "title": "Link descarga de datos",
             "type": "application/zip"
          },
        

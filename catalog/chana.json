@@ -27,7 +27,7 @@
         },
         {
             "title": "Visualizar datos en el mapa",
-            "rel": "related",
+            "rel": "about",
             "href": "https://rawcdn.githack.com/noelibaeza/TierraChana/a7eda8aab1079704fc5ea927144d25ee4340bc85/qgis2web/index.html",
             "type": "text/html",
             "code": "JavaScript"
@@ -39,8 +39,9 @@
          },
            
         {
+            "rel": "about",
             "href": "https://drive.google.com/drive/folders/1Sdy0Cu9cYB8Kmgi1eeG4xTlM4P1l2dnS?usp=drive_link",
-            "rel": "Link de descarga",
+            "title": "Link descarga de datos",
             "type": "application/zip"
         },  
        

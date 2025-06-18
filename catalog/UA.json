@@ -27,7 +27,7 @@
         },
         {
             "title": "Visualizar datos en el mapa",
-            "rel": "related",
+            "rel": "about",
             "href": "https://raw.githack.com/noelibaeza/unidades_academicas/main/qgis2web/index.html",
             "type": "text/html",
             "code": "JavaScript"
@@ -38,8 +38,9 @@
             "type": "image/png"
          },
          {
+            "rel": "about",
             "href": "https://github.com/noelibaeza/unidades_academicas_UADER/blob/main/uni_uader.zip?raw=true",
-            "rel": "Link de descarga",
+            "title": "Link descarga de datos",
             "type": "application/zip"
          },
         {

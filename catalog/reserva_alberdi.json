@@ -27,7 +27,7 @@
         },
         {
             "title": "Visualizar datos en el mapa",
-            "rel": "related",
+            "rel": "about",
             "href": "https://rawcdn.githack.com/noelibaeza/reserva_alberdi/f57958980a8151b08545d833ff2a8a3309bc3e9b/qgis2web_2023_03_27-22_22_27_662008/index.html",
             "type": "text/html",
             "code": "JavaScript"
