@@ -38,8 +38,9 @@
             "type": "image/png"
          },
          {
+            "rel": "about",
             "href": "https://drive.google.com/drive/folders/1SS-oOhWny0Yn06zqR9gvLOXaJ22Zg3Od?usp=drive_link",
-            "rel": "Link de descarga",
+            "title": "Link descarga de datos",
             "type": "application/zip"
          },
        
