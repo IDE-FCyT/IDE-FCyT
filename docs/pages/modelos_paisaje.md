@@ -37,9 +37,9 @@ Esta experiencia surge en el marco de la Facultad de Ciencia y Tecnología, como
 
 ## Taller: "Explorando se aprende"
 
-**Fecha** : 29/05/2025 
+**Fecha** : 29/05/2025.
 
-**Lugar** : Centro Provincial de Convenciones (CPC) Paraná, Entre Ríos.
+**Lugar** : Centro Provincial de Convenciones (CPC) Paraná, Entre Ríos. 
 
 Durante el evento, CeReGeo presentó la herramienta **Tangible Landscape** en el marco del taller titulado *"Explorando se aprende"*. El objetivo fue concientizar sobre la importancia de conocer el territorio para prevenir potenciales desastres naturales como inundaciones, deslizamientos y otros fenómenos geográficos.
 
