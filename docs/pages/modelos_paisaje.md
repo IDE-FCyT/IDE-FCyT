@@ -43,4 +43,6 @@ Durante el evento, CeReGeo presentó la herramienta **Tangible Landscape** en el
 
 Además de su valor como herramienta de simulación avanzada, se destacó su potencial **didáctico**, ideal para ser utilizada en escuelas y espacios educativos con el fin de sensibilizar a estudiantes de toda la provincia sobre la importancia de entender su entorno natural.
 
+<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Campus%20Party-218-ide.jpg" width="800" height="600" />
+
 ---
