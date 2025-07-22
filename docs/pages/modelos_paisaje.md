@@ -28,3 +28,19 @@ Esta experiencia surge en el marco de la Facultad de Ciencia y Tecnología, como
 
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/poster_temuco.jpg?raw=true" width="700" height="600" />
 
+
+## **Presentaciones a eventos**
+
+### **Campus Party**
+
+**Campus Party** es un evento que reúne conferencias, talleres, experiencias y todas las novedades del mundo tecnológico en una verdadera maratón de contenido e innovación.
+
+## Taller: "Explorando se aprende"
+
+Durante el evento, CeReGeo presentó la herramienta **Tangible Landscape** en el marco del taller titulado *"Explorando se aprende"*. El objetivo fue concientizar sobre la importancia de conocer el territorio para prevenir potenciales desastres naturales como inundaciones, deslizamientos y otros fenómenos geográficos.
+
+**Tangible Landscape** es una interfaz tangible interactiva que permite modelar el relieve físico en tiempo real, brindando una experiencia inmersiva donde los participantes pueden comprender cómo los cambios en la topografía afectan al comportamiento del agua y otros procesos del paisaje. A través de esta dinámica, el público exploró directamente los efectos de sus propias modificaciones en el terreno, promoviendo una comprensión activa y visual del territorio.
+
+Además de su valor como herramienta de simulación avanzada, se destacó su potencial **didáctico**, ideal para ser utilizada en escuelas y espacios educativos con el fin de sensibilizar a estudiantes de toda la provincia sobre la importancia de entender su entorno natural.
+
+---
