@@ -1,69 +1,75 @@
-
-# 🌍 Tangible Landscape: interfaz tangible para el modelado geoespacial
+# 🏔️ Tangible Landscape: interfaz tangible para el modelado geoespacial
 ---
 
-**Tangible Landscape** es una interfaz tangible de código abierto promovida por *GRASS GIS* y *Blender*. Es una herramienta que permite el modelado de paisajes a través de una interacción directa entre el modelador y el software, donde un cambio en el modelo físico impulsado por el operario es inmediatamente representado en el modelo digital.
-
-De esta manera, los Sistemas de Información Geográfica (SIG) y el modelado 3D se vuelven conceptos y prácticas más intuitivos, con grandes potencialidades para hacer más accesible o reforzar procesos de aprendizaje tanto para principiantes como para expertos.
-
-Diversos grupos en el mundo hacen uso de esta herramienta. El **Centro Regional de Geomática (CeReGeo)** de la *FCyT-UADER* es un grupo referente en la región, y ha implementado **TanGeoMS** con éxito en variadas experiencias de investigación, docencia y extensión universitarias.
-
-📎 [**Acceso a la página oficial**](https://tangible-landscape.github.io/index.html)
+**Autores:** Tentor F. R., Sione W., Zamboni L. P., Maldonado F., Díaz S., Collado F., Baeza N., Vivas F., Bordignón F.  
+**Institución:** FCyT - UADER, CeReGeo  
+**Ubicación geográfica:** Paraná, Entre Ríos, Argentina  
+**Año:** 2017–2025
 
 ---
 
-## 🌐 Grupos de implementación del Paisaje Tangible
+## 📝 Descripción general
 
-<iframe width="700" height="500" style="border:none" src="https://tangible-landscape.github.io/map.html"></iframe>
+**Tangible Landscape** es una interfaz tangible de código abierto desarrollada en el entorno de *GRASS GIS* y *Blender*. Permite el modelado de paisajes mediante la interacción directa entre un modelo físico (hecho a escala) y su representación digital en tiempo real. La herramienta combina hardware accesible (proyector, scanner 3D, PC, relieve físico) con software libre.
 
----
+Su implementación convierte a los SIG y el modelado 3D en herramientas más intuitivas y accesibles, permitiendo aplicaciones en educación, investigación, extensión y gestión ambiental.
 
-## 🎓 Presentaciones a congresos
+El grupo **CeReGeo** de la *FCyT-UADER* ha adaptado esta herramienta mediante el modelo **TanGeoMS**, con resultados exitosos en talleres, congresos y formación académica.
 
-### 📍 *Implementación del “Tangible Landscape” como instrumento para la percepción y modelado del terreno*
-
-**Evento:**  
-*XI Jornadas de Educación en Percepción Remota en el Ámbito del MERCOSUR: 20 años de educación en percepción remota y sistemas de información espacial*.  
-*Temuco, 13 al 17 de noviembre del 2017.*
-
-**Autores:**  
-*Tentor F. R., Sione W., Zamboni L. P., Maldonado F., Díaz S., Collado F., Baeza N., Vivas F. y Bordignón F.*
+🔗 [Acceso a la página oficial de Tangible Landscape](https://tangible-landscape.github.io/index.html)
 
 ---
 
-### **📝 Resumen**
+## 🌐 Mapa de grupos de implementación
 
-Esta experiencia surge en el marco de la Facultad de Ciencia y Tecnología, como parte de las carreras de *Lic. en Sistemas de Información, Lic. en Biología, Lic. en Producción Agropecuaria* y de la *Maestría en Geomática aplicada a la gestión de riesgos ambientales*.
-
-El objetivo fue construir una herramienta tecnológica interactiva que facilite y asista el proceso de enseñanza-comprensión de geo-algoritmos computacionales aplicados sobre modelos de elevación a escala, utilizando *software open source* y componentes de bajo costo. De esta manera se abordan enfoques teóricos-metodológicos de diferentes disciplinas y problemáticas.
-
-El modelo **TanGeoMS** fue desarrollado por el *Laboratorio de educación e investigación geográfica* de la *Universidad Estatal de Carolina del Norte* para el análisis de los cambios del terreno y sus impactos, incorporándolos a un entorno SIG.
-
-La herramienta, denominada **Terreno Perceptible (TP)**, permite interactuar con modelos tangibles y representar en forma de simulaciones los resultados en tiempo real. Está conformada por un *scanner 3D, proyector, PC y modelo físico de relieve a escala*. Está basada en un sistema operativo Linux con *Grass-GIS* y librerías de código abierto, lo que la hace replicable a bajo costo y sin licencias privativas.
-
-TP facilita la comprensión de modelos de erosión, deposición de suelo, inundaciones, dispersión de fuego, análisis geomorfológico y visualización del paisaje, promoviendo el análisis participativo y la toma de decisiones informadas.
-
-<p align="center">
-  <img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/poster_temuco.jpg?raw=true" width="700" height="600" alt="Poster Temuco"/>
-</p>
+<iframe width="850" height="600" style="border:0;" src="https://tangible-landscape.github.io/map.html"></iframe>
 
 ---
 
-## 🌟 Presentaciones a eventos
+## 🎓 Participación en congresos
 
-### **🎪 Campus Party — Taller "Explorando se aprende"**
+### 📍 Implementación del “Tangible Landscape” como instrumento para la percepción y modelado del terreno  
+**Evento:** XI Jornadas de Educación en Percepción Remota en el Ámbito del MERCOSUR — *20 años de educación en percepción remota y sistemas de información espacial*  
+**Lugar y fecha:** Temuco, Chile — 13 al 17 de noviembre de 2017
 
-**📅 Fecha:** 29/05/2025  
+---
+
+## 🧪 Resumen de la experiencia
+
+Esta implementación se enmarcó en carreras como *Lic. en Sistemas de Información, Lic. en Biología, Producción Agropecuaria* y la *Maestría en Geomática*. Se propuso desarrollar una herramienta de enseñanza para comprender geoalgoritmos aplicados a modelos de elevación, con software libre y componentes de bajo costo.
+
+La herramienta, denominada **Terreno Perceptible (TP)**, permite simular en tiempo real procesos como:
+
+- erosión y deposición del suelo  
+- inundaciones  
+- propagación de fuego  
+- análisis geomorfológico y visualización del paisaje  
+
+Todo esto se proyecta sobre el modelo físico, fomentando una experiencia inmersiva, colaborativa y educativa.
+
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/poster_temuco.jpg?raw=true" width="850" alt="Poster Temuco" />
+
+---
+
+## 🎪 Evento destacado: Campus Party — Taller "Explorando se aprende"
+
+**📅 Fecha:** 29 de mayo de 2025  
 **📍 Lugar:** Centro Provincial de Convenciones (CPC), Paraná, Entre Ríos
 
-Durante el evento, **CeReGeo** presentó la herramienta **Tangible Landscape** en el marco del taller titulado *"Explorando se aprende"*. El objetivo fue concientizar sobre la importancia de conocer el territorio para prevenir potenciales desastres naturales como inundaciones, deslizamientos y otros fenómenos geográficos.
+Durante el evento, **CeReGeo** presentó Tangible Landscape para sensibilizar sobre fenómenos naturales como inundaciones y deslizamientos. La herramienta permitió al público simular cambios topográficos y analizar el comportamiento del agua en tiempo real.
 
-**Tangible Landscape** ofrece una experiencia inmersiva que permite modelar el relieve físico en tiempo real, comprendiendo cómo los cambios topográficos afectan el comportamiento del agua y otros procesos del paisaje.
+Se destacó su valor **educativo**, siendo ideal para enseñar geografía, ciencias naturales y análisis territorial en contextos escolares y académicos.
 
-Además de su valor como herramienta de simulación avanzada, se destacó su potencial **didáctico**, ideal para utilizarse en escuelas y espacios educativos para sensibilizar a estudiantes sobre la importancia de entender su entorno natural.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Campus%20Party-218-ide.jpg" width="800" height="600" alt="Campus Party"/>
-</p>
+<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Campus%20Party-218-ide.jpg" width="850" alt="Campus Party" />
 
 ---
+
+## 🏷️ Metadatos
+
+| Campo                  | Valor                                                                  |
+|------------------------|------------------------------------------------------------------------|
+| **Tema**               | Modelado geoespacial, herramientas tangibles, SIG, educación ambiental |
+| **Tipo de proyecto**   | Taller de extensión / Presentación científica / Tecnología educativa   |
+| **Palabras clave**     | Tangible Landscape, GRASS GIS, participación, geomática, CeReGeo       |
+| **Formato de imagen**  | JPG                                                                    |
+| **Licencia**           | CC BY-SA 4.0                                                            |
