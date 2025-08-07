@@ -120,7 +120,7 @@ nav:
         - Cambio de uso del suelo: pages/cambio_uso_suelo.md
         - Proyecto PFI Aceñolaza: pages/espinal_pfi.md
       - Humedales:
-        - Investigación doctoral en humedales: pages/Beca Doctoral.md
+        - Investigación doctoral en humedales: pages/humedales.md
     - Proyecto por línea tématica:
       - Gestión forestal:
         - Algoritmo GEE plantaciones forestales: pages/algoritmo_GEE_forestal.md

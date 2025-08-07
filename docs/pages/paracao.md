@@ -1,17 +1,53 @@
-# Contexto territorial de la cuenca del arroyo Paracao desde una perspectiva de conservación  ecosistémica y gestión estratégica de los recursos naturales
+# 🏞️ Contexto territorial de la cuenca del arroyo Paracao desde una perspectiva de conservación ecosistémica y gestión estratégica de los recursos naturales
 ---
 
-***Laura Santoni y Zamboni Pamela***
+**Autores:** Laura Santoni, Pamela Zamboni  
+**Institución:** FCyT - UADER  
+**Ubicación geográfica:** Cuenca del arroyo Paracao, Oro Verde, Entre Ríos, Argentina  
+**Año:** 2017–2018
 
-## **Resumen**
+---
 
-Las cuencas hidrográficas son unidades estratégicas para el Ordenamiento Territorial (OT), y dentro de ellas los bosques nativos contribuyen a la conservación de sus funciones ecosistémicas. La ciudad de Oro Verde se caracteriza por la presencia de arroyos y espacios verdes con remanentes de bosque nativo. Esta información es importante para la gestión local del territorio. En este trabajo, se delimitó la cuenca del arroyo Paracao (2680 has) utilizando Modelos Digitales de Elevación, y se caracterizó la cobertura del suelo a partir de dos técnicas de clasificación de imágenes SENTINEL 2. Mediante clasificación no supervisada, se identificaron áreas con bosques (29% de la superficie de la cuenca), vegetación herbácea (66%) y sin cobertura vegetal (5%) (confianza de 71%). Y por medio de una clasificación supervisada (serie anual 2018 en Google Earth Engine), se discriminaron áreas con bosque (18%) y sin bosque (82%) (confianza de 98%). Los bosques nativos se presentaron asociados a los cursos de agua y cubren mayor superficie hacia el oeste del área estudiada (zonas menos urbanizadas y más cercanas al río Paraná). Se obtuvo cartografía temática con potencial aplicación al OT de la cuenca del arroyo Paracao.
+## 📝 Resumen
 
-## **Presentaciones a congresos**
+Las cuencas hidrográficas son unidades clave para el **Ordenamiento Territorial (OT)**. En ellas, los bosques nativos juegan un papel central en la conservación de funciones ecosistémicas. Este trabajo estudia la **cuenca del arroyo Paracao** (2680 ha), ubicada en la ciudad de Oro Verde, Entre Ríos.
 
-* XII Jornadas de Educación en Percepción Remota en el Ámbito del MERCOSUR: Geoteconologías y educación: nuevos paradigmas para la gestión de un planeta cambiante. Buenos Aires, 11 al 15 de Noviembre del 2017.
+Se utilizó un **Modelo Digital de Elevación (MDE)** para la delimitación de la cuenca y se aplicaron dos técnicas de clasificación sobre imágenes Sentinel-2 (año 2018):
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/poster_paracao.jpg?raw=true" width="700" height="600" />
+- **Clasificación no supervisada:**  
+  - Bosques: 29%  
+  - Vegetación herbácea: 66%  
+  - Sin cobertura vegetal: 5%  
+  - Precisión: 71%
 
+- **Clasificación supervisada en Google Earth Engine:**  
+  - Bosques: 18%  
+  - Sin bosque: 82%  
+  - Precisión: 98%
 
-<a href="https://drive.google.com/file/d/1uLjlWpnqLyuavL0-w7j1CcYb1sg4ik2f/view?usp=sharing" target="_blank" download="Informe">**Descarga Artículo**</a>
+Los bosques nativos se ubican principalmente en el oeste de la cuenca, en zonas menos urbanizadas y cercanas al río Paraná. Se obtuvo **cartografía temática** de valor para la gestión ambiental y la planificación local.
+
+---
+
+## 🎓 Presentaciones a congresos
+
+**Evento:**  
+*XII Jornadas de Educación en Percepción Remota en el Ámbito del MERCOSUR*  
+*Título:* *Geotecnologías y educación: nuevos paradigmas para la gestión de un planeta cambiante*  
+*Lugar y fecha:* Buenos Aires, 11 al 15 de Noviembre de 2017
+
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/poster_paracao.jpg?raw=true" width="850" alt="Póster Paracao" />
+
+📎 [Descargar artículo](https://drive.google.com/file/d/1uLjlWpnqLyuavL0-w7j1CcYb1sg4ik2f/view?usp=sharing)
+
+---
+
+## 🏷️ Metadatos
+
+| Campo                  | Valor                                                                 |
+|------------------------|-----------------------------------------------------------------------|
+| **Tema**               | Cuencas hidrográficas, ordenamiento territorial, clasificación de cobertura |
+| **Tipo de proyecto**   | Trabajo de investigación / Cartografía temática                       |
+| **Palabras clave**     | Paracao, Sentinel-2, bosque nativo, clasificación, GEE                |
+| **Formato de imagen**  | JPG, PDF                                                              |
+| **Licencia**           | CC BY-SA 4.0                                                           |
