@@ -1,107 +1,103 @@
 {
-    "stac_version": "1.0.0",
-    "type": "Collection",
-    "stac_extensions": [
-        "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
-    ],
-    "id": "IDE-FCyT/IDE-FCyT/main/catalog/SuelosER.json",
-    "title": "Carta de Suelo ER - INTA",
-    "description": "Carta de Suelo ER - INTA",
-    "license": "CC-BY-4.0",
-    "gee:type": "vector",
-    "links": [
-        {
-            "rel": "self",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/SuelosER.json",
-            "type": "application/json"
-        },
-        {
-            "rel": "parent",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
-            "type": "application/json"
-        },
-        {
-            "rel": "root",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
-            "type": "application/json"
-        },
-        {
-            "title": "Visualizar datos en el mapa",
-            "rel": "about",
-            "href": "https://ftentoru.users.earthengine.app/view/cartasueloser",
-            "type": "text/html",
-            "code": "JavaScript"
-        },
-        {
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Captura_cartaER.png",
-            "rel": "preview",
-            "type": "image/png"
-         },
-        {
-            "rel": "license",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
-        }
-    ],
-    "extent": {
-        "spatial": {
-            "bbox": [
-                [
-                    -61.0648,
-                    -34.15252,
-                    -57.54923,
-                    -29.93567
-                ]
-            ]
-        },
-        "temporal": {
-            "interval": [
-                [
-                    "2021-07-21T05:31:04.396719Z",
-                    "2021-07-21T05:31:04.396719Z"
-                ]
-            ]
-        }
+  "stac_version": "1.0.0",
+  "type": "Collection",
+  "stac_extensions": [],
+  "id": "carta-suelos-er-inta",
+  "title": "Carta de Suelos de Entre Ríos - INTA",
+  "description": "Carta de Suelos de la provincia de Entre Ríos (INTA). Conjunto vectorial publicado para consulta y descarga.",
+  "license": "CC-BY-4.0",
+
+  "gee:type": "vector",
+  "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
+  "gee:user_uploaded": true,
+
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/SuelosER.json",
+      "type": "application/json"
     },
-    "properties": {
-        "datetime": "2018-06-05T10:00:27Z",
-        "gsdo": 10,
-        "proj:epsg": 4326},
-    "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
-    "gee:user_uploaded": true,
-    "keywords": [
-        "Soil grid, Entre Rios, Soil, Coarse"
-    ],
-    "providers": [
-        {
-            "name": "INTA",
-            "roles": [
-                "producer",
-                "licensor"
-            ]
-        },
-        {
-            "name": "Centro Regional de Geomática",
-            "roles": [
-                "processor"
-            ]
-        },
-        {
-            "name": "Fernando Tentor",
-            "roles": [
-                "processor"
-            ]
-        },
-        {
-            "name": "Noeli Baeza",
-            "roles": [
-                "processor"
-            ]
-        },
-        {
-            "name": "Facundo Boladera",
-            "roles": [
-                "processor"
-            ]
-        }
-    ]
+    {
+      "rel": "parent",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "title": "Visualizar datos en el mapa",
+      "rel": "about",
+      "href": "https://ftentoru.users.earthengine.app/view/cartasueloser",
+      "type": "text/html"
+    },
+    {
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/images/Captura_cartaER.png",
+      "rel": "preview",
+      "type": "image/png"
+    },
+    {
+      "rel": "license",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/LICENSE",
+      "type": "text/plain"
+    }
+  ],
+
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -61.0648,
+          -34.15252,
+          -57.54923,
+          -29.93567
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2021-07-21T05:31:04Z",
+          null
+        ]
+      ]
+    }
+  },
+
+  "summaries": {
+    "proj:epsg": [4326]
+  },
+
+  "keywords": [
+    "suelos",
+    "Entre Ríos",
+    "INTA",
+    "carta de suelos",
+    "vectorial"
+  ],
+
+  "providers": [
+    {
+      "name": "INTA",
+      "roles": ["producer", "licensor"]
+    },
+    {
+      "name": "Centro Regional de Geomática (CEREGeo)",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Fernando Tentor",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Noeli Baeza",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Facundo Boladeras",
+      "roles": ["processor"]
+    }
+  ]
 }
