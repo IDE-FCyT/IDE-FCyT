@@ -1,0 +1,98 @@
+/* Centrar y escalar imágenes */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tablas más limpias */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Aumentar tamaño del contenido general */
+.md-typeset {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+/* Titulares con espacio */
+h1, h2, h3 {
+  margin-top: 2em;
+}
+
+
+/* Expandir el contenedor del header al 100% del ancho de la pantalla */
+.md-header__inner,
+.md-tabs {
+  max-width: 100% !important;
+  width: 100% !important;
+  flex-wrap: wrap; /* Permite que los tabs bajen de línea si es necesario */
+}
+
+/* Expandir el botón de menú (≡) al 100% si es necesario */
+.md-header__button {
+  flex: 0 0 auto;
+  margin-right: auto;
+}
+
+
+
+/* Ajustar el icono dentro del botón */
+.md-header__button.md-icon {
+  width: auto;
+  max-width: 100%;
+}
+
+/* Título principal inyectado por MkDocs Material */
+.md-content__title {
+  text-align: left;       /* O center, right */
+  font-size: 1.8rem;       /* Tamaño a gusto */
+  margin-left: 0;          /* Alineación izquierda */
+  margin-bottom: 1.5rem;   /* Espaciado */
+  color: #333333;          /* Color opcional */
+  font-weight: bold;       /* Negrita si querés */
+}
+
+
+.md-header {
+  width: 100% !important;
+  max-width: 100% !important;
+  padding: 0 1rem;
+}
+
+
+
+/* Opcional: ajustar los tabs para que ocupen espacio proporcional */
+.md-tabs__item {
+  flex: 1 1 auto;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Opcional: reducir el padding para que entren más elementos */
+.md-tabs__link {
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+  font-size: 0.9rem;
+}
+
+
+/* Forzar estilo del título generado automáticamente desde el nav */
+.md-content__inner > .md-content__title {
+  text-align: left !important;
+  font-size: 1.8rem !important;
+  margin-left: 0 !important;
+  margin-bottom: 1.5rem !important;
+  color: #222 !important;
+  font-weight: 700 !important;
+}
