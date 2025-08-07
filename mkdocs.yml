@@ -27,13 +27,13 @@ theme:
     - toc.integrate           # Integración del índice de contenidos
   palette:
     - scheme: default
-      primary: blue grey
+      primary: porto-primary-color
       accent: teal
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
     - scheme: slate
-      primary: blue grey
+      primary: porto-primary-color
       accent: teal
       toggle:
         icon: material/brightness-7
