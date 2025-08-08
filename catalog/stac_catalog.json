@@ -3,7 +3,7 @@
   "type": "Catalog",
   "id": "ide-fcyt-uader",
   "title": "IDE Facultad de Ciencia y Tecnología UADER",
-  "description": "Lista de rasters y vectores presentes en el catálogo de datasets de la IDE FCyT UADER.",
+  "description": "Catálogo principal de datasets geoespaciales de la IDE FCyT UADER.",
   "links": [
     {
       "rel": "self",
@@ -15,59 +15,28 @@
       "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/stac_catalog.json",
       "type": "application/json"
     },
-
     {
       "rel": "child",
-      "title": "Carta de Suelos de Entre Ríos",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/SuelosER.json",
+      "title": "Suelos",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/suelos/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "title": "Unidades Académicas UADER",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/UA.json",
+      "title": "Hidrografía",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/hidrografia/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "title": "Reserva Escuela Alberdi",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/reserva_alberdi.json",
+      "title": "Áreas Naturales",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/areas_naturales/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "title": "Cuenca del Arroyo Paracao",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/paracao.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "title": "Sistema de Áreas Naturales Protegidas de Entre Ríos",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/apn.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "title": "Reserva de usos múltiples Tierra Chaná",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/chana.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "title": "Laguna Chalacatepec",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/laguna.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "title": "Caracterización de la ecorregión Espinal, Argentina",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/espinal.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "title": "Caracterización de la ecorregión Monte, Argentina",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/monte.json",
+      "title": "Ecorregiones",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/ecorregiones/catalog.json",
       "type": "application/json"
     }
   ]
