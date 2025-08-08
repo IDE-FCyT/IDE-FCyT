@@ -47,9 +47,6 @@ extra_css:
   - css/custom.css
 
 
-extra_css:
-  - css/custom.css
-
 extra:
   social:
     - icon: fontawesome/brands/github
