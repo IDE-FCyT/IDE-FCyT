@@ -1,42 +1,81 @@
 {
   "stac_version": "1.0.0",
   "type": "Catalog",
-  "id": "ide-fcyt-uader",
+  "id": "IDE-FCyT-UADER",
   "title": "IDE Facultad de Ciencia y Tecnología UADER",
-  "description": "Catálogo principal de datasets geoespaciales de la IDE FCyT UADER.",
+  "description": "Lista de raster y vectores presentes en IDE FCyT datasets catalog.",
   "links": [
     {
       "rel": "self",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/stac_catalog.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
       "type": "application/json"
     },
     {
       "rel": "root",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/stac_catalog.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "title": "Suelos",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/suelos/catalog.json",
+      "id": "SuelosER",
+      "title": "Carta de Suelos de Entre Ríos",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/SuelosER.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "title": "Hidrografía",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/hidrografia/catalog.json",
+      "id": "UA",
+      "title": "Unidades Académicas UADER",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/UA.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "title": "Áreas Naturales",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/areas_naturales/catalog.json",
+      "id": "reserva_alberdi",
+      "title": "Reserva Esc. Alberdi",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/reserva_alberdi.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "title": "Ecorregiones",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/ecorregiones/catalog.json",
+      "id": "paracao",
+      "title": "Cuenca del Arroyo Paracao",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/paracao.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "id": "apn",
+      "title": "Sistema de Áreas Naturales Protegidas de Entre Ríos",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/apn.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "id": "chana",
+      "title": "Reserva de usos múltiples Tierra Chaná",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/chana.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "id": "laguna",
+      "title": "Laguna Chalacatepec",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/laguna.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "id": "espinal",
+      "title": "Caracterización de la ecorregión Espinal, Argentina",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/espinal.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "id": "monte",
+      "title": "Caracterización de la ecorregión Monte, Argentina",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/monte.json",
       "type": "application/json"
     }
   ]
