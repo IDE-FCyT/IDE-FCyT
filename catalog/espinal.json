@@ -1,0 +1,45 @@
+{
+  "stac_version": "1.0.0",
+  "type": "Collection",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
+  ],
+  "id": "espinal",
+  "title": "Caracterización de la ecorregión Espinal, Argentina",
+  "description": "Sistema de Información Geográfico (SIG) realizado en el marco del Programa ImpaCT.AR Ciencia y Tecnología (Proyecto Desafío 155) promovido por el Ministerio de Ciencia, Tecnología e Innovación de Argentina (MINCyT).",
+  "license": "CC-BY-4.0",
+  "gee:type": "vector",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/MI_ARCHIVO.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "title": "Visualizar datos en el mapa",
+      "rel": "about",
+      "href": "https://rawcdn.githack.com/…/index.html",
+      "type": "text/html"
+    },
+    {
+      "rel": "preview",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/images/MI_IMAGEN.png",
+      "type": "image/png"
+    },
+    {
+      "rel": "license",
+      "href": "https://rawgithub.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
+    }
+  ]
+  
+}

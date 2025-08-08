@@ -10,45 +10,38 @@
     "license": "CC-BY-4.0",
     "gee:type": "vector",
     "links": [
-        {
-            "rel": "self",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/reserva_alberdi.json",
-            "type": "application/json"
-        },
-        {
-            "rel": "parent",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
-            "type": "application/json"
-        },
-        {
-            "rel": "root",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
-            "type": "application/json"
-        },
-        {
-            "title": "Visualizar datos en el mapa",
-            "rel": "about",
-            "href": "https://rawcdn.githack.com/noelibaeza/TierraChana/a7eda8aab1079704fc5ea927144d25ee4340bc85/qgis2web/index.html",
-            "type": "text/html",
-            "code": "JavaScript"
-        },
-        {
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/images/tierraChana.jpg",
-            "rel": "preview",
-            "type": "image/png"
-         },
-           
-        {
-            "rel": "about",
-            "href": "https://drive.google.com/drive/folders/1Sdy0Cu9cYB8Kmgi1eeG4xTlM4P1l2dnS?usp=drive_link",
-            "title": "Link descarga de datos",
-            "type": "application/zip"
-        },  
-       
-        {
-            "rel": "license",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
-        }
+    {
+        "rel": "self",
+        "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/MI_ARCHIVO.json",
+        "type": "application/json"
+    },
+    {
+        "rel": "parent",
+        "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+        "type": "application/json"
+    },
+    {
+        "rel": "root",
+        "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+        "type": "application/json"
+    },
+    {
+        "title": "Visualizar datos en el mapa",
+        "rel": "about",
+        "href": "https://rawcdn.githack.com/…/index.html",
+        "type": "text/html"
+    },
+    {
+        "rel": "preview",
+        "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/images/MI_IMAGEN.png",
+        "type": "image/png"
+    },
+    {
+        "rel": "license",
+        "href": "https://rawgithub.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
+    }
+
+
     ],
     "extent": {
         "spatial": {
