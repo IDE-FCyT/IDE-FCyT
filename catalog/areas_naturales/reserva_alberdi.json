@@ -1,0 +1,104 @@
+{
+    "stac_version": "1.0.0",
+    "type": "Collection",
+    "stac_extensions": [
+        "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
+    ],
+    "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
+    "title": "Reserva Esc. Alberdi",
+    "description": "Ubicación de área natural protegida Escuela Normal Rural Juan Bautista Alberdi",
+    "license": "CC-BY-4.0",
+    "gee:type": "vector",
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/reserva_alberdi.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "title": "Visualizar datos en el mapa",
+            "rel": "about",
+            "href": "https://rawcdn.githack.com/noelibaeza/reserva_alberdi/f57958980a8151b08545d833ff2a8a3309bc3e9b/qgis2web_2023_03_27-22_22_27_662008/index.html",
+            "type": "text/html",
+            "code": "JavaScript"
+        },
+        {
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/escuela_alberdi.png",
+            "rel": "preview",
+            "type": "image/png"
+         },
+       
+        {
+            "rel": "license",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
+        }
+    ],
+    "extent": {
+        "spatial": {
+            "bbox": [
+                [
+                    -61.0648,
+                    -34.15252,
+                    -57.54923,
+                    -29.93567
+                ]
+            ]
+        },
+        "temporal": {
+            "interval": [
+                [
+                    "2021-07-21T05:31:04.396719Z",
+                    "2021-07-21T05:31:04.396719Z"
+                ]
+            ]
+        }
+    },
+    "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
+    "gee:user_uploaded": true,
+    "keywords": [
+        "Alberdi, Entre Rios, reserva natural, poligono"
+    ],
+    "providers": [
+        {
+            "name": "CEREGEO",
+            "roles": [
+                "producer",
+                "licensor"
+            ]
+        },
+        {
+            "name": "Centro Regional de Geomática",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Fernando Tentor",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Noeli Baeza",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Facundo Boladera",
+            "roles": [
+                "processor"
+            ]
+        }
+    ]
+}

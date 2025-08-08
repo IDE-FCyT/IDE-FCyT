@@ -1,0 +1,25 @@
+{
+  "stac_version": "1.0.0",
+  "type": "Catalog",
+  "id": "suelos",
+  "title": "Datos de Suelos",
+  "description": "Colección de datasets relacionados con suelos en Entre Ríos y otras áreas.",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/suelos/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "title": "Carta de Suelos de Entre Ríos",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/suelos/SuelosER.json",
+      "type": "application/json"
+    }
+  ]
+}

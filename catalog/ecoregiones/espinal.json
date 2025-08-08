@@ -8,16 +8,14 @@
   "title": "Caracterización de la ecorregión Espinal, Argentina",
   "description": "Sistema de Información Geográfico (SIG) realizado en el marco del Programa ImpaCT.AR Ciencia y Tecnología (Proyecto Desafío 155) promovido por el Ministerio de Ciencia, Tecnología e Innovación de Argentina (MINCyT).",
   "license": "CC-BY-4.0",
-
   "gee:type": "vector",
   "gee:asset_id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
   "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
   "gee:user_uploaded": true,
-
   "links": [
     {
       "rel": "self",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/paracao.json",
+      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/espinal.json",
       "type": "application/json"
     },
     {
@@ -58,7 +56,6 @@
       "type": "application/pdf"
     }
   ],
-
   "extent": {
     "spatial": {
       "bbox": [
@@ -71,14 +68,12 @@
       ]
     }
   },
-
   "keywords": [
     "ecorregión",
     "espinal",
     "Argentina",
     "polígono"
   ],
-
   "providers": [
     {
       "name": "CEREGEO",
