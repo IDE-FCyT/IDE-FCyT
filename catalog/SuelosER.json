@@ -14,17 +14,17 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/SuelosER.json",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/SuelosER.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/stac_catalog.json",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
       "type": "application/json"
     },
     {
       "rel": "root",
-      "href": "https://ide-fcyt.github.io/IDE-FCyT/catalog/stac_catalog.json",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
       "type": "application/json"
     },
     {
