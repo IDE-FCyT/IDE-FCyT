@@ -33,10 +33,9 @@
       "href": "https://ftentoru.users.earthengine.app/view/cartasueloser",
       "type": "text/html"
     },
-    {
-      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/images/Captura_cartaER.png",
-      "rel": "preview",
-      "type": "image/png"
+    { "rel": "preview", 
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Captura_cartaER.png", 
+      "type": "image/png" 
     },
     {
       "rel": "license",

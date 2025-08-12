@@ -34,11 +34,7 @@
       "href": "https://rawcdn.githack.com/noelibaeza/espinal/d69c5094615db40886ff9bbd08b0e357f07d76af/index.html",
       "type": "text/html"
     },
-    {
-      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/images/espinal.jpg",
-      "rel": "preview",
-      "type": "image/jpg"
-    },
+    { "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/espinal.jpg", "rel": "preview", "type": "image/jpeg" },
     {
       "rel": "about",
       "href": "https://drive.google.com/drive/u/1/folders/1T8xjyB4B4d8IO6eITo9XgsH9Qci1-PMG",
