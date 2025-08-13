@@ -1,0 +1,109 @@
+{
+    "stac_version": "1.0.0",
+    "type": "Collection",
+    "stac_extensions": [
+        "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
+    ],
+    "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
+    "title": "Unidades Académicas UADER",
+    "description": "Ubicación unidades Académicas UADER",
+    "license": "CC-BY-4.0",
+    "gee:type": "vector",
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/UA.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "title": "Visualizar datos en el mapa",
+            "rel": "about",
+            "href": "https://raw.githack.com/noelibaeza/unidades_academicas/main/qgis2web/index.html",
+            "type": "text/html",
+            "code": "JavaScript"
+        },
+        {
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/unidades_academicas.png",
+            "rel": "preview",
+            "type": "image/png"
+         },
+         {
+            "rel": "about",
+            "href": "https://github.com/noelibaeza/unidades_academicas_UADER/blob/main/uni_uader.zip?raw=true",
+            "title": "Link descarga de datos",
+            "type": "application/zip"
+         },
+        {
+            "rel": "license",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
+        }
+    ],
+    "extent": {
+        "spatial": {
+            "bbox": [
+                [
+                    -61.0648,
+                    -34.15252,
+                    -57.54923,
+                    -29.93567
+                ]
+            ]
+        },
+        "temporal": {
+            "interval": [
+                [
+                    "2021-07-21T05:31:04.396719Z",
+                    "2021-07-21T05:31:04.396719Z"
+                ]
+            ]
+        }
+    },
+    "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
+    "gee:user_uploaded": true,
+    "keywords": [
+        "UADER, Entre Rios, academic, points"
+    ],
+    "providers": [
+        {
+            "name": "CEREGEO",
+            "roles": [
+                "producer",
+                "licensor"
+            ]
+        },
+        {
+            "name": "Centro Regional de Geomática",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Fernando Tentor",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Noeli Baeza",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Facundo Boladeras",
+            "roles": [
+                "processor"
+            ]
+        }
+    ]
+}
