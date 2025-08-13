@@ -12,17 +12,17 @@
     "links": [
         {
             "rel": "self",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/UA.json",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/UA.json",
             "type": "application/json"
         },
         {
             "rel": "parent",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
             "type": "application/json"
         },
         {
             "rel": "root",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
             "type": "application/json"
         },
         {

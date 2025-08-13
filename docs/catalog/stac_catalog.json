@@ -7,75 +7,75 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
       "type": "application/json"
     },
     {
       "rel": "root",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "id": "SuelosER",
       "title": "Carta de Suelos de Entre Ríos",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/SuelosER.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/SuelosER.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "id": "UA",
       "title": "Unidades Académicas UADER",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/UA.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/UA.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "id": "reserva_alberdi",
       "title": "Reserva Esc. Alberdi",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/reserva_alberdi.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/reserva_alberdi.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "id": "paracao",
       "title": "Cuenca del Arroyo Paracao",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/paracao.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/paracao.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "id": "apn",
       "title": "Sistema de Áreas Naturales Protegidas de Entre Ríos",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/apn.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/apn.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "id": "chana",
       "title": "Reserva de usos múltiples Tierra Chaná",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/chana.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/chana.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "id": "laguna",
       "title": "Laguna Chalacatepec",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/laguna.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/laguna.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "id": "espinal",
       "title": "Caracterización de la ecorregión Espinal, Argentina",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/espinal.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/espinal.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "id": "monte",
       "title": "Caracterización de la ecorregión Monte, Argentina",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/catalog/monte.json",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/monte.json",
       "type": "application/json"
     }
   ]
