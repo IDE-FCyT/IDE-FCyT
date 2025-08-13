@@ -1,7 +1,7 @@
 {
   "stac_version": "1.0.0",
   "type": "Collection",
-  "stac_extensions": [],
+  "stac_extensions": ["https://stac-extensions.github.io/projection/v1.0.0/schema.json"],
   "id": "carta-suelos-er-inta",
   "title": "Carta de Suelos de Entre Ríos - INTA",
   "description": "Carta de Suelos de la provincia de Entre Ríos (INTA). Conjunto vectorial publicado para consulta y descarga.",
@@ -34,7 +34,7 @@
       "type": "text/html"
     },
     { "rel": "preview", 
-      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Captura_cartaER.png", 
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Captura_cartaER_v2.png", 
       "type": "image/png" 
     },
     {
@@ -43,6 +43,13 @@
       "type": "text/plain"
     }
   ],
+  "assets": {
+  "thumbnail": {
+    "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Captura_cartaER_v2.png",
+    "type": "image/png",
+    "roles": ["thumbnail"]
+  }
+  },
 
   "extent": {
     "spatial": {
