@@ -10,12 +10,6 @@ Los Vehículos Aéreos no Tripulados (VANT), comúnmente denominados "Drones" y 
 
 ## 1. Capacitaciones y Difusión
 
-## 2. Vuelos
-
-<iframe width="850" height="478" src="https://www.youtube.com/embed/X8hf1ia644M?si=yREEOvb4OYd7Batt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## 3. Fotos de las actividades
-
 Desde el Centro Regional de Geomática (CeReGeo) se desarrollan instancias de formación y divulgación orientadas a la aplicación de nuevas tecnologías. En este marco, se han dictado los siguientes talleres:
 
 * Introducción al conocimiento de las aplicaciones de los Vehículos Aéreos No Tripulados (VANT) para la gestión del territorio.
@@ -27,6 +21,12 @@ Desde el Centro Regional de Geomática (CeReGeo) se desarrollan instancias de fo
 Para acceder al material de las capacitaciones, puede ingresar en el siguiente enlace:
 
 - 📎 [Acceder a la carpeta de capacitaciones](https://drive.google.com/drive/folders/14rAmwXDzBfRYiK6vXb-ZOamzEnRs4E7y?usp=drive_link) 
+
+## 2. Vuelos
+
+<iframe width="850" height="478" src="https://www.youtube.com/embed/X8hf1ia644M?si=yREEOvb4OYd7Batt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 3. Fotos de las actividades
 
 <img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/images/collage_drones.png" width="850" height="auto" /> 
 
