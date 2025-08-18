@@ -29,16 +29,11 @@
     {
       "title": "Visualizar datos en el mapa",
       "rel": "about",
-      "href": "https://rawcdn.githack.com/FacuBoladeras/mis_proyectos/<SHA>/qgis2web_2025_08_18-09_56_58_347860/index.html",
+      "href": "https://raw.githack.com/FacuBoladeras/mis_proyectos/master/qgis2web_2025_08_18-09_56_58_347860/index.html",
       "type": "text/html"
     },
     {
       "rel": "preview",
-      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/humedales.png",
-      "type": "image/png"
-    },
-    {
-      "rel": "icon",
       "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/humedales.png",
       "type": "image/png"
     },
