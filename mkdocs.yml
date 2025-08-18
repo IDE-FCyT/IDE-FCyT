@@ -82,7 +82,7 @@ nav:
       - Modelado y tecologías:
         - Aplicaciones de Tecnologías de Información Geográfica: pages/Morante.md
         - Modelos de paisaje con TanGeoMS: pages/modelos_paisaje.md
-      - VANT (Drones): pages/vans.md
+      - VANT (Drones): pages/vant.md
     - Proyectos intitucionales y territoriales:
       - Reserva Esc. Alberdi: pages/escuela_alberdi.md
       - Contexto territorial cuenca Paracao: pages/paracao.md
