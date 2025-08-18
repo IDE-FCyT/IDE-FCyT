@@ -10,6 +10,7 @@
       "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
       "type": "application/json"
     },
+    
     {
       "rel": "root",
       "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
@@ -82,7 +83,7 @@
       "rel": "child",
       "id": "humedales",
       "title": "Cartografia cuerpos de agua, Triburtarios cortos del Paraná",
-      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/humedales.json",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/humedales.json",
       "type": "application/json"
     }
   ]
