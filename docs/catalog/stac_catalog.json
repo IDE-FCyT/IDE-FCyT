@@ -77,6 +77,13 @@
       "title": "Caracterización de la ecorregión Monte, Argentina",
       "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/monte.json",
       "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "id": "humedales",
+      "title": "Cartografia cuerpos de agua, Triburtarios cortos del Paraná",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/humedales.json",
+      "type": "application/json"
     }
   ]
 }

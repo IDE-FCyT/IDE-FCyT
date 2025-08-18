@@ -1,0 +1,97 @@
+{
+  "stac_version": "1.0.0",
+  "type": "Collection",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ],
+
+  "id": "cuerpos-agua-tributarios-cortos",
+  "title": "Cuerpos de agua naturales",
+  "description": "Humedales (nivel IV) de tributarios cortos del río Paraná.",
+  "license": "CC-BY-4.0",
+
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/cuerpos-agua-tributarios-cortos.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "title": "Visualizar datos en el mapa",
+      "rel": "about",
+      "href": "https://rawcdn.githack.com/FacuBoladeras/mis_proyectos/<SHA>/qgis2web_2025_08_18-09_56_58_347860/index.html",
+      "type": "text/html"
+    },
+    {
+      "rel": "preview",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/humedales.png",
+      "type": "image/png"
+    },
+    {
+      "rel": "icon",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/humedales.png",
+      "type": "image/png"
+    },
+    {
+      "rel": "license",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE",
+      "type": "text/plain"
+    },
+    {
+      "rel": "license",
+      "href": "https://creativecommons.org/licenses/by/4.0/",
+      "type": "text/html",
+      "title": "CC-BY 4.0"
+    }
+  ],
+
+  "assets": {
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/humedales.png",
+      "type": "image/png",
+      "roles": ["thumbnail"]
+    }
+  },
+
+  "extent": {
+    "spatial": {
+      "bbox": [[-61.0648, -34.15252, -57.54923, -29.93567]]
+    },
+    "temporal": {
+      "interval": [["2021-07-21T05:31:04Z", null]]
+    }
+  },
+
+  "summaries": {
+    "proj:epsg": [4326]
+  },
+
+  "keywords": [
+    "Alberdi",
+    "Entre Ríos",
+    "reserva natural",
+    "polígono",
+    "humedales",
+    "tributarios",
+    "Paraná"
+  ],
+
+  "providers": [
+    { "name": "CEREGEO", "roles": ["producer", "licensor"] },
+    { "name": "Centro Regional de Geomática", "roles": ["processor"] },
+    { "name": "Fernando Tentor", "roles": ["processor"] },
+    { "name": "Noeli Baeza", "roles": ["processor"] },
+    { "name": "Facundo Boladeras", "roles": ["processor"] },
+    { "name": "IDE-FCyT (GitHub Pages)", "roles": ["host"] }
+  ]
+}
