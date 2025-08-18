@@ -13,7 +13,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/cuerpos-agua-tributarios-cortos.json",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/humedales.json",
       "type": "application/json"
     },
     {
