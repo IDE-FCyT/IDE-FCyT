@@ -5,7 +5,7 @@
     Para compartir archivos con el IDE debes estar <b>logueado con tu cuenta de Google</b> por motivos de seguridad.
   </p>
   <iframe 
-    src="https://docs.google.com/forms/d/e/1FAIpQLSfKxhIHASd1dYo0kj91Qkkltg8g2dSQOtx_ErEYMITXBtKhoA/viewform?embedded=true" 
+    src="https://docs.google.com/forms/d/e/1FAIpQLSc51wWT40T88f4vhfPaWMyRhb22TB04geIeLFyB7dGhYW8F_w/viewform?usp=header"
     width="100%" 
     height="" 
     frameborder="0" 
