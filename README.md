@@ -27,6 +27,8 @@ Desde la raíz del repo (donde está mkdocs.yml):
 
 ```
     mkdocs serve
+    o
+    python -m mkdocs serve
 ```
 
 Abrí http://127.0.0.1:8000/IDE-FCyT/ (o la URL que te indique la consola) y tendrás recarga en caliente al editar archivos.
