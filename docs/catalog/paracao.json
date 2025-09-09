@@ -47,7 +47,14 @@
         {
             "rel": "license",
             "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
-        }
+        },
+        {
+      "rel": "about",
+      "href": "https://bibliotecavirtual.unl.edu.ar:8443/handle/11185/8541",
+      "title": "Acceso a tesis",
+      "type": "application/pdf"
+    }
+
     ],
     "extent": {
         "spatial": {
