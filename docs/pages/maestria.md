@@ -15,7 +15,7 @@ hide:
     margin: 0.5rem 0 1.25rem;
   }
   .kv-table thead th {
-    background: #1f6f8b; /* azul encabezado */
+    background: #1f6f8b; azul encabezado
     color: #fff;
     text-align: left;
     padding: 10px 14px;
@@ -39,7 +39,7 @@ hide:
 
   /* Etiqueta dentro del th (simula la pastilla azul de la captura) */
   .kv-tag {
-    background: #0b5ea8;
+    /* background: #0b5ea8; */
     color: #fff;
     padding: 2px 8px;
     border-radius: 4px;
@@ -113,24 +113,22 @@ La **Ciencia de Datos** surge de la combinación de **computación, estadística
   - 200 h dedicadas a la tesis  
 ---
 ## Instituciones Responsables
-- **Universidad Autónoma de Entre Ríos (UADER)** – Sede FCyT, Oro Verde 
-- **Universidad Nacional de Luján (UNLu)** – Sede Luján   
+* **Universidad Autónoma de Entre Ríos (UADER)** – Sede FCyT, Oro Verde 
+* **Universidad Nacional de Luján (UNLu)** – Sede Luján   
 
 **Resoluciones de aprobación:**  
-- [Res. CS UAdER 1487/23](https://drive.google.com/drive/u/0/folders/1kNpV7DR8VEtRScZc3dzeVhTrIUkILDVo)  
-- [RESHCS-LUJ 0000789-23](https://drive.google.com/drive/u/0/folders/1kNpV7DR8VEtRScZc3dzeVhTrIUkILDVo)  
-- [Dictamen CONEAU Acta 621/Nov. 2024](https://drive.google.com/drive/u/0/folders/1eLjm7WTQA5DYquRMJcMjzyagakj38X2C)  
-- Reconocimiento Oficial y Validez Nacional: aprobado por [Disposición SSPU Nº 490/25](https://drive.google.com/drive/u/0/folders/1AR5z2vI6b55aN8QmQ-dyXCS5GPsBVpnd)
+* [Res. CS UAdER 1487/23](https://drive.google.com/file/d/1WMeYEEnEvh_b85zmYMs5AmAty1xAceAC/view?usp=sharing)  
+* [RESHCS-LUJ 0000789-23](https://drive.google.com/file/d/1DH0Mn7RPHfCDgGAbQw6GKfidBtC8vmzZ/view?usp=sharing)  
+* [Dictamen CONEAU Acta 621/Nov. 2024](https://drive.google.com/file/d/1jF47fZi0vQwtlRZDPTZKj1of_lwkFzTu/view?usp=sharing)  
+* Reconocimiento Oficial y Validez Nacional: aprobado por [Disposición SSPU Nº 490/25](https://drive.google.com/file/d/1O49Bo2KLymAtMtZVoZ6AfklJ_QqLmUyU/view?usp=sharing)
 
 **Dirección Interinstitucional:**  
-- Dr. Walter F. Sione  
+* Dr. Walter F. Sione  
 ---
 ## Plan de Estudios
 Organizado en dos ciclos:
-### Ciclo Básico
-Desarrolla fundamentos de ciencia de datos y herramientas elementales.
-### Ciclo Superior
-Orienta al desarrollo de capacidades avanzadas en ciencia de datos.
+* Ciclo Básico: desarrolla fundamentos de ciencia de datos y herramientas elementales.
+* Ciclo Superior: orienta al desarrollo de capacidades avanzadas en ciencia de datos.
 
 ---
 ## Seminarios y Talleres
