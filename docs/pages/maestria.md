@@ -124,11 +124,12 @@ La **Ciencia de Datos** surge de la combinación de **computación, estadística
 
 **Dirección Interinstitucional:**  
 * Dr. Walter F. Sione  
+
 ---
 ## Plan de Estudios
-Organizado en dos ciclos:
-* Ciclo Básico: desarrolla fundamentos de ciencia de datos y herramientas elementales.
-* Ciclo Superior: orienta al desarrollo de capacidades avanzadas en ciencia de datos.
+Organizado en dos ciclos: <br>
+**Ciclo Básico**: desarrolla fundamentos de ciencia de datos y herramientas elementales.<br>
+**Ciclo Superior**: orienta al desarrollo de capacidades avanzadas en ciencia de datos.
 
 ---
 ## Seminarios y Talleres
@@ -158,7 +159,24 @@ Para consultas e información actualizada, podés comunicarte al correo:
 ¿Querés ser parte de la próxima cohorte de la **Maestría en Ciencia de Datos**?  
 Da el primer paso hacia tu formación avanzada en el área y reservá tu lugar completando el formulario.  
 
-[🔗 **Completar preinscripción ahora**](https://docs.google.com/forms/d/e/1FAIpQLSdva2kkzxVLBY-YiR64NRs9U3mneEFkXNF1oDaAaD3TeFY7XQ/viewform?usp=dialog)
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdva2kkzxVLBY-YiR64NRs9U3mneEFkXNF1oDaAaD3TeFY7XQ/viewform?usp=dialog" 
+     target="_blank" 
+     style="
+       display: inline-block;
+       background-color: #075494;
+       color: #ffffff;
+       padding: 12px 24px;
+       font-size: 16px;
+       font-weight: bold;
+       text-decoration: none;
+       border-radius: 6px;
+       transition: background-color 0.3s ease;
+     ">
+    Completar preinscripción ahora
+  </a>
+</div>
+
 
 
 ![Banner Maestría](../images/flayer.jpeg)
