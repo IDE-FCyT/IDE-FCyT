@@ -38,7 +38,7 @@ Los bosques nativos se ubican principalmente en el oeste de la cuenca, en zonas 
 
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/poster_paracao.jpg?raw=true" width="850" alt="Póster Paracao" />
 
-📎 [Descargar artículo](https://drive.google.com/file/d/1uLjlWpnqLyuavL0-w7j1CcYb1sg4ik2f/view?usp=sharing)
+📎 [Descargar artículo](https://drive.google.com/file/d/1uLjlWpnqLyuavL0-w7j1CcYb1sg4ik2f/view?usp=sharing) <br>
 📎 [Descargar tesis](https://bibliotecavirtual.unl.edu.ar:8443/handle/11185/8541)
 
 
