@@ -37,6 +37,12 @@
       "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/humedales.png",
       "type": "image/png"
     },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/drive/folders/1-qPyWtU-JvB79cFmWIKmAckv4_U2B9Nl?usp=sharing",
+      "title": "Link descarga de datos",
+      "type": "application/zip"
+    },
     {
       "rel": "license",
       "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE",
@@ -47,12 +53,18 @@
       "href": "https://creativecommons.org/licenses/by/4.0/",
       "type": "text/html",
       "title": "CC-BY 4.0"
+    },
+    {
+      "rel": "about",
+      "href": "https://drive.google.com/drive/folders/1-qPyWtU-JvB79cFmWIKmAckv4_U2B9Nl",
+      "title": "Metadatos detallados (PDF)",
+      "type": "application/pdf"
     }
   ],
 
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/humedales.png",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/images/miniatura_espinal.jpeg",
       "type": "image/png",
       "roles": ["thumbnail"]
     }
