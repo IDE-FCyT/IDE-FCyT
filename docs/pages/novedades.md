@@ -1,9 +1,8 @@
 # Novedades
-# Novedades
 
 <div class="grid cards" markdown>
 
--   <img src="../images/adhesion_idera.jpg" alt="Adhesión IDE-FCyT a IDERA" style="border-radius:10px;"/>
+-   <img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/docs/images/adhesion_idera.jpg" alt="Adhesión IDE-FCyT a IDERA" style="border-radius:10px;"/>
 
     ### Adhesión de la IDE-FCyT a IDERA  
     **Fecha:** 10 de octubre de 2025
@@ -12,7 +11,7 @@
 
     [Leer más →](https://mailchi.mp/9cbd10081684/boletn-informativo-ideractiva-mes-10)
 
--   <img src="../images/catalogo_objetos.jpg" alt="Catálogo de Objetos Geográficos de IDERA" style="border-radius:10px;"/>
+-   <img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/docs/images/catalogo_objetos.jpg" alt="Catálogo de Objetos Geográficos de IDERA" style="border-radius:10px;"/>
 
     ### Nueva versión del Catálogo de Objetos Geográficos de IDERA  
     **Fecha:** 13 de octubre de 2025
