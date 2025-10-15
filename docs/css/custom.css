@@ -109,44 +109,71 @@ h1, h2, h3 {
   font-weight: 700 !important;
 }
 
-.news-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+/* Contenedor de tarjetas: mantiene grilla responsiva de Material */
+.grid.cards {
   gap: 1.5rem;
-  margin-top: 1rem;
 }
 
-.card {
-  background-color: #f5f7fa;
-  border-radius: 15px;
-  padding: 1.2rem;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+/* Tarjeta base */
+.grid.cards > ul > li,
+.news-cards .card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 1.2rem 1.25rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,.06);
+  transition: transform .18s ease, box-shadow .18s ease, background .18s ease;
 }
 
-.card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+/* Hover */
+.grid.cards > ul > li:hover,
+.news-cards .card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0,0,0,.12);
 }
 
-.card-img {
+/* Imagen dentro de tarjeta, con esquinas redondeadas consistentes */
+.grid.cards img,
+.news-cards .card-img {
   width: 100%;
-  border-radius: 10px;
-  margin-bottom: 0.8rem;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  margin-bottom: .8rem;
 }
 
-.card h3, .card h4, .card h5 {
-  margin-top: 0.6rem;
-  margin-bottom: 0.4rem;
-  color: #003366;
+/* Tipografía dentro de tarjeta */
+.grid.cards h3, .grid.cards h4 {
+  margin: .4rem 0 .6rem 0;
 }
 
-.card a {
+/* Colores por tema (claro/oscuro) */
+:root {
+  /* paleta suave en claro */
+  --card-bg: #eef5ff;          /* azul muy claro */
+  --card-border: #d7e6ff;
+}
+
+[data-md-color-scheme="slate"] {
+  /* paleta suave en oscuro */
+  --card-bg: #1d2735;          /* azul grisáceo oscuro */
+  --card-border: #2a3a52;
+}
+
+/* Variantes opcionales por tarjeta (si querés alternar colores) */
+.grid.cards > ul > li:nth-child(2n) {
+  --card-bg: #f2fff6;          /* verde muy claro */
+  --card-border: #d8f3e2;
+}
+[data-md-color-scheme="slate"] .grid.cards > ul > li:nth-child(2n) {
+  --card-bg: #1f2c26;
+  --card-border: #294636;
+}
+
+/* Enlaces dentro de tarjeta, con color acorde */
+.grid.cards a {
   font-weight: 600;
-  color: #0056b3;
   text-decoration: none;
 }
+.grid.cards a:hover { text-decoration: underline; }
 
-.card a:hover {
-  text-decoration: underline;
-}
