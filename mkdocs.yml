@@ -46,6 +46,14 @@ theme:
 extra_css:
   - css/custom.css
 
+# 👉 Agregar aquí, a nivel raíz
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 
 extra:
   social:
