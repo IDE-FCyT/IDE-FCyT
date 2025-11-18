@@ -34,7 +34,7 @@
     },
     {
       "rel": "preview",
-      "href": "https://drive.google.com/file/d/1wCjEVP5eJk3d6AwKJ0HK4HcVH_T3aLrD/view?usp=sharing",
+      "href": "https://raw.githubusercontent.com/Ceregeo/cuenca_lastunas/refs/heads/main/cuenca%20las%20tunas_DEM.jpg",
       "type": "image/png"
     },
      {
@@ -58,7 +58,7 @@
 
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/humedales.png",
+      "href": "https://raw.githubusercontent.com/Ceregeo/cuenca_lastunas/refs/heads/main/cuenca%20las%20tunas_DEM.jpg",
       "type": "image/png",
       "roles": ["thumbnail"]
     }
