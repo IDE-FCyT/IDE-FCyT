@@ -93,5 +93,12 @@
       "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/corrientesER.json",
       "type": "application/json"
     }
+     {
+      "rel": "child",
+      "id": "humedales",
+      "title": "Cartografia de la microcuenca arroyo Las Tunas",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/las_tunas.json",
+      "type": "application/json"
+    }
   ]
 }
