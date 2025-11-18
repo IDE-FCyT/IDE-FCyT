@@ -92,7 +92,7 @@
       "title": "Cartografia cuerpos de agua, Triburtarios cortos del Paraná",
       "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/corrientesER.json",
       "type": "application/json"
-    }
+    },
      {
       "rel": "child",
       "id": "humedales",
