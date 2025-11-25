@@ -34,12 +34,12 @@
     },
     {
       "rel": "preview",
-      "href": "https://raw.githubusercontent.com/Ceregeo/cuenca_lastunas/refs/heads/main/cuenca%20las%20tunas_DEM.jpg",
+      "href": "https://raw.githubusercontent.com/Ceregeo/cuenca_lastunas/main/transparencia%20cuenca%20las%20tunas%20cursos%20de%20agua.png",
       "type": "image/png"
     },
      {
       "rel": "about",
-      "href": "https://drive.google.com/drive/folders/1DiFszol-ID2YVzWmgwoz9gpWZXh5CWRd?usp=drive_link",
+      "href": "https://drive.google.com/file/d/1PsiyZyo6fwKpQSF4qwtxyrh79kxWyOQH/view?usp=drive_link",
       "title": "Link descarga de datos",
       "type": "application/zip"
     },
@@ -53,6 +53,12 @@
       "href": "https://creativecommons.org/licenses/by/4.0/",
       "type": "text/html",
       "title": "CC-BY 4.0"
+    },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/file/d/1-BdoAPiuDbUC-BEl1S_OgFlVIAdqu4dD/view",
+      "title": "Recursos adicionales",
+      "type": "application/pdf"
     }
   ],
 
