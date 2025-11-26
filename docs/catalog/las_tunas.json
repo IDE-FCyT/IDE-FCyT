@@ -56,19 +56,26 @@
     },
      {
       "rel": "about",
-      "href": "https://drive.google.com/file/d/1-BdoAPiuDbUC-BEl1S_OgFlVIAdqu4dD/view",
-      "title": "Recursos adicionales",
+      "href": "https://drive.google.com/file/d/1dPJCH-hiEDpq-c0xkbO3TZePYZfTPstZ/view?usp=sharing",
+      "title": "LEAME",
+      "type": "application/pdf"
+      },
+
+    {
+      "rel": "about",
+      "href": "https://drive.google.com/drive/folders/13sNU-ridngqViQqxGDaw96QzjCd3_r_K",
+      "title": "Descarga de mapa",
       "type": "application/pdf"
     }
-  ],
-
+  ],  
+  
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/Ceregeo/cuenca_lastunas/refs/heads/main/cuenca%20las%20tunas_DEM.jpg",
-      "type": "image/png",
+      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
+      "type": "image/jpeg",
       "roles": ["thumbnail"]
     }
-  },
+    },
 
   "extent": {
     "spatial": {
