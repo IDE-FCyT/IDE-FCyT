@@ -1,0 +1,111 @@
+{
+  "stac_version": "1.0.0",
+  "type": "Collection",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ],
+
+  "id": "cuenca-arroyo-las-conchas",
+  "title": "Cuenca Espinillo",
+  "description": "El Arroyo Espinillo constituye una microcuenca integrada dentro del sistema hídrico de la cuenca Las Conchas",
+  "license": "CC-BY-4.0",
+
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/humedales.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "title": "Visualizar datos en el mapa",
+      "rel": "about",
+      "href": "https://rawcdn.githack.com/FacuBoladeras/Web_Cuenca_espinillo/883226520192916d1dfcf270d9e39ffc3dd49636/index.html",
+      "type": "text/html"
+    },
+    {
+      "rel": "preview",
+      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
+      "type": "image/png"
+    },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/file/d/1PsiyZyo6fwKpQSF4qwtxyrh79kxWyOQH/view?usp=drive_link",
+      "title": "Link descarga de datos",
+      "type": "application/zip"
+    },
+    {
+      "rel": "license",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE",
+      "type": "text/plain"
+    },
+    {
+      "rel": "license",
+      "href": "https://creativecommons.org/licenses/by/4.0/",
+      "type": "text/html",
+      "title": "CC-BY 4.0"
+    },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/file/d/1dPJCH-hiEDpq-c0xkbO3TZePYZfTPstZ/view?usp=sharing",
+      "title": "LEAME",
+      "type": "application/pdf"
+      },
+
+    {
+      "rel": "about",
+      "href": "https://drive.google.com/drive/folders/13sNU-ridngqViQqxGDaw96QzjCd3_r_K",
+      "title": "Descarga de mapa",
+      "type": "application/pdf"
+    }
+  ],  
+  
+  "assets": {
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
+      "type": "image/jpeg",
+      "roles": ["thumbnail"]
+    }
+    },
+
+  "extent": {
+    "spatial": {
+      "bbox": [[-61.0648, -34.15252, -57.54923, -29.93567]]
+    },
+    "temporal": {
+      "interval": [["2025-11-17T05:31:04Z", null]]
+    }
+  },
+
+  "summaries": {
+    "proj:epsg": [4326]
+  },
+
+  "keywords": [
+    "Cuenca",
+    "Entre Ríos",
+    "Espinillo",
+    "polígono",
+    "humedales",
+    "tributarios",
+    "Paraná"
+  ],
+
+  "providers": [
+    { "name": "CEREGEO", "roles": ["producer", "licensor"] },
+    { "name": "Centro Regional de Geomática", "roles": ["processor"] },
+    { "name": "Fernando Tentor", "roles": ["processor"] },
+    { "name": "Boladeras Facundo", "roles": ["processor"] },
+    { "name": "Alan Evequoz", "roles": ["processor"] },
+    { "name": "IDE-FCyT (GitHub Pages)", "roles": ["host"] }
+  ]
+}
