@@ -29,7 +29,7 @@
     {
       "title": "Visualizar datos en el mapa",
       "rel": "about",
-      "href": "https://rawcdn.githack.com/FacuBoladeras/Web_Cuenca_espinillo/883226520192916d1dfcf270d9e39ffc3dd49636/index.html",
+      "href": "https://rawcdn.githack.com/FacuBoladeras/Web_Cuenca_espinillo/62e60a8fd89648146a9ddd67c2ce6b0b8924ba69/index.html",
       "type": "text/html"
     },
     {
@@ -83,7 +83,7 @@
   
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca%20el%20espinillo%20ordenes%20de%20cursos%20de%20agua.jpg",
+      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
       "type": "image/jpeg",
       "roles": ["thumbnail"]
     }
