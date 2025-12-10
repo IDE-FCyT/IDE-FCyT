@@ -83,7 +83,7 @@
   
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
+      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca%20el%20espinillo%20ordenes%20de%20cursos%20de%20agua.jpg",
       "type": "image/jpeg",
       "roles": ["thumbnail"]
     }
