@@ -6,8 +6,8 @@
   ],
 
   "id": "cuenca-arroyo-las-conchas",
-  "title": "Cuenca Espinillo",
-  "description": "El Arroyo Espinillo constituye una microcuenca integrada dentro del sistema hídrico de la cuenca Las Conchas",
+  "title": "Cuenca del Arroyo El Espinillo",
+  "description": "La cuenca del Arroyo Espinillo forma parte de la cuenca del Arroyo Las Conchas, tributario del Río Paraná. Al ser una de las más grandes del sistema, se sitúa en el tramo denominado 'inferior' del arroyo principal.",
   "license": "CC-BY-4.0",
 
   "links": [
@@ -34,12 +34,12 @@
     },
     {
       "rel": "preview",
-      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
+      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca%20el%20espinillo%20ordenes%20de%20cursos%20de%20agua.jpg",
       "type": "image/png"
     },
      {
       "rel": "about",
-      "href": "https://drive.google.com/file/d/1PsiyZyo6fwKpQSF4qwtxyrh79kxWyOQH/view?usp=drive_link",
+      "href": "https://drive.google.com/drive/u/0/folders/1cNX3XwkiNr4Dmu1c6mjFByvcmqXv87Ab",
       "title": "Link descarga de datos",
       "type": "application/zip"
     },
@@ -56,16 +56,28 @@
     },
      {
       "rel": "about",
-      "href": "https://drive.google.com/file/d/1dPJCH-hiEDpq-c0xkbO3TZePYZfTPstZ/view?usp=sharing",
+      "href": "https://drive.google.com/file/d/1B8Og9JQk0g8ojdsjx01tBhsIt8folRIZ/view",
       "title": "LEAME",
       "type": "application/pdf"
       },
 
     {
       "rel": "about",
-      "href": "https://drive.google.com/drive/folders/13sNU-ridngqViQqxGDaw96QzjCd3_r_K",
+      "href": "https://drive.google.com/drive/u/3/folders/1dxNQMXxrANGxH-qKa_xOnc5prUa-IbTI",
       "title": "Descarga de mapa",
       "type": "application/pdf"
+    },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/file/d/1THRcDiLipo9VFU9H9rm3tM3fUHGSPWIE/view",
+      "title": "Descarga a Informe 1-Diciembre 2025",
+      "type": "application/pdf"
+    },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/file/d/1GWwnLZVA5US3fis68uLAuuGwn13XvRNw/view",
+      "title": "Link descarga de kml",
+      "type": "application/zip"
     }
   ],  
   
