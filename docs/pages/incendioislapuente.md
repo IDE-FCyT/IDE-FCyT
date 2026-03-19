@@ -1,58 +1,49 @@
+# Incendios en Isla Puente (noviembre 2021)
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/85247275/168097844-d99b1414-a65c-4b26-9059-0600c3c05a3e.png" />
-</p>
+**Autores:** Facundo Boladeras, Pamela Zamboni, Noeli Baeza, Fernando Tentor, Walter Sione  
+**Institucion:** FCyT - UADER  
+**Ubicacion geografica:** Isla Puente, Entre Rios, Argentina  
+**Periodo:** 2021-2022
 
-***Elaborado por: Facundo Boladeras, Pamela Zamboni, Noelí Baeza, Fernando Tentor, y Walter Sione.***
+---
 
-## Metodología
- 
--	Se integró en un Sistema de Información Geográfica (SIG) utilizando el software libre QGIS, la siguiente información: 
-o	Imágenes derivadas de sensores remotos de mediana resolución (Sentinel 2, Landsat 8 y 9).
-o	Imágenes obtenidas de un vuelo aéreo realizado con un vehículo aéreo no transportado (VANT)
-o	Datos de puntos de calor
-o	Información  auxiliar 
--	Se estimó la severidad
--	Se construyó cartografía temática, se estimaron las superficies, coberturas e infraestructuras afectadas, y se publicaron los datos en la IDE de la FCyT UADER
- 
- 
+## Resumen
+
+Este proyecto releva y analiza el impacto de los incendios ocurridos en Isla Puente durante noviembre de 2021. Se integraron datos satelitales, informacion de vuelos con drones y registros de focos de calor para estimar area afectada, severidad y dinamica de recuperacion de la vegetacion.
+
+## Metodologia
+
+- Integracion de informacion en un SIG con QGIS.
+- Uso de imagenes Sentinel-2 y Landsat 8/9.
+- Analisis de datos de vuelo VANT y focos de calor.
+- Elaboracion de cartografia tematica y estimacion de superficies afectadas.
+
 ## Resultados
 
-Información sobre los incendios de la Isla Puente – Noviembre 2021
--	Cartografía de coberturas afectadas 
--	Área quemada 
--	Recuperación de la vegetación
--	Severidad de los incendios 
--	Focos de Calor  
+- Cartografia de coberturas afectadas.
+- Delimitacion de area quemada.
+- Analisis de severidad.
+- Seguimiento de puntos de calor historicos y 2022.
 
+![Coberturas afectadas](https://user-images.githubusercontent.com/85247275/168096385-06415065-7682-45b0-a403-7be8ed0c9589.png)
 
-![image](https://user-images.githubusercontent.com/85247275/168096385-06415065-7682-45b0-a403-7be8ed0c9589.png)
+![Area quemada](../images/AreaQuemadaIslaPuente.png)
 
-![image](https://user-images.githubusercontent.com/85247275/168096449-ca35ccbf-b8e2-48c8-85c0-ec00c4bbce6f.png)
+![Puntos de calor historicos](../images/AreaQuemadaIslaPuente_2.png)
 
-![image](https://user-images.githubusercontent.com/85247275/168096514-a6f98492-9414-4d4c-97d0-adb3c8c87cae.png)
+![Puntos de calor 2022 con buffer](../images/AreaQuemadaIslaPuente_3.png)
 
+## Visor interactivo
 
+<iframe src="https://ftentoru.users.earthengine.app/view/islapuente" title="Visor Isla Puente" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+## Metadatos
 
-
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente.png" width="700" height="500" />
-
-Puntos de calor historicos área de estudio.
-
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente_2.png" width="700" height="500" />
-
-Puntos de calor año 2022.
-
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente_3.png" width="700" height="500" />
-
-Puntos de calor año 2022, con buffer de 125 metros cuadrados.
-
-# Vuelo Dron
-
-<iframe src = https://ftentoru.users.earthengine.app/view/islapuente width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> </iframe>
-
-
-
-
-
+| Campo | Valor |
+|---|---|
+| Tema | Incendios, teledeteccion, analisis de severidad |
+| Tipo de proyecto | Investigacion aplicada / cartografia tematica |
+| Palabras clave | isla puente, focos de calor, Sentinel-2, Landsat, VANT |
+| Formatos | PNG, visor web |
+| Licencia | CC BY-SA 4.0 |

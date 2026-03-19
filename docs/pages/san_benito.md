@@ -29,7 +29,7 @@ San Benito, con cerca de 30.000 habitantes, posee gran potencial de crecimiento 
 
 ## 🗺️ Mapa integrador
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/San%20Benito%20mapa.jpg?raw=true" width="850" alt="Mapa Integrador San Benito" />
+![Mapa integrador de San Benito](../images/San%20Benito%20mapa.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ San Benito, con cerca de 30.000 habitantes, posee gran potencial de crecimiento 
 
 ## 🖼️ Galería
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/imagne_SB.jpg?raw=true" width="850" alt="Jornada de cierre con vecinos" />
+![Jornada de cierre con vecinos](../images/imagne_SB.jpg)
 
 ---
 

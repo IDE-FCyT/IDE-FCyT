@@ -28,5 +28,5 @@ Para acceder al material de las capacitaciones, puede ingresar en el siguiente e
 
 ## 3. Fotos de las actividades
 
-<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/images/collage_drones.png" width="850" height="auto" /> 
+![Collage de actividades con drones](../images/collage_drones.png)
 

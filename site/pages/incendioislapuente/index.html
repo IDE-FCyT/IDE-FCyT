@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Community Datasets in Google Earth Engine">
+        <meta name="description" content="Portal académico de datos, proyectos y productos geoespaciales de la FCyT">
       
       
         <meta name="author" content="Fernando Tentor">
@@ -47,8 +47,8 @@
         
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans:300,300i,400,400i,700,700i%7CRegular:400,400i,700,700i&display=fallback">
-        <style>:root{--md-text-font:"Google Sans";--md-code-font:"Regular"}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Google Sans";--md-code-font:"Roboto Mono"}</style>
       
     
     
@@ -80,7 +80,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#metodologia" class="md-skip">
+        <a href="#incendios-en-isla-puente-noviembre-2021" class="md-skip">
           Saltar a contenido
         </a>
       
@@ -126,9 +126,9 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="porto-primary-color" data-md-color-accent="teal"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="porto-primary-color" data-md-color-accent="teal"  aria-label="Cambiar a modo oscuro"  type="radio" name="__palette" id="__palette_0">
     
-      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+      <label class="md-header__button md-icon" title="Cambiar a modo oscuro" for="__palette_1" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
       </label>
     
@@ -136,9 +136,9 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="porto-primary-color" data-md-color-accent="teal"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="porto-primary-color" data-md-color-accent="teal"  aria-label="Cambiar a modo claro"  type="radio" name="__palette" id="__palette_1">
     
-      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+      <label class="md-header__button md-icon" title="Cambiar a modo claro" for="__palette_0" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
       </label>
     
@@ -175,6 +175,8 @@
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
         </button>
       </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
       
     </form>
     <div class="md-search__output">
@@ -230,7 +232,7 @@
   
     
   
-  Introducción
+  Inicio
 
       </a>
     </li>
@@ -242,36 +244,18 @@
   
   
   
-    <li class="md-tabs__item">
-      <a href="../Indicaciones_de_uso/" class="md-tabs__link">
-        
-  
-  
     
-  
-  Indicaciones de uso
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../catalogo/" class="md-tabs__link">
-        
-  
-  
     
+      <li class="md-tabs__item">
+        <a href="../Indicaciones_de_uso/" class="md-tabs__link">
+          
   
-  Catálogo de datos
+  
+  Uso de la IDE
 
-      </a>
-    </li>
+        </a>
+      </li>
+    
   
 
       
@@ -328,7 +312,20 @@
   
     
     
+      <li class="md-tabs__item">
+        <a href="../novedades/" class="md-tabs__link">
+          
+  
+  
+  Divulgación y publicaciones
+
+        </a>
+      </li>
+    
+  
+
       
+        
   
   
   
@@ -336,75 +333,35 @@
     
     
       <li class="md-tabs__item">
-        <a href="../webRA/" class="md-tabs__link">
+        <a href="../maestria/" class="md-tabs__link">
           
   
   
-  Divulgación
+  Formación
 
         </a>
       </li>
     
   
 
-    
-  
-
       
         
   
   
   
   
-    <li class="md-tabs__item">
-      <a href="../cids/" class="md-tabs__link">
-        
-  
-  
     
-  
-  CIDS
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../acerca/" class="md-tabs__link">
-        
-  
-  
     
+      <li class="md-tabs__item">
+        <a href="../acerca/" class="md-tabs__link">
+          
   
-  Acerca de
+  
+  Institucional
 
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../contacto/" class="md-tabs__link">
-        
-  
-  
+        </a>
+      </li>
     
-  
-  Contacto
-
-      </a>
-    </li>
   
 
       
@@ -466,7 +423,7 @@
   
   
   <span class="md-ellipsis">
-    Introducción
+    Inicio
     
   </span>
   
@@ -478,6 +435,49 @@
     
       
       
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Uso de la IDE
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Uso de la IDE
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
   
   
   
@@ -497,9 +497,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -510,12 +511,43 @@
   
   
   <span class="md-ellipsis">
-    Catálogo de datos
+    Catálogo STAC
     
   </span>
   
 
       </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../carta_de_suelos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Carta de suelos de Entre Ríos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -545,10 +577,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
-          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
             
   
   
@@ -561,8 +593,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
-          <label class="md-nav__title" for="__nav_4">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             Proyectos
           </label>
@@ -593,10 +625,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" checked>
         
           
-          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="">
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="">
             
   
   
@@ -609,8 +641,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="true">
-          <label class="md-nav__title" for="__nav_4_1">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_1">
             <span class="md-nav__icon md-icon"></span>
             Proyecto por ecosistema/región
           </label>
@@ -638,10 +670,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_1" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1_1" checked>
         
           
-          <label class="md-nav__link" for="__nav_4_1_1" id="__nav_4_1_1_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3_1_1" id="__nav_3_1_1_label" tabindex="0">
             
   
   
@@ -654,8 +686,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_1_label" aria-expanded="true">
-          <label class="md-nav__title" for="__nav_4_1_1">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_1_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_1_1">
             <span class="md-nav__icon md-icon"></span>
             Delta del Paraná
           </label>
@@ -697,6 +729,8 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
           
@@ -729,6 +763,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -737,9 +773,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#resumen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resumen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#metodologia" class="md-nav__link">
     <span class="md-ellipsis">
-      Metodología
+      Metodologia
     </span>
   </a>
   
@@ -755,9 +800,18 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#vuelo-dron" class="md-nav__link">
+  <a href="#visor-interactivo" class="md-nav__link">
     <span class="md-ellipsis">
-      Vuelo Dron
+      Visor interactivo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metadatos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metadatos
     </span>
   </a>
   
@@ -800,10 +854,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1_2" >
         
           
-          <label class="md-nav__link" for="__nav_4_1_2" id="__nav_4_1_2_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3_1_2" id="__nav_3_1_2_label" tabindex="0">
             
   
   
@@ -816,8 +870,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_2_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_4_1_2">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1_2">
             <span class="md-nav__icon md-icon"></span>
             Región del Espinal
           </label>
@@ -897,10 +951,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1_3" >
         
           
-          <label class="md-nav__link" for="__nav_4_1_3" id="__nav_4_1_3_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3_1_3" id="__nav_3_1_3_label" tabindex="0">
             
   
   
@@ -913,8 +967,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_3_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_4_1_3">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1_3">
             <span class="md-nav__icon md-icon"></span>
             Humedales
           </label>
@@ -982,15 +1036,15 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
         
           
-          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="">
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="">
             
   
   
   <span class="md-ellipsis">
-    Proyecto por línea tématica
+    Proyecto por línea temática
     
   </span>
   
@@ -998,10 +1052,10 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_4_2">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
             <span class="md-nav__icon md-icon"></span>
-            Proyecto por línea tématica
+            Proyecto por línea temática
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -1025,10 +1079,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_1" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_1" >
         
           
-          <label class="md-nav__link" for="__nav_4_2_1" id="__nav_4_2_1_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3_2_1" id="__nav_3_2_1_label" tabindex="0">
             
   
   
@@ -1041,8 +1095,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_1_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_4_2_1">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_1">
             <span class="md-nav__icon md-icon"></span>
             Gestión forestal
           </label>
@@ -1122,15 +1176,15 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_2" >
         
           
-          <label class="md-nav__link" for="__nav_4_2_2" id="__nav_4_2_2_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3_2_2" id="__nav_3_2_2_label" tabindex="0">
             
   
   
   <span class="md-ellipsis">
-    Modelado y tecologías
+    Modelado y tecnologías
     
   </span>
   
@@ -1138,10 +1192,10 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_2_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_4_2_2">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_2">
             <span class="md-nav__icon md-icon"></span>
-            Modelado y tecologías
+            Modelado y tecnologías
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -1199,6 +1253,29 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vant/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    VANT (Drones)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -1230,15 +1307,15 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
         
           
-          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="">
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="">
             
   
   
   <span class="md-ellipsis">
-    Proyectos intitucionales y territoriales
+    Proyectos institucionales y territoriales
     
   </span>
   
@@ -1246,10 +1323,10 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_4_3">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
             <span class="md-nav__icon md-icon"></span>
-            Proyectos intitucionales y territoriales
+            Proyectos institucionales y territoriales
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -1357,15 +1434,15 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
         
           
-          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
             
   
   
   <span class="md-ellipsis">
-    Divulgación
+    Divulgación y publicaciones
     
   </span>
   
@@ -1373,12 +1450,35 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_5">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
-            Divulgación
+            Divulgación y publicaciones
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../novedades/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Novedades
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
             
               
                 
@@ -1400,10 +1500,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
         
           
-          <label class="md-nav__link" for="__nav_5_1" id="__nav_5_1_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
             
   
   
@@ -1416,8 +1516,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_5_1">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
             <span class="md-nav__icon md-icon"></span>
             Publicaciones científicas
           </label>
@@ -1477,6 +1577,29 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cids/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Conversatorios CIDS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -1490,13 +1613,56 @@
   
   
   
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Formación
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Formación
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
     <li class="md-nav__item">
-      <a href="../cids/" class="md-nav__link">
+      <a href="../maestria/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
-    CIDS
+    Maestría en Ciencia de Datos
     
   </span>
   
@@ -1505,9 +1671,60 @@
     </li>
   
 
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
     
       
       
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Institucional
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Institucional
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
   
   
   
@@ -1518,7 +1735,7 @@
   
   
   <span class="md-ellipsis">
-    Acerca de
+    Acerca de la IDE
     
   </span>
   
@@ -1527,9 +1744,33 @@
     </li>
   
 
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ceregeo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    CeReGeo
     
-      
-      
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
   
   
   
@@ -1546,6 +1787,37 @@
   
 
       </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lineamientos_editoriales/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Lineamientos editoriales
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -1569,39 +1841,67 @@
   
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/85247275/168097844-d99b1414-a65c-4b26-9059-0600c3c05a3e.png" />
-</p>
-
-<p><strong><em>Elaborado por: Facundo Boladeras, Pamela Zamboni, Noelí Baeza, Fernando Tentor, y Walter Sione.</em></strong></p>
-<h2 id="metodologia">Metodología</h2>
+<h1 id="incendios-en-isla-puente-noviembre-2021">Incendios en Isla Puente (noviembre 2021)</h1>
+<hr />
+<p><strong>Autores:</strong> Facundo Boladeras, Pamela Zamboni, Noeli Baeza, Fernando Tentor, Walter Sione<br />
+<strong>Institucion:</strong> FCyT - UADER<br />
+<strong>Ubicacion geografica:</strong> Isla Puente, Entre Rios, Argentina<br />
+<strong>Periodo:</strong> 2021-2022</p>
+<hr />
+<h2 id="resumen">Resumen</h2>
+<p>Este proyecto releva y analiza el impacto de los incendios ocurridos en Isla Puente durante noviembre de 2021. Se integraron datos satelitales, informacion de vuelos con drones y registros de focos de calor para estimar area afectada, severidad y dinamica de recuperacion de la vegetacion.</p>
+<h2 id="metodologia">Metodologia</h2>
 <ul>
-<li>Se integró en un Sistema de Información Geográfica (SIG) utilizando el software libre QGIS, la siguiente información: 
-o   Imágenes derivadas de sensores remotos de mediana resolución (Sentinel 2, Landsat 8 y 9).
-o   Imágenes obtenidas de un vuelo aéreo realizado con un vehículo aéreo no transportado (VANT)
-o   Datos de puntos de calor
-o   Información  auxiliar </li>
-<li>Se estimó la severidad</li>
-<li>Se construyó cartografía temática, se estimaron las superficies, coberturas e infraestructuras afectadas, y se publicaron los datos en la IDE de la FCyT UADER</li>
+<li>Integracion de informacion en un SIG con QGIS.</li>
+<li>Uso de imagenes Sentinel-2 y Landsat 8/9.</li>
+<li>Analisis de datos de vuelo VANT y focos de calor.</li>
+<li>Elaboracion de cartografia tematica y estimacion de superficies afectadas.</li>
 </ul>
 <h2 id="resultados">Resultados</h2>
-<p>Información sobre los incendios de la Isla Puente – Noviembre 2021
--   Cartografía de coberturas afectadas 
--   Área quemada 
--   Recuperación de la vegetación
--   Severidad de los incendios 
--   Focos de Calor  </p>
-<p><img alt="image" src="https://user-images.githubusercontent.com/85247275/168096385-06415065-7682-45b0-a403-7be8ed0c9589.png" /></p>
-<p><img alt="image" src="https://user-images.githubusercontent.com/85247275/168096449-ca35ccbf-b8e2-48c8-85c0-ec00c4bbce6f.png" /></p>
-<p><img alt="image" src="https://user-images.githubusercontent.com/85247275/168096514-a6f98492-9414-4d4c-97d0-adb3c8c87cae.png" /></p>
-<p><img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente.png" width="700" height="500" /></p>
-<p>Puntos de calor historicos área de estudio.</p>
-<p><img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente_2.png" width="700" height="500" /></p>
-<p>Puntos de calor año 2022.</p>
-<p><img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente_3.png" width="700" height="500" /></p>
-<p>Puntos de calor año 2022, con buffer de 125 metros cuadrados.</p>
-<h1 id="vuelo-dron">Vuelo Dron</h1>
-<iframe src = https://ftentoru.users.earthengine.app/view/islapuente width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> </iframe>
+<ul>
+<li>Cartografia de coberturas afectadas.</li>
+<li>Delimitacion de area quemada.</li>
+<li>Analisis de severidad.</li>
+<li>Seguimiento de puntos de calor historicos y 2022.</li>
+</ul>
+<p><img alt="Coberturas afectadas" src="https://user-images.githubusercontent.com/85247275/168096385-06415065-7682-45b0-a403-7be8ed0c9589.png" /></p>
+<p><img alt="Area quemada" src="../../images/AreaQuemadaIslaPuente.png" /></p>
+<p><img alt="Puntos de calor historicos" src="../../images/AreaQuemadaIslaPuente_2.png" /></p>
+<p><img alt="Puntos de calor 2022 con buffer" src="../../images/AreaQuemadaIslaPuente_3.png" /></p>
+<h2 id="visor-interactivo">Visor interactivo</h2>
+<iframe src="https://ftentoru.users.earthengine.app/view/islapuente" title="Visor Isla Puente" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<h2 id="metadatos">Metadatos</h2>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Valor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tema</td>
+<td>Incendios, teledeteccion, analisis de severidad</td>
+</tr>
+<tr>
+<td>Tipo de proyecto</td>
+<td>Investigacion aplicada / cartografia tematica</td>
+</tr>
+<tr>
+<td>Palabras clave</td>
+<td>isla puente, focos de calor, Sentinel-2, Landsat, VANT</td>
+</tr>
+<tr>
+<td>Formatos</td>
+<td>PNG, visor web</td>
+</tr>
+<tr>
+<td>Licencia</td>
+<td>CC BY-SA 4.0</td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -1621,6 +1921,12 @@ o   Información  auxiliar </li>
           
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Volver al principio
+</button>
         
       </main>
       
@@ -1688,7 +1994,7 @@ o   Información  auxiliar </li>
     
     
       
-      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.sections", "toc.integrate"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.tracking", "toc.integrate", "search.highlight", "search.suggest", "content.code.copy"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
     
     
       <script src="../../assets/javascripts/bundle.56ea9cef.min.js"></script>

@@ -1,4 +1,47 @@
+# Proyecto Federal de Innovacion (PFI Aceñolaza)
+---
 
-# Proyecto Federal de Innovación "PFI ACEÑOLAZA"
+**Financiamiento:** MINCyT - COFECyT, Convocatoria PFI 2022  
+**Institucion ejecutora:** CeReGeo, FCyT - UADER  
+**Institucion demandante:** Direccion de Recursos Naturales y Fiscalizacion (Entre Rios)  
+**Director:** Dr. Pablo Aceñolaza  
+**Periodo:** 2022-actualidad
 
-Este es un proyecto financiado por el MINCYT- COFECYT en la Convocatoria de Proyectos Federales de Innovación - PFI 2022. Se denomina "Sistema Informatizado provincial para el monitoreo semiautomático de desmontes mediante el uso geotecnologías sobre grandes volúmenes de datos". Director: Dr Pablo Aceñolaza (Investigador CONICET-  Integrante CEREGEO). Integrantes: Dr. Walter F. Sione. Dra L. Pamela Zamboni. Mg. Fernando R. Tentor. Dr Héctor F. del Valle. Dr. Francisco Maldonado. Mg. Francisco Viva Mayer. Mg. Pablo Fontanini. Lic. Noelí Baeza, investigadores del Centro Regional de Geomática (CeReGeo-FCyT UADER). La institución demandante es la  Dirección de Recursos Naturales Dirección de Recursos Naturales y Fiscalización. Secretaría de Agricultura, Ganadería y Pesca. Ministerio de Desarrollo Económico de la Provincia de Entre Ríos.  Aplicaciones: Estudios de cobertura y uso del suelo, determinación de área de desmontes. Ordenamiento Territorial.
+---
+
+## Resumen
+
+El proyecto desarrolla un sistema informatizado provincial para el monitoreo semiautomatico de desmontes mediante geotecnologias y analisis de grandes volumenes de datos. Su objetivo principal es fortalecer la gestion territorial con evidencia espacial actualizada y reproducible.
+
+## Objetivos especificos
+
+- Detectar y cuantificar cambios de cobertura y uso del suelo.
+- Identificar areas de desmonte con criterios trazables.
+- Generar insumos tecnicos para ordenamiento territorial y fiscalizacion.
+
+## Equipo de trabajo
+
+- Dr. Walter F. Sione
+- Dra. L. Pamela Zamboni
+- Mg. Fernando R. Tentor
+- Dr. Hector F. del Valle
+- Dr. Francisco Maldonado
+- Mg. Francisco Viva Mayer
+- Mg. Pablo Fontanini
+- Lic. Noeli Baeza
+
+## Aplicaciones
+
+- Estudios de cobertura y uso del suelo.
+- Determinacion de areas de desmonte.
+- Soporte a procesos de decision en gestion ambiental provincial.
+
+## Metadatos
+
+| Campo | Valor |
+|---|---|
+| Tema | Monitoreo de desmontes, cambio de uso del suelo |
+| Tipo de proyecto | Innovacion y transferencia tecnologica |
+| Palabras clave | PFI, CeReGeo, geotecnologias, monitoreo territorial |
+| Escala | Provincial (Entre Rios) |
+| Licencia | CC BY-SA 4.0 |

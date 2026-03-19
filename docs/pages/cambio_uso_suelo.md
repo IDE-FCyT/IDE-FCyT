@@ -36,7 +36,7 @@ El algoritmo **LandTrendr** aplicado en GEE permitió identificar deforestacione
 
 🔗 [Descargar presentación](https://drive.google.com/file/d/1fK1M2k_7MewME4o5wmfchyVzSv1PsuLj/view?usp=sharing)
 
-<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/presentacion_laura.jpg" width="850" />
+![Presentacion de resultados en el caso Feliciano](../images/presentacion_laura.jpg)
 
 ---
 

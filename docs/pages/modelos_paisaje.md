@@ -47,7 +47,7 @@ La herramienta, denominada **Terreno Perceptible (TP)**, permite simular en tiem
 
 Todo esto se proyecta sobre el modelo físico, fomentando una experiencia inmersiva, colaborativa y educativa.
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/poster_temuco.jpg?raw=true" width="850" alt="Poster Temuco" />
+![Poster de presentacion en Temuco](../images/poster_temuco.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ Durante el evento, **CeReGeo** presentó Tangible Landscape para sensibilizar so
 
 Se destacó su valor **educativo**, siendo ideal para enseñar geografía, ciencias naturales y análisis territorial en contextos escolares y académicos.
 
-<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Campus%20Party-218-ide.jpg" width="850" alt="Campus Party" />
+![Actividad de Campus Party](../images/Campus%20Party-218-ide.jpg)
 
 ---
 

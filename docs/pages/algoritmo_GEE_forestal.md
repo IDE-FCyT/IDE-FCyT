@@ -1,7 +1,41 @@
-# Desarrollo de algoritmos de Google Earth Engine para el modelado de la dinámica fenológica de plantaciones forestales de la provincia de Entre Ríos.
+# Modelado fenologico forestal con Google Earth Engine
+---
 
-***Virginia Piani, L. Pamela Zamboni, Fernando Tentor, Walter Sione y Pablo G. Aceñolaza***
+**Autores:** Virginia Piani, L. Pamela Zamboni, Fernando Tentor, Walter Sione, Pablo G. Aceñolaza  
+**Institucion:** FCyT - UADER / CeReGeo  
+**Ubicacion geografica:** Centro-este de Argentina (Entre Rios)  
+**Periodo:** 2000-2020
 
-## **Resumen**
+---
 
-Este trabajo se propuso desarrollar algoritmos para obtener y evaluar estadísticamente series temporales a partir imágenes Landsat en un entorno GEE, para el monitoreo fenológico de plantaciones forestales de Eucalyptus grandis, Salix spp. y Populus spp. implantadas en diferentes ambientes del centro este de la República Argentina. Como resultado se obtuvieron series temporales de reflectancia de diferentes regiones del espectro electromagnético y de los índices de vegetación NDVI, SR, EVI, SAVI y NDMI, desde el año 2000 al 2020. Con esta información se caracterizaron patrones fenológicos de las plantaciones forestales de la provincia de Entre Ríos, observándose importantes diferencias en los patrones anuales, estacionales y mensuales para los tres grupos de especies estudiados. Salix spp. y Populus spp., ambos Salicáceas, mostraron un comportamiento similar, con una marcada respuesta estacional, valores más bajos en invierno y más altos en verano, al igual que una mayor variación intra-anual. Por el contrario, E. grandis presentó menor variación intra-anual, debido a su característica perenne, y valores inferiores en primavera, asociados al estrés hídrico. El uso de GEE permitió la evaluación rápida de grandes series de datos y la extracción de patrones multitemporales específicos para cada grupo de especies estudiadas.
+## Resumen
+
+El trabajo desarrolla algoritmos en Google Earth Engine (GEE) para construir y evaluar series temporales Landsat aplicadas al monitoreo fenologico de plantaciones forestales.
+
+Se analizaron especies de **Eucalyptus grandis**, **Salix spp.** y **Populus spp.**, con indicadores espectrales e indices de vegetacion (NDVI, SR, EVI, SAVI, NDMI).
+
+## Resultados principales
+
+- Series multitemporales de reflectancia e indices para 2000-2020.
+- Diferencias fenologicas interanuales, estacionales y mensuales entre grupos de especies.
+- Identificacion de baja variacion intra-anual en E. grandis y marcada estacionalidad en Salix/Populus.
+
+## Recursos asociados
+
+<div class="resource-list" markdown>
+
+- **Visor interactivo:** no publicado en esta pagina.
+- **Descargas:** disponibles segun linea de investigacion.
+- **Codigo fuente:** implementado en Google Earth Engine.
+
+</div>
+
+## Metadatos
+
+| Campo | Valor |
+|---|---|
+| Tema | Fenologia forestal, series temporales, teledeteccion |
+| Tipo de proyecto | Investigacion aplicada |
+| Palabras clave | GEE, Landsat, NDVI, forestal, Entre Rios |
+| Formatos | Scripts, series temporales |
+| Licencia | CC BY-SA 4.0 |

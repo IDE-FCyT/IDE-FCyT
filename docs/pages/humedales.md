@@ -45,7 +45,7 @@ Estos cuerpos de agua drenan hacia el río Paraná, conformando una red de humed
 Las lagunas endorreicas fueron pequeñas y aisladas, mientras que las de la llanura de inundación fueron más extensas y morfológicamente complejas.
 
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/InventarioLagunas.jpg?raw=true" width="850" alt="Inventario Lagunas" />
+![Inventario de lagunas y humedales](../images/InventarioLagunas.jpg)
 ---
 *Figura 1. Inventario de humedales.*
 

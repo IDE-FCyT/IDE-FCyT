@@ -1,10 +1,14 @@
 # Acerca de la IDE - FCyT/UADER
 
-La **FCyT** es una iniciativa aprobada por la Facultad mediante Resolucón CD 218/22, que nuclea docentes, investigadores, estudiantes de grado y posgrado de nuestra casa de estudio, y a quienes se vinculan con nuestra facultad en estas temáticas, que utilizan y producen información georreferenciada. Del mismo modo la IDE-FCYT es un valioso recurso que tiene por objetivo organizar, sitematizar y visualizar la organización intitucional y las actividades académicas de investigacón y transferencia, y de extensión que se desarrollan en éste ámbito.
-La información que reune la IDE-FCYT se encuentra accesible para quienes deesen consultarla.
+La IDE-FCyT fue aprobada por la Facultad mediante la Resolucion CD 218/22. Reune docentes, investigadores, estudiantes de grado y posgrado, y equipos vinculados a la FCyT que producen o utilizan informacion georreferenciada.
 
-Invitamos a nuetra comunidad a ser parte de esta iniciativa.	
-<a href="https://drive.google.com/file/d/1UzPCqdlfALjy3FCkF38PzZ_eb0SeGaUj/view?usp=sharing" target="_blank" download="Res. 218/22">*Resol. de Aprobación de la IDE - FCyT UADER RESOL CD 218/22*.</a>
+Su objetivo es organizar, sistematizar y visibilizar la actividad institucional en docencia, investigacion, transferencia y extension, facilitando el acceso publico a contenidos geoespaciales de interes academico y territorial.
 
+Invitamos a toda la comunidad a participar de esta iniciativa.
 
-*Equipo de trabajo de la IDE - FCyT* : Coordinador: **Lic. Santiago Díaz**, Colaborador: **Lic. Noelí Baeza**.
+[Resolucion de aprobacion de la IDE - FCyT UADER (CD 218/22)](https://drive.google.com/file/d/1UzPCqdlfALjy3FCkF38PzZ_eb0SeGaUj/view?usp=sharing)
+
+## Equipo de trabajo
+
+- **Coordinador:** Lic. Santiago Diaz
+- **Colaboradora:** Lic. Noeli Baeza

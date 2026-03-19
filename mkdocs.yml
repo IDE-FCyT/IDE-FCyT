@@ -1,12 +1,12 @@
 site_name: Infraestructura de Datos Espaciales FCyT UADER
-site_description: Community Datasets in Google Earth Engine
+site_description: Portal académico de datos, proyectos y productos geoespaciales de la FCyT
 site_author: Fernando Tentor
 site_url: https://ide-fcyt.github.io/IDE-FCyT/
 
 # Repository
 repo_name: IDE-FCyT/IDE-FCyT
 repo_url: https://github.com/IDE-FCyT/IDE-FCyT
-edit_uri: ./edit/main/docs
+edit_uri: edit/main/docs/
 
 # Copyright
 copyright: 'Copyright © 2021 - IDE FCyT UADER'
@@ -18,26 +18,31 @@ theme:
   favicon: images/favicon1.ico
   font:
     text: Google Sans
-    code: Regular
+    code: Roboto Mono
   icon:
     logo: logo
   features:
-    - navigation.tabs         # Menú superior desplegable
-    - navigation.sections     # Submenú en barra lateral
-    - toc.integrate           # Integración del índice de contenidos
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+    - content.code.copy
   palette:
     - scheme: default
       primary: porto-primary-color
       accent: teal
       toggle:
         icon: material/brightness-4
-        name: Switch to dark mode
+        name: Cambiar a modo oscuro
     - scheme: slate
       primary: porto-primary-color
       accent: teal
       toggle:
         icon: material/brightness-7
-        name: Switch to light mode
+        name: Cambiar a modo claro
   static_templates:
     - 404.html
   include_search_page: false
@@ -46,11 +51,20 @@ theme:
 extra_css:
   - css/custom.css
 
-# 👉 Agregar aquí, a nivel raíz
+plugins:
+  - search:
+      lang: es
+
 markdown_extensions:
   - md_in_html
   - attr_list
+  - tables
   - admonition
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.details
   - pymdownx.superfences
 
@@ -66,41 +80,44 @@ extra:
       name: "Contactanos"
 
 
-# Page tree
 nav:
-  - Introducción: index.md
-  - Indicaciones de uso: pages/Indicaciones_de_uso.md  
-  - Catálogo de datos: pages/catalogo.md
-  # - Capas de :la IDE
-  #   - Hansen Bosque: pages/handsen.md
+  - Inicio: index.md
+  - Uso de la IDE:
+      - Indicaciones de uso: pages/Indicaciones_de_uso.md
+      - Catálogo STAC: pages/catalogo.md
+      - Carta de suelos de Entre Ríos: pages/carta_de_suelos.md
   - Proyectos:
-    - Proyecto por ecosistema/región:
-      - Delta del Paraná:
-        - Vulnerabilidad del Delta: pages/VulnerabilidadDeltadelParaná.md
-        - Incendios e Islas: pages/incendioislapuente.md
-      - Región del Espinal:
-        - Cambio de uso del suelo: pages/cambio_uso_suelo.md
-        - Proyecto PFI Aceñolaza: pages/espinal_pfi.md
-      - Humedales:
-        - Investigación doctoral en humedales: pages/humedales.md
-    - Proyecto por línea tématica:
-      - Gestión forestal:
-        - Algoritmo GEE plantaciones forestales: pages/algoritmo_GEE_forestal.md
-        - Proyecto Hansen Bosque: pages/handsen.md
-      - Modelado y tecologías:
-        - Aplicaciones de Tecnologías de Información Geográfica: pages/Morante.md
-        - Modelos de paisaje con TanGeoMS: pages/modelos_paisaje.md
-      - VANT (Drones): pages/vant.md
-    - Proyectos intitucionales y territoriales:
-      - Reserva Esc. Alberdi: pages/escuela_alberdi.md
-      - Contexto territorial cuenca Paracao: pages/paracao.md
-      - Articulación UADER-FCyT y San Benito "Espacios Verdes": pages/san_benito.md
-  - Divulgación:
-    - Publicaciones científicas:
-      - Avances página web "Reserva Alberdi": pages/webRA.md
-      - Mapa web "Reservas Naturales de Entre Ríos": pages/mapaweb.md
-  - Novedades: pages/novedades.md
-  - Maestría en CD: pages/maestria.md
-  - Acerca de: pages/acerca.md
-  - Contacto: pages/contacto.md
-  - CIDS: pages/cids.md
+      - Proyecto por ecosistema/región:
+          - Delta del Paraná:
+              - Vulnerabilidad del Delta: pages/VulnerabilidadDeltadelParaná.md
+              - Incendios e Islas: pages/incendioislapuente.md
+          - Región del Espinal:
+              - Cambio de uso del suelo: pages/cambio_uso_suelo.md
+              - Proyecto PFI Aceñolaza: pages/espinal_pfi.md
+          - Humedales:
+              - Investigación doctoral en humedales: pages/humedales.md
+      - Proyecto por línea temática:
+          - Gestión forestal:
+              - Algoritmo GEE plantaciones forestales: pages/algoritmo_GEE_forestal.md
+              - Proyecto Hansen Bosque: pages/handsen.md
+          - Modelado y tecnologías:
+              - Aplicaciones de Tecnologías de Información Geográfica: pages/Morante.md
+              - Modelos de paisaje con TanGeoMS: pages/modelos_paisaje.md
+          - VANT (Drones): pages/vant.md
+      - Proyectos institucionales y territoriales:
+          - Reserva Esc. Alberdi: pages/escuela_alberdi.md
+          - Contexto territorial cuenca Paracao: pages/paracao.md
+          - Articulación UADER-FCyT y San Benito "Espacios Verdes": pages/san_benito.md
+  - Divulgación y publicaciones:
+      - Novedades: pages/novedades.md
+      - Publicaciones científicas:
+          - Avances página web "Reserva Alberdi": pages/webRA.md
+          - Mapa web "Reservas Naturales de Entre Ríos": pages/mapaweb.md
+      - Conversatorios CIDS: pages/cids.md
+  - Formación:
+      - Maestría en Ciencia de Datos: pages/maestria.md
+  - Institucional:
+      - Acerca de la IDE: pages/acerca.md
+      - CeReGeo: pages/ceregeo.md
+      - Contacto: pages/contacto.md
+      - Lineamientos editoriales: pages/lineamientos_editoriales.md

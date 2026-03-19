@@ -28,7 +28,7 @@ La EMC consideró criterios agrupados en factores con pesos específicos, asocia
 - **Media-alta:** 2.25 – 2.5  
 - **Alta:** > 2.5  
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/TablaCriterios.png" width="850" height="auto" />  
+![Tabla de criterios y pesos](../images/TablaCriterios.png)
 *Tabla 1. Factores, criterios, indicadores, pesos asignados, y objetivo ODS asociado*
 
 ---
@@ -37,7 +37,7 @@ La EMC consideró criterios agrupados en factores con pesos específicos, asocia
 
 
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Mapa_Beca2.png" width="850" height="auto" />  
+![Mapa de vulnerabilidad ambiental](../images/Mapa_Beca2.png)
 *Figura 1. Asociación de zonas vulnerables con centros poblados y la distribución del ciervo de los pantanos (*Blastocerus dichotomus*).*
 
 ---

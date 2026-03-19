@@ -1,9 +1,43 @@
-# AVANCES EN EL DESARROLLO DE UNA PÁGINA WEB PARA LA RESERVA NATURAL PROTEGIDA ESCUELA ALBERDI
+# Avances en el desarrollo de una pagina web para la Reserva Escuela Alberdi
+---
 
-### SANTONI, Laura ; HERGENREDER, Cristian ; BAEZA, Noelí . PIEDRABUENA, Candela; ZAPPALA, Maite; GRIMAUX, Alfredo.
+**Autores:** Laura Santoni, Cristian Hergenreder, Noeli Baeza, Candela Piedrabuena, Maite Zappala, Alfredo Grimaux  
+**Institucion:** FCyT - UADER  
+**Ubicacion geografica:** Reserva Natural Protegida Escuela Alberdi, Entre Rios  
+**Periodo:** 2024-2025
+
+---
 
 ## Resumen
 
-En el marco de la Agenda Ambiental de la Facultad de Ciencia y Tecnología (UADER) y en colaboración entre diferentes laboratorios y carreras de la misma, incluyendo investigadores, docentes y estudiantes, se encuentra en desarrollo una página web que permitirá informar acerca de los senderos de la Reserva Natural Escuela Alberdi (senderos históricos y creados por Proyecto de Extensión "Evaluación de Impacto Ambiental en la Reserva Natural Protegida Escuela Alberdi" (Etapas I, II y II) y reunir las experiencias que se realizan en ella. El objetivo principal es sistematizar la información (mapas, historia, flora, fauna, etc.), enriquecer y mejorar la experiencia de los visitantes al momento de recorrer la reserva, y difundir actividades, contribuyendo con la revalorización de este espacio de conservación y educación ambiental tan demandado por la comunidad. La propuesta contempla el empleo de software libre, llevando el lenguaje MD a HTML utilizando la herramienta MkDocs con soporte en la plataforma GitHub. Este producto permite la visualización de texto, imágenes y mapas, y es navegable desde un dispositivo móvil. Esta metodología ya fue puesta a prueba por el Centro Regional de Geomática, laboratorio perteneciente a la FCyT, que publicó con éxito la web de Infraestructura de Datos Espaciales de la Universidad. Se espera que la página web de la reserva sea publicada en Diciembre y quede activa y a disposición de la sociedad. También, se espera sentar antecedentes referidos a desarrollos tecnológicos en materia de conservación, fortalecer la interacción y cooperación interdisciplinaria dentro de la facultad, y promover la divulgación y la presencia de la Universidad en el territorio. 
+Este trabajo presenta el desarrollo de una pagina web para sistematizar informacion de la Reserva Escuela Alberdi, incluyendo senderos, historia, biodiversidad y actividades de extension.
 
-<img src="https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/paginaweb.png" width="900" height="1000" />
+La iniciativa articula laboratorios, carreras, docentes, investigadores y estudiantes de la FCyT-UADER. El objetivo es mejorar la experiencia de visitantes, fortalecer la divulgacion ambiental y consolidar un canal publico de acceso a contenidos territoriales.
+
+## Resultados alcanzados
+
+- Estructuracion de contenidos de la reserva en formato web.
+- Integracion de recursos de mapa, imagenes y material textual.
+- Implementacion basada en software libre y publicacion en infraestructura GitHub.
+
+![Captura del desarrollo web de la Reserva Alberdi](../images/paginaweb.png)
+
+## Recursos asociados
+
+<div class="resource-list" markdown>
+
+- **Visor interactivo:** en desarrollo.
+- **Descargas:** se publican segun disponibilidad institucional.
+- **Codigo fuente:** metodologia basada en MkDocs y GitHub Pages.
+
+</div>
+
+## Metadatos
+
+| Campo | Valor |
+|---|---|
+| Tema | Divulgacion ambiental, comunicacion cientifica, web geoespacial |
+| Tipo de proyecto | Desarrollo web institucional |
+| Palabras clave | reserva alberdi, mkdocs, divulgacion, acceso publico |
+| Formatos | PNG, contenido web |
+| Licencia | CC BY-SA 4.0 |
