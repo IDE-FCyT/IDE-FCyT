@@ -106,6 +106,20 @@
       "title": "Cartografia de la microcuenca arroyo Las Tunas",
       "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/cuencaEspinillo.json",
       "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "id": "tambos",
+      "title": "Cartografia del sector tambero de Entre Ríos",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/tambos.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "id": "raicilla",
+      "title": "Cartografia ruta de la Raicilla, Mexico",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/raicilla.json",
+      "type": "application/json"
     }
   ]
 }
