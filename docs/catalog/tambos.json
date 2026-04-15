@@ -34,7 +34,7 @@
     },
     {
       "rel": "preview",
-      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
+      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/carto.png",
       "type": "image/png"
     },
      {
@@ -91,21 +91,22 @@
   },
 
   "keywords": [
-    "Cuenca",
+    "Buenas Prácticas Agropecuarias (BPA)",
     "Entre Ríos",
-    "Las tunas",
-    "polígono",
-    "humedales",
-    "tributarios",
-    "Paraná"
+    "Sustentabilidad",
+    "Sector lechero",
+    "Gestión"
+
+    
   ],
 
   "providers": [
     { "name": "CEREGEO", "roles": ["producer", "licensor"] },
     { "name": "Centro Regional de Geomática", "roles": ["processor"] },
-    { "name": "Fernando Tentor", "roles": ["processor"] },
+    { "name": "Facundo Boladeras", "roles": ["processor"] },
     { "name": "Noeli Baeza", "roles": ["processor"] },
-    { "name": "Alan Evequoz", "roles": ["processor"] },
+    { "name": "Rocio Galarza", "roles": ["processor"] },
+    { "name": "Pamela Zamboni", "roles": ["processor"] },
     { "name": "IDE-FCyT (GitHub Pages)", "roles": ["host"] }
   ]
 }
