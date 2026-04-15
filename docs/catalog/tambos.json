@@ -34,7 +34,7 @@
     },
     {
       "rel": "preview",
-      "href": "https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/carto.png",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/32b3b8fb47d5c488562417b461b35c505270e21b/images/carto.png",
       "type": "image/png"
     },
      {
@@ -71,7 +71,7 @@
   
   "assets": {
     "thumbnail": {
-      "href": "https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/carto.png",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/32b3b8fb47d5c488562417b461b35c505270e21b/images/carto.png",
       "type": "image/png",
       "roles": ["thumbnail"]
     }
