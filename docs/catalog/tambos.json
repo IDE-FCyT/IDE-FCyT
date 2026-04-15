@@ -29,12 +29,12 @@
     {
       "title": "Visualizar datos en el mapa",
       "rel": "about",
-      "href": "https://rawcdn.githack.com/FacuBoladeras/Tambos_ER/e8d9b2fc801f217d4d169bc08da7b2bd8bb4c843/index.html",
+      "href": "https://rawcdn.githack.com/FacuBoladeras/Tambos_ER/5a361c86bb2f1066ceec9a79b3545871eabad3af/index.html",
       "type": "text/html"
     },
     {
       "rel": "preview",
-      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/carto.png",
+      "href": "https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/carto.png",
       "type": "image/png"
     },
      {
@@ -71,8 +71,8 @@
   
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
-      "type": "image/jpeg",
+      "href": "https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/carto.png",
+      "type": "image/png",
       "roles": ["thumbnail"]
     }
     },
