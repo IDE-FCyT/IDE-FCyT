@@ -5,7 +5,7 @@
     "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
   ],
 
-  "id": "cuenca-arroyo-las-conchas",
+  "id": "Raicilla, Jalisco, Mexico",
   "title": "Ruta de la Raicilla, Jalisco, Mexico",
   "description": "Este proyecto integra datos geoespaciales de la Ruta de la Raicilla, combinando información de unidades productivas con variables ambientales derivadas de modelos digitales de elevación.",
   "license": "CC-BY-4.0",
