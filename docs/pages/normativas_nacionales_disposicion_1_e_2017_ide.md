@@ -1,27 +1,10 @@
-# Normativas Nacionales - Disposicion 1-E/2017 (IDE)
+# Normativas Nacionales - Disposición 1-E/2017 (IDE)
 
-## Base analizada
+Fuente normativa evaluada: `docs/Disposicion_1_E_2017.txt`
 
-- `docs/Disposicion_1_E_2017.txt`
-
-## Desfases / incumplimientos detectados
-
-1. **No hay evidencia de alineacion explicita con la Disposicion 1-E/2017**  
-   Base: Art. 1 y 2 (formalizacion de IDE y funciones).  
-   Evidencia: no se detectan referencias a `Disposicion 1-E/2017` en `docs/`, `mkdocs.yml` ni documentacion tecnica.
-
-2. **Falta de trazabilidad de lineamientos tecnicos unificados para generacion e integracion de geodatos**  
-   Base: Art. 2.g (definir metodologias para unificar criterios).  
-   Evidencia: `docs/pages/lineamientos_editoriales.md` define pautas de contenido, pero no metodologia tecnica integral de geodatos entre areas.
-
-3. **No existe politica tecnica institucional de software libre SIG documentada**  
-   Base: Art. 2.c (propiciar politica de software libre en SIG).  
-   Evidencia: hay uso puntual de herramientas libres en algunos proyectos, pero no una politica formal y transversal publicada.
-
-4. **No hay documento operativo de administracion de sistemas y servicios IDE**  
-   Base: Art. 2.d, 2.e y 2.f (mejora de sistemas, implementacion de modulos y actualizacion tecnologica del sitio IDE).  
-   Evidencia: no se detecta arquitectura operativa, plan de mantenimiento ni responsables tecnicos por servicio.
-
-5. **No se encuentra registro consolidado de convenios/acuerdos interinstitucionales de la IDE**  
-   Base: Art. 2.b (proponer convenios y acuerdos con entidades gubernamentales, academicas y sociedad civil).  
-   Evidencia: existen articulaciones mencionadas en paginas, pero no hay inventario institucional de convenios tecnicos vigentes.
+| Item evaluado | Estado en el proyecto | Fragmento textual verbatim | Por qué técnicamente existe desfase (o cumple parcial) | Cómo lograr cumplir este objetivo |
+|---|---|---|---|---|
+| Formalización institucional de una IDE en el ámbito del organismo | Desfase total | `ARTÍCULO 1° — Confórmese la Infraestructura de Datos Espaciales (IDE) dependiente de la SUBSECRETARÍA DE PLANIFICACIÓN TERRITORIAL DE LA INVERSIÓN PÚBLICA del MINISTERIO DEL INTERIOR, OBRAS PÚBLICAS Y VIVIENDA` | En la documentación del proyecto no hay acto/registro equivalente que formalice su IDE contra esta disposición específica ni un encuadre de adopción explícita de esa norma. | Incorporar una sección de “Marco normativo adoptado” con instrumento institucional de adhesión/aplicación y referencia documental verificable. |
+| Convenios y acuerdos para ampliar alcances IDE | Desfase total | `b) Proponer convenios y acuerdos con entidades gubernamentales de distintas Jurisdicciones, sectores científicos y académicos, entidades privadas y organizaciones no gubernamentales y de la sociedad civil, que se consideren necesarios para ampliar los alcances de la Infraestructura de Datos Espaciales` | No se encuentra en el proyecto un registro consolidado de convenios/acuerdos vigentes vinculados a la IDE. | Crear y mantener una sección pública de convenios IDE (institución, objeto, vigencia, estado y enlace al instrumento). |
+| Política de Software Libre en SIG | Desfase parcial | `c) Propiciar lineamientos de trabajos y política de Software Libre en materia de Sistemas de Información Geográfica.` | Hay uso puntual de herramientas libres en contenidos, pero no existe política institucional publicada y transversal para SIG. | Definir y publicar política de software libre SIG (criterios de adopción, excepciones, mantenimiento y seguridad). |
+| Metodologías para unificar criterios de generación e integración de información georreferenciada | Desfase total | `g) Definir las metodologías de trabajo a fin de unificar criterios de generación e integración de la información georreferenciada dentro de las áreas...` | La documentación actual contiene lineamientos editoriales, pero no metodologías técnicas unificadas de generación/integración de geodatos. | Publicar metodología técnica IDE. |

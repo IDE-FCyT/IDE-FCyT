@@ -1,68 +1,14 @@
 # Normativas Nacionales - Ley 22.963 (Ley de la Carta - IGN)
 
-## Alcance del analisis
+Fuente normativa evaluada: `docs/Ley_22963_1983.txt`
 
-Este documento evalua el desfase del portal IDE-FCyT frente a la **Ley 22.963 (1983)**, conocida como Ley de la Carta (actual autoridad: Instituto Geografico Nacional, IGN).
-
-Fuente legal analizada (texto extraido): `docs/Ley_22963_1983.txt`.
-
-## Criterios legales aplicables al portal
-
-Se relevaron como criterios principales los articulos 1, 16, 18, 19 y 19 bis de la ley.
-
-1. Toda representacion del territorio argentino debe ajustarse a cartografia oficial (art. 1 y 19.a).
-2. La publicacion de representaciones parciales debe respetar condiciones especificas (art. 19.c).
-3. La publicidad/publicacion de material cartografico requiere aprobacion previa del IGN (art. 18).
-4. El material aprobado debe incluir la leyenda visible "Aprobado por el Instituto Geografico Nacional" y numero de expediente (art. 19 bis).
-
-## Matriz de desfase (Ley 22.963 vs portal)
-
-| Requisito legal | Evidencia en el proyecto | Estado | Desfase |
-|---|---|---|---|
-| Ajuste a cartografia oficial (art. 1, 19.a) | El portal publica mapas y visores en multiples paginas, por ejemplo `docs/pages/carta_de_suelos.md`, `docs/pages/mapaweb.md`, `docs/pages/incendioislapuente.md` | Parcial / No verificable | No se encontro en el repositorio una declaracion o trazabilidad explicita que certifique ajuste a cartografia oficial del IGN para cada publicacion |
-| Representaciones parciales con referencia al territorio completo (art. 19.c) | Se publican recortes/areas tematicas (cuencas, humedales, suelos, etc.) | No verificable | No hay evidencia sistematica en plantillas/editorial de incluir mapa nacional marginal de situacion relativa |
-| Aprobacion previa IGN para publicar representaciones del territorio (art. 18) | El portal expone cartografia, mapas y visores (propios o embebidos) | No cumple (sin evidencia) | No se encontro registro de expediente de aprobacion IGN asociado a cada recurso cartografico publicado |
-| Leyenda obligatoria de aprobacion + expediente (art. 19 bis) | Busqueda en todo el proyecto sin resultados de la frase obligatoria | No cumple | Falta leyenda visible de aprobacion IGN y numero de expediente en publicaciones cartograficas alcanzadas |
-
-## Evidencia tecnica puntual
-
-### Publicaciones cartograficas detectadas
-
-- `docs/pages/carta_de_suelos.md` (vista previa + visor externo)
-- `docs/pages/mapaweb.md` (mapa web y flujo QGIS/Leaflet)
-- `docs/pages/incendioislapuente.md` (visor GEE embebido)
-- `docs/pages/handsen.md` (visor GEE embebido)
-- `docs/pages/catalogo.md` (catalogo STAC visible al publico)
-
-### Hallazgo de incumplimiento documental
-
-No se encontro en `docs/`, `qgis_maps/` ni `site/` la inscripcion:
-
-`Aprobado por el Instituto Geografico Nacional`
-
-ni un campo equivalente con numero de expediente de aprobacion.
-
-## Riesgo de cumplimiento
-
-Riesgo **alto** para contenido cartografico publicado sin evidencia de aprobacion IGN cuando corresponda por alcance legal.
-
-## Recomendaciones de normalizacion (acciones concretas)
-
-1. Crear un registro interno de control legal por recurso cartografico:
-   - `id_recurso`
-   - `requiere_aprobacion_ign` (si/no)
-   - `nro_expediente_ign`
-   - `fecha_aprobacion`
-   - `observaciones`
-2. Incorporar en metadatos STAC (Collection/Item) campos de cumplimiento:
-   - `legal:ley_22963_aplica`
-   - `legal:ign_aprobado`
-   - `legal:ign_expediente`
-3. Agregar leyenda visible en paginas/publicaciones alcanzadas por art. 19 bis.
-4. Actualizar `docs/pages/lineamientos_editoriales.md` con un bloque obligatorio de control normativo nacional antes de publicar mapas.
-5. Definir circuito de validacion (responsable institucional + evidencia documental) previo a publicacion.
+| Item evaluado | Estado en el proyecto | Fragmento textual verbatim | Por que tecnicamente existe desfase (o cumple parcial) | Como lograr cumplir este objetivo |
+|---|---|---|---|---|
+| Aprobacion previa IGN para publicar cartografia del territorio argentino | Desfase total | `ARTÍCULO 18° — Prohíbese la publicidad de cualquier carta, folleto, mapa o publicación de cualquier tipo que describa o represente, en forma total o parcial, el territorio de la República Argentina ... sin la aprobación previa del Instituto Geográfico Nacional.` | El portal publica mapas/visores en multiples paginas y catalogo, pero no exhibe evidencia documental de aprobacion previa del IGN por recurso publicado. | Incorporar un registro de aprobacion IGN por cada publicacion cartografica alcanzada (numero de expediente, fecha, alcance, enlace a constancia). |
+| Ajuste de la representacion territorial a version oficial del IGN | Desfase parcial | `ARTÍCULO 19° ... a) La descripción o representación parcial o total del Territorio Continental, Insular y Antártico de la República Argentina, deberá ajustarse a la versión oficial establecida por el Instituto Geográfico Nacional.` | No se documenta en metadatos/publicaciones la trazabilidad cartografica que demuestre ajuste a la version oficial del IGN para cada capa o mapa. | Agregar en cada recurso cartografico campos de fuente oficial y control de conformidad cartografica (datum, limites, version oficial de referencia). |
+| Publicacion de representaciones parciales con mapa completo marginal | Desfase total | `c) La publicación de representaciones parciales del territorio nacional llevará impresa, en forma marginal y a pequeña escala, un mapa completo del mismo ... donde estará destacada la situación relativa del sector correspondiente.` | En las publicaciones cartograficas relevadas del portal no se evidencia, como regla sistematica, el mapa completo marginal con ubicacion relativa del recorte. | Definir en lineamientos de publicacion una plantilla grafica obligatoria que incluya mapa nacional de referencia para representaciones parciales alcanzadas. |
+| Leyenda obligatoria de aprobacion IGN y numero de expediente | Desfase total | `ARTÍCULO 19 bis. — ... deberá llevar una inscripción al pie del mismo, en forma visible y clara, que exprese "Aprobado por el Instituto Geográfico Nacional" con su correspondiente número de expediente de aprobación.` | No se detecta en el repositorio la leyenda obligatoria ni el numero de expediente en las publicaciones cartograficas alcanzadas. | Incorporar la leyenda y el numero de expediente en la pieza cartografica publicada y en su metadato asociado. |
 
 ## Nota de alcance
 
-Este analisis identifica brechas documentales y de trazabilidad en el repositorio.  
-La determinacion juridica final de aplicabilidad por tipo de publicacion debe validarse con asesoria legal institucional.
+El analisis releva desfases sobre exigencias textuales explicitas de la Ley 22.963, en relacion con publicaciones cartograficas visibles en la documentacion del portal IDE-FCyT.

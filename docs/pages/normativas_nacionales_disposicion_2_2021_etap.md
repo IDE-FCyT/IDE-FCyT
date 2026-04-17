@@ -1,32 +1,9 @@
 # Normativas Nacionales - Disposicion ONTI 2/2021 (ETAP v25)
 
-## Base analizada
+Fuente normativa evaluada: `docs/Disposicion_2_2021_ONTI_ETAP.txt`
 
-- `docs/Disposicion_2_2021_ONTI_ETAP.txt`
-
-## Incumplimientos / desfases detectados
-
-1. **No hay evidencia de adopcion formal de ETAP v25 en el proyecto**  
-   Base: Art. 1 y 3 (aprobacion ETAP v25 y deber de considerarlos en especificaciones tecnicas).  
-   Evidencia: no se detectan referencias a `ETAP`, `ONTI`, `Disposicion 2/2021` ni `version 25` en `docs/`, `mkdocs.yml` o documentacion tecnica del repositorio.
-
-2. **No existe trazabilidad de cumplimiento normativo en las especificaciones tecnicas**  
-   Base: Art. 3 (considerar ETAP en proyectos de desarrollo, innovacion, implementacion, compatibilizacion e integracion TIC).  
-   Evidencia: no hay matriz de cumplimiento, checklist ni seccion de “estandares tecnologicos aplicados” en lineamientos o en fichas de proyectos.
-
-3. **Falta de documentacion de alcance institucional frente a la norma**  
-   Base: Art. 2 (aplicacion al Sector Publico Nacional segun Ley 24.156).  
-   Evidencia: el proyecto no explicita si se considera alcanzado directa o indirectamente por este marco, ni define criterio institucional de adhesion/adecuacion tecnica.
-
-4. **Ausencia de referencia a los Anexos tecnicos obligatorios (I, II, III)**  
-   Base: Art. 1 (los Anexos integran la medida).  
-   Evidencia: en el repositorio no estan incorporados ni citados los contenidos tecnicos de los anexos, por lo que no es posible auditar cumplimiento tecnico detallado por dominio.
-
-5. **No hay politica de actualizacion periodica alineada a revisiones ETAP**  
-   Base: considerandos de la disposicion (actualizacion permanente y revision periodica de estandares).  
-   Evidencia: no se observa un procedimiento de revision normativa TIC periodica en la documentacion del portal.
-
-## Observacion critica para auditoria
-
-El archivo adjunto contiene la **disposicion marco**, pero no el detalle tecnico de los **Anexos I/II/III**.  
-Sin esos anexos, la auditoria de incumplimientos solo puede realizarse a nivel de gobernanza/documentacion y no a nivel de requisitos tecnicos especificos.
+| Item evaluado | Estado en el proyecto | Fragmento textual verbatim | Por que tecnicamente existe desfase (o cumple parcial) | Como lograr cumplir este objetivo |
+|---|---|---|---|---|
+| Consideracion obligatoria de ETAP v25 en especificaciones tecnicas de proyectos TIC | Desfase total | `ARTICULO 3º.- A partir de la entrada en vigencia de la presente Disposicion, los organismos alcanzados por la misma, deberan considerar a los Estandares Tecnologicos para la Administracion Publica Nacional (ETAP) Version 25 en las especificaciones tecnicas de todos los proyectos de desarrollo, innovacion, implementacion, compatibilizacion e integracion de las Tecnologias de la Informacion y las Comunicaciones.` | En la documentacion del proyecto no hay secciones de especificaciones tecnicas que declaren ETAP v25 como criterio normativo aplicable, ni trazabilidad requisito->implementacion para los proyectos TIC publicados. | Incorporar en cada ficha/proyecto TIC una seccion obligatoria de cumplimiento ETAP v25 con mapeo de requisitos aplicables, evidencia tecnica y estado de cumplimiento. |
+| Uso de la version normativa vigente (ETAP v25) y sus anexos integrantes | Desfase total | `ARTICULO 1º.- Apruebanse los "Estandares Tecnologicos para la Administracion Publica Nacional" (ETAP) Version 25, que como Anexo I (...) Anexo II (...) y Anexo III (...) forman parte integrante de la presente medida.` | No se identifican en el repositorio referencias operativas a los Anexos I/II/III ni criterios tecnicos derivados de esos anexos; por lo tanto no hay base auditable para verificar adopcion de la version aprobada. | Agregar una matriz ETAP v25 por anexo (I, II, III) con requisitos aplicables al portal, evidencia de implementacion y brechas remanentes. |
+| Delimitacion de alcance institucional frente al marco de aplicacion de la norma | Desfase parcial | `ARTICULO 2º.- Los estandares referidos en el articulo precedente seran de aplicacion a todo el Sector Publico Nacional definido en el articulo 8º de la Ley de Administracion Financiera y de los Sistemas de Control del Sector Publico Nacional Nº 24.156.` | La documentacion del proyecto no explicita su encuadre institucional respecto de este alcance (si esta alcanzado directamente o si adopta ETAP por adhesion tecnica), lo que impide justificar formalmente el criterio de cumplimiento aplicado. | Publicar una seccion de alcance normativo institucional que declare encuadre frente al Art. 2 y criterio de adopcion (obligatorio o por adhesion), con acto o referencia institucional verificable. |

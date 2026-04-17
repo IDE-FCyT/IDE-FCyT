@@ -1,40 +1,16 @@
 # Normativas Nacionales - Resolucion SAyDS 67/2015 (IDE Ambiental)
 
-## Base analizada
+Fuente normativa evaluada: `docs/IDE_Ambiental_Resolucion_67_2015.txt`
 
-- `docs/IDE_Ambiental_Resolucion_67_2015.txt`
-
-## Desfases / incumplimientos detectados
-
-1. **No hay trazabilidad institucional de alineacion con IDE Ambiental/SAyDS 67/2015**  
-   Base: Art. 1 (administrar, desarrollar, integrar y difundir informacion georreferenciada bajo un esquema formal).  
-   Evidencia: no se detectan referencias a `Resolucion 67/2015`, `IDE Ambiental` o `SIAN` en la documentacion operativa del portal.
-
-2. **No existe un esquema formal publicado de lineamientos inter-areas para geoinformacion**  
-   Base: Art. 2.a y 2.k (definir lineamientos y metodologias para unificar criterios de generacion e integracion).  
-   Evidencia: `docs/pages/lineamientos_editoriales.md` es editorial de contenidos, pero no define metodologia tecnica inter-area para datos georreferenciados.
-
-3. **No se evidencia politica operativa de resguardo de la informacion georreferenciada**  
-   Base: Art. 2.g (acciones para resguardar la informacion generada).  
-   Evidencia: no hay politica publicada de resguardo/continuidad/versionado/recuperacion para datos en `docs/catalog/` y productos asociados.
-
-4. **No hay documentacion de administracion de sistemas y servicios georreferenciados**  
-   Base: Art. 2.e y 2.j (administrar sistemas/servicios e implementar/actualizar tecnologicamente el sitio).  
-   Evidencia: no se detecta documento tecnico de arquitectura, mantenimiento, versionado de servicios o responsables operativos.
-
-5. **No se encuentra un registro institucional de convenios/acuerdos de interoperabilidad geoespacial**  
-   Base: Art. 2.b (proponer convenios y acuerdos con organismos y sectores cientificos/academicos).  
-   Evidencia: hay menciones de articulaciones en paginas de proyectos, pero no existe un registro consolidado de convenios tecnicos vigentes en el portal.
-
-6. **No hay plan/formato institucional de capacitacion SIG para equipos internos de la IDE**  
-   Base: Art. 2.l y 2.m (capacitar tecnicos y proponer cursos/documentos de trabajo).  
-   Evidencia: existen actividades puntuales en algunas paginas, pero no se publica un programa institucional continuo de capacitacion interna IDE.
-
-7. **No hay politica tecnica explicita de software libre para SIG a nivel portal**  
-   Base: Art. 2.f (propiciar lineamientos y politica de software libre en SIG).  
-   Evidencia: se usan herramientas libres en proyectos puntuales, pero no existe politica formal publicada aplicable a toda la IDE.
+| Item evaluado | Estado en el proyecto | Fragmento textual verbatim | Por que tecnicamente existe desfase (o cumple parcial) | Como lograr cumplir este objetivo |
+|---|---|---|---|---|
+| Convenios y acuerdos para ampliar alcances IDE | Desfase total | `b) Proponer convenios y acuerdos con entidades gubernamentales de distintas Jurisdicciones, sectores científicos y académicos, entidades privadas y organizaciones no gubernamentales y de la sociedad civil, que se consideren necesarios para ampliar los alcances de la Infraestructura de Datos Espaciales Ambiental (IDE Ambiental).` | En el portal hay menciones de articulaciones en paginas de proyectos, pero no existe un registro institucional consolidado de convenios/acuerdos vigentes con trazabilidad documental. | Publicar una seccion de convenios IDE con institucion contraparte, objeto, vigencia, estado y enlace al instrumento formal. |
+| Politica de software libre en SIG | Desfase parcial | `f) Propiciar lineamientos de trabajos y política de Software Libre en materia de Sistemas de Información Geográfica.` | El proyecto usa herramientas libres en casos puntuales, pero no publica una politica transversal y formal de software libre SIG aplicable a toda la IDE. | Definir y publicar una politica institucional de software libre SIG (criterios de adopcion, excepciones, seguridad y mantenimiento). |
+| Resguardo de la informacion georreferenciada | Desfase total | `g) Realizar las acciones correspondientes a resguardar la información generada por las áreas ... y en la Infraestructura de Datos Espaciales Ambiental (IDE Ambiental).` | No hay una politica publicada de resguardo para datos geoespaciales (backup, recuperacion, continuidad, control de integridad/versiones). | Publicar un procedimiento de resguardo y continuidad para datos/catalogo geoespacial, con frecuencias, responsables y pruebas de recuperacion. |
+| Metodologias para unificar criterios de generacion e integracion de geoinformacion | Desfase total | `k) Definir las metodologías de trabajo a fin de unificar criterios de generación e integración de la información georreferenciada ...` | `docs/pages/lineamientos_editoriales.md` ordena contenidos editoriales, pero no establece metodologia tecnica unificada de generacion/integracion de datos georreferenciados. | Publicar metodologia tecnica IDE. |
+| Capacitacion tecnica institucional IDE | Desfase parcial | `l) Capacitar a técnicos ... en la utilización de las herramientas informáticas para realizar productos georreferenciados específicos.` y `m) Realizar y proponer documentos de trabajo, cursos y capacitación para el personal ...` | Hay actividades formativas puntuales en algunas paginas, pero no existe un programa institucional continuo y auditable de capacitacion interna IDE (contenidos, frecuencia, responsables, evaluacion). | Definir un plan anual de capacitacion IDE con cronograma, perfiles destinatarios, contenidos minimos y evidencia de ejecucion. |
 
 ## Nota de alcance
 
-La Resolucion 67/2015 regula especificamente la IDE Ambiental de la entonces SAyDS.  
-Los puntos consignados arriba se presentan como brechas de gobernanza y trazabilidad para un portal IDE academico que busca alineacion normativa.
+La Resolucion 67/2015 fue dictada para la estructura de la ex SAyDS (IDE Ambiental en ambito SIAN).  
+Los desfases consignados se documentan como brechas de alineacion normativa y de gobernanza tecnica para este portal IDE academico.
