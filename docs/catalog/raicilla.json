@@ -34,7 +34,7 @@
     },
     {
       "rel": "preview",
-      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/ed865b9b8c84a9f03a780ec28ad646dbe6884f47/images/carto_mex.png",
       "type": "image/png"
     },
      {
@@ -71,7 +71,7 @@
   
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/noelibaeza/lastunas_cartografia/refs/heads/main/cuenca_las_tunas_c.jpg",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/ed865b9b8c84a9f03a780ec28ad646dbe6884f47/images/carto_mex.png",
       "type": "image/jpeg",
       "roles": ["thumbnail"]
     }
