@@ -102,7 +102,7 @@
     { "name": "CEREGEO", "roles": ["producer", "licensor"] },
     { "name": "Centro Regional de Geomática", "roles": ["processor"] },
     { "name": "Fernando Tentor", "roles": ["processor"] },
-    { "name": "Boalderas Facundo", "roles": ["processor"] },
+    { "name": "Boladeras Facundo", "roles": ["processor"] },
     { "name": "Piani Virginia", "roles": ["processor"] },
     { "name": "Noeli Baeza", "roles": ["processor"] },    
     { "name": "IDE-FCyT (GitHub Pages)", "roles": ["host"] }
