@@ -224,6 +224,25 @@ table th {
   margin-bottom: 0.35rem;
 }
 
+.catalog-project-nav {
+  margin: 0.85rem 0 1.2rem;
+  padding: 0.7rem 0.8rem 0.6rem;
+  border: 1px solid var(--ide-border);
+  border-radius: 14px;
+  background: var(--ide-card-bg);
+}
+
+.catalog-project-nav .quick-link {
+  margin: 0.2rem 0.25rem 0.2rem 0;
+  padding: 0.34rem 0.62rem;
+  font-size: 0.72rem;
+  box-shadow: none;
+}
+
+.catalog-project-nav .quick-link:hover {
+  box-shadow: 0 6px 14px rgba(15, 56, 87, 0.22);
+}
+
 @media (max-width: 760px) {
   .home-hero {
     border-radius: 14px;
@@ -244,6 +263,14 @@ table th {
 
   .quick-link {
     font-size: 0.76rem;
+  }
+
+  .catalog-project-nav {
+    padding: 0.65rem;
+  }
+
+  .catalog-project-nav .quick-link {
+    font-size: 0.7rem;
   }
 }
 
