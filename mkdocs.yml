@@ -82,6 +82,27 @@ extra:
 
 nav:
   - Inicio: index.md
+  - Catálogo:
+      - Ver catálogo completo: pages/catalog_index.md
+      - Delta del Paraná y Humedales:
+          - Humedales: pages/catalog_humedales.md
+          - Cuenca Las Tunas: pages/catalog_las_tunas.md
+          - Cuenca Espinillo: pages/catalog_cuenca_espinillo.md
+          - Cursos de agua: pages/catalog_corrientes.md
+      - Ecorregiones:
+          - Espinal: pages/catalog_espinal.md
+          - Monte: pages/catalog_monte.md
+      - Entre Ríos - Territorial:
+          - Carta de Suelos ER: pages/catalog_suelos_er.md
+          - Áreas Naturales Protegidas: pages/catalog_apn.md
+          - Cuenca Paracao: pages/catalog_paracao.md
+          - Reserva Esc. Alberdi: pages/catalog_reserva_alberdi.md
+          - Tierra Chaná: pages/catalog_chana.md
+          - Sector Tambero: pages/catalog_tambos.md
+          - Unidades Académicas: pages/catalog_ua.md
+      - Otros:
+          - Laguna Chalacatepec: pages/catalog_laguna.md
+          - Raicilla (México): pages/catalog_raicilla.md
   - Uso de la IDE:
       - Indicaciones de uso: pages/Indicaciones_de_uso.md
       - Catálogo STAC: pages/catalogo.md
