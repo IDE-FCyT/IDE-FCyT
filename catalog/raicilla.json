@@ -1,0 +1,110 @@
+{
+  "stac_version": "1.0.0",
+  "type": "Collection",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ],
+
+  "id": "Raicilla, Jalisco, Mexico",
+  "title": "Ruta de la Raicilla, Jalisco, Mexico",
+  "description": "Este proyecto integra datos geoespaciales de la Ruta de la Raicilla, combinando información de unidades productivas con variables ambientales derivadas de modelos digitales de elevación.",
+  "license": "CC-BY-4.0",
+
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/humedales.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "title": "Visualizar datos en el mapa",
+      "rel": "about",
+      "href": "https://rawcdn.githack.com/FacuBoladeras/ide_Mexico/24c5a42b4424bd5d9fd149b9a95c3baed54fe421/index.html",
+      "type": "text/html"
+    },
+    {
+      "rel": "preview",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/ed865b9b8c84a9f03a780ec28ad646dbe6884f47/images/carto_mex.png",
+      "type": "image/png"
+    },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/file/d/1PsiyZyo6fwKpQSF4qwtxyrh79kxWyOQH/view?usp=drive_link",
+      "title": "Link descarga de datos",
+      "type": "application/zip"
+    },
+    {
+      "rel": "license",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE",
+      "type": "text/plain"
+    },
+    {
+      "rel": "license",
+      "href": "https://creativecommons.org/licenses/by/4.0/",
+      "type": "text/html",
+      "title": "CC-BY 4.0"
+    },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/file/d/1dPJCH-hiEDpq-c0xkbO3TZePYZfTPstZ/view?usp=sharing",
+      "title": "LEAME",
+      "type": "application/pdf"
+      },
+
+    {
+      "rel": "about",
+      "href": "https://drive.google.com/drive/folders/13sNU-ridngqViQqxGDaw96QzjCd3_r_K",
+      "title": "Descarga de mapa",
+      "type": "application/pdf"
+    }
+  ],  
+  
+  "assets": {
+    "thumbnail": {
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/ed865b9b8c84a9f03a780ec28ad646dbe6884f47/images/carto_mex.png",
+      "type": "image/jpeg",
+      "roles": ["thumbnail"]
+    }
+    },
+
+  "extent": {
+    "spatial": {
+      "bbox": [[-106.0, 18.6, -101.2, 23.0]]
+    },
+    "temporal": {
+      "interval": [["2025-11-17T05:31:04Z", null]]
+    }
+  },
+
+  "summaries": {
+    "proj:epsg": [4326]
+  },
+
+  "keywords": [
+    "Trazabilidad territorial,",
+    "Sistemas de Información Geográfica",
+    "Turismo científico",
+    "Infraestructuras de Datos Espaciales",
+    "México"
+  ],
+
+  "providers": [
+    { "name": "CEREGEO", "roles": ["producer", "licensor"] },
+    { "name": "Centro Regional de Geomática", "roles": ["processor"] },
+    { "name": "Fernando Tentor", "roles": ["processor"] },
+    { "name": "Boladeras Facundo", "roles": ["processor"] },
+    { "name": "Piani Virginia", "roles": ["processor"] },
+    { "name": "Noeli Baeza", "roles": ["processor"] },    
+    { "name": "IDE-FCyT (GitHub Pages)", "roles": ["host"] }
+  ]
+}
