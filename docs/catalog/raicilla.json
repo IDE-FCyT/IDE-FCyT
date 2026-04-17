@@ -7,7 +7,7 @@
 
   "id": "cuenca-arroyo-las-conchas",
   "title": "Ruta de la Raicilla, Jalisco, Mexico",
-  "description": "Descripcion breve",
+  "description": "Este proyecto integra datos geoespaciales de la Ruta de la Raicilla, combinando información de unidades productivas con variables ambientales derivadas de modelos digitales de elevación.",
   "license": "CC-BY-4.0",
 
   "links": [
@@ -79,7 +79,7 @@
 
   "extent": {
     "spatial": {
-      "bbox": [[-61.0648, -34.15252, -57.54923, -29.93567]]
+      "bbox": [[-106.0, 18.6, -101.2, 23.0]]
     },
     "temporal": {
       "interval": [["2025-11-17T05:31:04Z", null]]
@@ -91,21 +91,20 @@
   },
 
   "keywords": [
-    "Cuenca",
-    "Entre Ríos",
-    "Las tunas",
-    "polígono",
-    "humedales",
-    "tributarios",
-    "Paraná"
+    "Trazabilidad territorial,",
+    "Sistemas de Información Geográfica",
+    "Turismo científico",
+    "Infraestructuras de Datos Espaciales",
+    "México"
   ],
 
   "providers": [
     { "name": "CEREGEO", "roles": ["producer", "licensor"] },
     { "name": "Centro Regional de Geomática", "roles": ["processor"] },
     { "name": "Fernando Tentor", "roles": ["processor"] },
-    { "name": "Noeli Baeza", "roles": ["processor"] },
-    { "name": "Alan Evequoz", "roles": ["processor"] },
+    { "name": "Boalderas Facundo", "roles": ["processor"] },
+    { "name": "Piani Virginia", "roles": ["processor"] },
+    { "name": "Noeli Baeza", "roles": ["processor"] },    
     { "name": "IDE-FCyT (GitHub Pages)", "roles": ["host"] }
   ]
 }
