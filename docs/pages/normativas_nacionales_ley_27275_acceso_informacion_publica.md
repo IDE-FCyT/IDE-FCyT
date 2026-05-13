@@ -1,0 +1,15 @@
+# Normativas Nacionales - Ley 27.275 (Derecho de Acceso a la Informacion Publica)
+
+Fuente normativa evaluada: `docs/Ley_27275_Derecho_Acceso_Informacion_Publica.txt`
+
+| Item evaluado | Estado en el proyecto | Fragmento textual verbatim | Por que tecnicamente existe desfase (o cumple parcial) | Como lograr cumplir este objetivo |
+|---|---|---|---|---|
+| Responsable formal de acceso a la informacion publica | Desfase total | `ARTÍCULO 30. — Responsables de acceso a la información pública. Cada uno de los sujetos obligados deberá nombrar a un responsable de acceso a la información pública que deberá tramitar las solicitudes de acceso a la información pública dentro de su jurisdicción.` | En la documentacion publica del portal no se identifica un responsable de acceso designado formalmente ni sus datos funcionales. | Publicar una seccion institucional de acceso a la informacion con designacion nominal, acto de designacion, funciones y canal oficial de contacto. |
+| Recepcion y tramitacion de solicitudes de acceso | Desfase total | `a) Recibir y dar tramitación a las solicitudes de acceso a la información pública, remitiendo la misma al funcionario pertinente;` | El portal solo expone contacto general (`docs/pages/contacto.md`) y no define un flujo de solicitud con ingreso, derivacion y seguimiento de expedientes. | Implementar formulario/canal de solicitud con circuito de tramitacion documentado (recepcion, derivacion, plazos, respuesta y cierre). |
+| Registro de solicitudes de acceso | Desfase total | `c) Llevar un registro de las solicitudes de acceso a la información pública;` | No se publica registro de solicitudes recibidas, estado, fecha ni resultado de tramitacion. | Crear y publicar un registro periodico de solicitudes (anonimizado cuando corresponda) con estado, fecha de ingreso y fecha de respuesta. |
+| Asistencia al solicitante para formular pedidos | Desfase total | `e) Brindar asistencia a los solicitantes en la elaboración de los pedidos de acceso a la información pública y orientarlos sobre las dependencias o entidades que pudieran poseer la información requerida;` | No hay guia de asistencia ni instructivo operativo para ayudar al solicitante a definir correctamente su pedido y derivarlo a la dependencia competente. | Incorporar una guia de solicitud asistida con ejemplos de pedidos, alcance de informacion y criterios de derivacion. |
+| Informes mensuales sobre solicitudes y plazos de respuesta | Desfase total | `g) Elaborar informes mensuales ... sobre la cantidad de solicitudes recibidas, los plazos de respuesta y las solicitudes respondidas y rechazadas;` | No existe evidencia de reportes mensuales de gestion de solicitudes ni metricas de cumplimiento de plazos. | Publicar informe mensual de acceso con indicadores minimos (ingresadas, respondidas, rechazadas, plazo promedio y fuera de termino). |
+
+## Nota de alcance
+
+El analisis identifica desfases unicamente sobre exigencias textuales explicitas de la Ley 27.275 y sobre evidencia observable en la documentacion publica del proyecto IDE-FCyT.

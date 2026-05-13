@@ -1,0 +1,16 @@
+# Normativas Nacionales - Resolucion SAyDS 67/2015 (IDE Ambiental)
+
+Fuente normativa evaluada: `docs/IDE_Ambiental_Resolucion_67_2015.txt`
+
+| Item evaluado | Estado en el proyecto | Fragmento textual verbatim | Por que tecnicamente existe desfase (o cumple parcial) | Como lograr cumplir este objetivo |
+|---|---|---|---|---|
+| Convenios y acuerdos para ampliar alcances IDE | Desfase total | `b) Proponer convenios y acuerdos con entidades gubernamentales de distintas Jurisdicciones, sectores científicos y académicos, entidades privadas y organizaciones no gubernamentales y de la sociedad civil, que se consideren necesarios para ampliar los alcances de la Infraestructura de Datos Espaciales Ambiental (IDE Ambiental).` | En el portal hay menciones de articulaciones en paginas de proyectos, pero no existe un registro institucional consolidado de convenios/acuerdos vigentes con trazabilidad documental. | Publicar una seccion de convenios IDE con institucion contraparte, objeto, vigencia, estado y enlace al instrumento formal. |
+| Politica de software libre en SIG | Desfase parcial | `f) Propiciar lineamientos de trabajos y política de Software Libre en materia de Sistemas de Información Geográfica.` | El proyecto usa herramientas libres en casos puntuales, pero no publica una politica transversal y formal de software libre SIG aplicable a toda la IDE. | Definir y publicar una politica institucional de software libre SIG (criterios de adopcion, excepciones, seguridad y mantenimiento). |
+| Resguardo de la informacion georreferenciada | Desfase total | `g) Realizar las acciones correspondientes a resguardar la información generada por las áreas ... y en la Infraestructura de Datos Espaciales Ambiental (IDE Ambiental).` | No hay una politica publicada de resguardo para datos geoespaciales (backup, recuperacion, continuidad, control de integridad/versiones). | Publicar un procedimiento de resguardo y continuidad para datos/catalogo geoespacial, con frecuencias, responsables y pruebas de recuperacion. |
+| Metodologias para unificar criterios de generacion e integracion de geoinformacion | Desfase total | `k) Definir las metodologías de trabajo a fin de unificar criterios de generación e integración de la información georreferenciada ...` | `docs/pages/lineamientos_editoriales.md` ordena contenidos editoriales, pero no establece metodologia tecnica unificada de generacion/integracion de datos georreferenciados. | Publicar metodologia tecnica IDE. |
+| Capacitacion tecnica institucional IDE | Desfase parcial | `l) Capacitar a técnicos ... en la utilización de las herramientas informáticas para realizar productos georreferenciados específicos.` y `m) Realizar y proponer documentos de trabajo, cursos y capacitación para el personal ...` | Hay actividades formativas puntuales en algunas paginas, pero no existe un programa institucional continuo y auditable de capacitacion interna IDE (contenidos, frecuencia, responsables, evaluacion). | Definir un plan anual de capacitacion IDE con cronograma, perfiles destinatarios, contenidos minimos y evidencia de ejecucion. |
+
+## Nota de alcance
+
+La Resolucion 67/2015 fue dictada para la estructura de la ex SAyDS (IDE Ambiental en ambito SIAN).  
+Los desfases consignados se documentan como brechas de alineacion normativa y de gobernanza tecnica para este portal IDE academico.
