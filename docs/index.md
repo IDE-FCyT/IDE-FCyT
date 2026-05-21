@@ -7,10 +7,18 @@ Portal académico para organizar, visualizar y compartir información geoespacia
 [Abrir catálogo STAC](pages/catalogo.md){ .md-button .md-button--soft }
 </div>
 
+<div class="home-visitor-counter">
+  <div class="home-visitor-counter__badge" aria-label="Visitas historicas registradas">
+    <span>VISITORS</span>
+    <strong>2,552</strong>
+  </div>
+  <p> Cantidad de visitas recibidas</p>
+</div>
+
 <div class="home-metrics" markdown>
 
 <div class="metric-card">
-<p class="metric-value">13</p>
+<p class="metric-value">15</p>
 <p class="metric-label">Proyectos territoriales destacados</p>
 </div>
 

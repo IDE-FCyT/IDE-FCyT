@@ -140,5 +140,6 @@ nav:
   - Institucional:
       - Acerca de la IDE: pages/acerca.md
       - CeReGeo: pages/ceregeo.md
+      - Vinculaciones institucionales: pages/vinculaciones_institucionales.md
       - Contacto: pages/contacto.md
       - Lineamientos editoriales: pages/lineamientos_editoriales.md

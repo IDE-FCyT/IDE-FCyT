@@ -10,6 +10,39 @@
 
 El area natural protegida Escuela Normal Rural Juan Bautista Alberdi integra el sistema provincial de areas protegidas. La UADER desarrolla acciones colaborativas de relevamiento, divulgacion y puesta en valor territorial.
 
+## Sitio web de la Reserva Alberdi
+
+<section class="featured-resource" markdown>
+<div class="featured-resource__content" markdown>
+
+<span class="featured-resource__eyebrow">Recurso interactivo</span>
+
+### Reserva Alberdi
+
+Sitio complementario desarrollado para reunir informacion de la reserva, actividades, proyectos, galeria, ubicacion, recorridos y materiales de consulta. Es el acceso recomendado para visitantes, equipos docentes y personas interesadas en conocer el area natural protegida.
+
+<div class="featured-resource__actions" markdown>
+[Abrir sitio web](https://ceregeo.github.io/reserva_alberdi/){ .md-button .md-button--primary }
+[Ver catalogo de datos](catalog_reserva_alberdi.md){ .md-button .md-button--soft }
+</div>
+
+</div>
+
+<div class="featured-resource__meta" markdown>
+
+**Contenidos principales**
+
+- Actividades y proyectos
+- Galeria y ubicacion
+- Recorridos y recursero
+
+</div>
+</section>
+
+<div class="embedded-site">
+  <iframe src="https://ceregeo.github.io/reserva_alberdi/" title="Sitio web Reserva Alberdi" loading="lazy" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>
+
 ## Recursos normativos y tecnicos
 
 <div class="resource-list" markdown>
