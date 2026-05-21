@@ -19,7 +19,7 @@ El area natural protegida Escuela Normal Rural Juan Bautista Alberdi integra el 
 
 ### Reserva Alberdi
 
-Sitio complementario desarrollado para reunir informacion de la reserva, actividades, proyectos, galeria, ubicacion, recorridos y materiales de consulta. Es el acceso recomendado para visitantes, equipos docentes y personas interesadas en conocer el area natural protegida.
+Sitio complementario desarrollado para reunir información de la reserva, actividades, proyectos, galería, ubicación, recorridos y materiales de consulta. Es el acceso recomendado para visitantes, equipos docentes y personas interesadas en conocer el área natural protegida.
 
 <div class="featured-resource__actions" markdown>
 [Abrir sitio web](https://ceregeo.github.io/reserva_alberdi/){ .md-button .md-button--primary }
@@ -33,7 +33,7 @@ Sitio complementario desarrollado para reunir informacion de la reserva, activid
 **Contenidos principales**
 
 - Actividades y proyectos
-- Galeria y ubicacion
+- Galería y ubicación
 - Recorridos y recursero
 
 </div>
@@ -43,7 +43,7 @@ Sitio complementario desarrollado para reunir informacion de la reserva, activid
   <iframe src="https://ceregeo.github.io/reserva_alberdi/" title="Sitio web Reserva Alberdi" loading="lazy" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
-## Recursos normativos y tecnicos
+## Recursos normativos y técnicos
 
 <div class="resource-list" markdown>
 
