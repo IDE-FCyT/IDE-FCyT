@@ -10,9 +10,9 @@ Portal académico para organizar, visualizar y compartir información geoespacia
 <div class="home-visitor-counter">
   <div class="home-visitor-counter__badge" aria-label="Visitas historicas registradas">
     <span>VISITORS</span>
-    <strong>2,552</strong>
+    <strong data-visitor-count data-historical-base="2552">2,552</strong>
   </div>
-  <p> Cantidad de visitas recibidas</p>
+  <p data-visitor-note>Cantidad de visitas recibidas</p>
 </div>
 
 <div class="home-metrics" markdown>
