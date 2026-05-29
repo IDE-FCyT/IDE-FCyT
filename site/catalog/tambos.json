@@ -1,0 +1,112 @@
+{
+  "stac_version": "1.0.0",
+  "type": "Collection",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ],
+
+  "id": "cuenca-arroyo-las-conchas",
+  "title": "Sector tambero de Entre Ríos",
+  "description": "Descripcion breve",
+  "license": "CC-BY-4.0",
+
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/humedales.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "title": "Visualizar datos en el mapa",
+      "rel": "about",
+      "href": "https://rawcdn.githack.com/FacuBoladeras/Tambos_ER/5a361c86bb2f1066ceec9a79b3545871eabad3af/index.html",
+      "type": "text/html"
+    },
+    {
+      "rel": "preview",
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/32b3b8fb47d5c488562417b461b35c505270e21b/images/carto.png",
+      "type": "image/png"
+    },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/file/d/1PsiyZyo6fwKpQSF4qwtxyrh79kxWyOQH/view?usp=drive_link",
+      "title": "Link descarga de datos",
+      "type": "application/zip"
+    },
+    {
+      "rel": "license",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE",
+      "type": "text/plain"
+    },
+    {
+      "rel": "license",
+      "href": "https://creativecommons.org/licenses/by/4.0/",
+      "type": "text/html",
+      "title": "CC-BY 4.0"
+    },
+     {
+      "rel": "about",
+      "href": "https://drive.google.com/file/d/1dPJCH-hiEDpq-c0xkbO3TZePYZfTPstZ/view?usp=sharing",
+      "title": "LEAME",
+      "type": "application/pdf"
+      },
+
+    {
+      "rel": "about",
+      "href": "https://drive.google.com/drive/folders/13sNU-ridngqViQqxGDaw96QzjCd3_r_K",
+      "title": "Descarga de mapa",
+      "type": "application/pdf"
+    }
+  ],  
+  
+  "assets": {
+    "thumbnail": {
+      "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/32b3b8fb47d5c488562417b461b35c505270e21b/images/carto.png",
+      "type": "image/png",
+      "roles": ["thumbnail"]
+    }
+    },
+
+  "extent": {
+    "spatial": {
+      "bbox": [[-61.0648, -34.15252, -57.54923, -29.93567]]
+    },
+    "temporal": {
+      "interval": [["2025-11-17T05:31:04Z", null]]
+    }
+  },
+
+  "summaries": {
+    "proj:epsg": [4326]
+  },
+
+  "keywords": [
+    "Buenas Prácticas Agropecuarias (BPA)",
+    "Entre Ríos",
+    "Sustentabilidad",
+    "Sector lechero",
+    "Gestión"
+
+    
+  ],
+
+  "providers": [
+    { "name": "CEREGEO", "roles": ["producer", "licensor"] },
+    { "name": "Centro Regional de Geomática", "roles": ["processor"] },
+    { "name": "Facundo Boladeras", "roles": ["processor"] },
+    { "name": "Noeli Baeza", "roles": ["processor"] },
+    { "name": "Rocio Galarza", "roles": ["processor"] },
+    { "name": "Pamela Zamboni", "roles": ["processor"] },
+    { "name": "IDE-FCyT (GitHub Pages)", "roles": ["host"] }
+  ]
+}
