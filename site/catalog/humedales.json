@@ -38,6 +38,12 @@
       "type": "image/png"
     },
     {
+      "rel": "about",
+      "href": "https://drive.google.com/uc?export=download&id=1EQUl7XehmiWvuPCVSv56Fzg_52SGYhZe",
+      "title": "Link descarga de datos",
+      "type": "application/zip"
+    },
+    {
       "rel": "license",
       "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE",
       "type": "text/plain"
