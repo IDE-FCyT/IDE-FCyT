@@ -130,6 +130,11 @@ nav:
           - Reserva Esc. Alberdi: pages/escuela_alberdi.md
           - Contexto territorial cuenca Paracao: pages/paracao.md
           - Articulación UADER-FCyT y San Benito "Espacios Verdes": pages/san_benito.md
+  - Posters:
+      - "2025":
+          - IDERA 2025: pages/posters_idera_2025.md
+      - "2026":
+          - IDERA 2026: pages/posters_idera_2026.md
   - Divulgación y publicaciones:
       - Novedades: pages/novedades.md
       - Publicaciones científicas:

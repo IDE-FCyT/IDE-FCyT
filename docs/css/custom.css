@@ -518,6 +518,19 @@ table th {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
+.poster-gallery {
+  margin: 1.5rem 0;
+}
+
+.poster-gallery img {
+  width: 100%;
+  margin: 0 auto 3rem;
+}
+
+.poster-gallery img:last-child {
+  margin-bottom: 0;
+}
+
 @media screen and (max-width: 600px) {
   .gallery-grid {
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
