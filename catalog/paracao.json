@@ -1,0 +1,116 @@
+
+{
+  "stac_version": "1.0.0",
+  "type": "Collection",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
+  ],
+  "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
+  "title": "Cuenca del Arroyo Paracao",
+  "description": "Aportes al Ordenamiento Territorial de la cuenca del arroyo Paracao (Oro Verde, Entre Ríos)",
+  "license": "CC-BY-4.0",
+  "gee:type": "vector",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/paracao.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "title": "Visualizar datos en el mapa",
+      "rel": "about",
+      "href": "https://raw.githack.com/laura-santoni/OAT-cuenca-Paracao-Entre-Rios/main/qgis2web_2024_12_03-20_59_13_746658/index.html",
+      "type": "text/html",
+      "code": "JavaScript"
+    },
+    {
+      "href": "https://raw.githubusercontent.com/laura-santoni/OAT-cuenca-Paracao-Entre-Rios/main/iv-oro%20verde-2024.jpg?raw=true",
+      "rel": "preview",
+      "type": "image/png"
+    },
+    {
+      "rel": "about",
+      "href": "https://drive.google.com/drive/folders/1-7ZI-KkWWx5Raa88OlsIHkImX2SOYDKo?usp=drive_link",
+      "title": "Link descarga de datos",
+      "type": "application/zip"
+    },
+    {
+      "rel": "license",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
+    },
+    {
+      "rel": "about",
+      "href": "https://bibliotecavirtual.unl.edu.ar:8443/handle/11185/8541",
+      "title": "Acceso a tesis",
+      "type": "application/pdf"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -61.0648,
+          -34.15252,
+          -57.54923,
+          -29.93567
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-11-04T10:30:00.000000Z",
+          "2024-11-04T10:30:00.000000Z"
+        ]
+      ]
+    }
+  },
+  "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
+  "gee:user_uploaded": true,
+  "keywords": [
+    "Cuenca Paracao, Entre Rios, OTBN, poligono"
+  ],
+  "providers": [
+    {
+      "name": "CEREGEO",
+      "roles": [
+        "producer",
+        "licensor"
+      ]
+    },
+    {
+      "name": "Centro Regional de Geomática",
+      "roles": [
+        "processor"
+      ]
+    },
+    {
+      "name": "Fernando Tentor",
+      "roles": [
+        "processor"
+      ]
+    },
+    {
+      "name": "Noeli Baeza",
+      "roles": [
+        "processor"
+      ]
+    },
+    {
+      "name": "Laura Santoni",
+      "roles": [
+        "processor"
+      ]
+    }
+  ]
+}
