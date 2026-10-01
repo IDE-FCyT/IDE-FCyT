@@ -94,7 +94,7 @@ nav:
           - Cursos de agua: pages/catalog_corrientes.md
       - Ecorregiones:
           - Espinal: pages/catalog_espinal.md
-          - Servicios ecosistémicos del Espinal: pages/catalog_servicios_ecosistemicos_esp.md
+          - Servicios ecosistémicos del Espinal y Monte: pages/catalog_servicios_ecosistemicos_esp.md
           - Monte: pages/catalog_monte.md
       - Entre Ríos - Territorial:
           - Carta de Suelos ER: pages/catalog_suelos_er.md

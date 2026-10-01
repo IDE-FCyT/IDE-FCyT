@@ -1,4 +1,4 @@
-# Servicios ecosistémicos del Espinal
+# Servicios ecosistémicos del Espinal y Monte
 
 ## Descripción
 
@@ -12,13 +12,14 @@ Sistema de Información Geográfico (SIG) realizado en el marco del Programa Imp
 ## Metadatos
 
 - **Licencia:** CC-BY-4.0
-- **Extensión espacial:** Argentina (región del Espinal)
+- **Extensión espacial:** Argentina (regiones del Espinal y Monte)
+- **Proyección:** EPSG:4326
 
 ## Explorar datos
 
 <iframe
   id="stac-browser-servicios-ecosistemicos-espinal"
-  title="Servicios ecosistémicos del Espinal - STAC Browser"
+  title="Servicios ecosistémicos del Espinal y Monte - STAC Browser"
   style="min-height: 600px; width: 100%; border: 1px solid #ddd;"
   allowfullscreen
   loading="lazy">
@@ -38,3 +39,4 @@ Sistema de Información Geográfico (SIG) realizado en el marco del Programa Imp
 ## Recursos adicionales
 
 - [Ver en el mapa](https://rawcdn.githack.com/FacuBoladeras/servicios_ecosistemicos_espinal/17e0d5ba6ee11e498a0d6c91efc7ef7eecf1b73d/index.html)
+- [Descarga de datos](https://drive.google.com/drive/folders/1Y_7RumcA-SmVavmucIFNVtjcqxts2A0B?usp=sharing)

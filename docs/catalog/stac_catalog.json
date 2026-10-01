@@ -74,8 +74,8 @@
     },
     {
       "rel": "child",
-      "id": "servicios-ecosistemicos-espinal",
-      "title": "Servicios ecosistémicos del Espinal",
+      "id": "servicios-ecosistemicos-espinal-monte",
+      "title": "Servicios ecosistémicos del Espinal y Monte",
       "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/servicios_ecosistemicos_esp.json",
       "type": "application/json"
     },
