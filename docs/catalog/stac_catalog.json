@@ -74,6 +74,13 @@
     },
     {
       "rel": "child",
+      "id": "servicios-ecosistemicos-espinal",
+      "title": "Servicios ecosistémicos del Espinal",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/servicios_ecosistemicos_esp.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "id": "monte",
       "title": "Caracterización de la ecorregión Monte, Argentina",
       "href": "https://rawcdn.githack.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/monte.json",
