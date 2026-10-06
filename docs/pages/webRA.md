@@ -1,4 +1,7 @@
 # Avances en el desarrollo de una pagina web para la Reserva Escuela Alberdi
+
+[← Volver a producción y divulgación](produccion_divulgacion.md)
+
 ---
 
 **Autores:** Laura Santoni, Cristian Hergenreder, Noeli Baeza, Candela Piedrabuena, Maite Zappala, Alfredo Grimaux  

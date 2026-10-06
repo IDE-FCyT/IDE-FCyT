@@ -145,38 +145,8 @@ table th {
   font-size: 0.84rem;
 }
 
-.home-metrics {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 0.7rem;
-  margin: 0.6rem 0 1.5rem;
-}
-
-.metric-card {
-  border: 1px solid var(--ide-border);
-  background: var(--ide-card-bg);
-  border-radius: 14px;
-  padding: 0.8rem 0.85rem;
-  box-shadow: var(--ide-shadow);
-}
-
-.metric-value {
-  margin: 0;
-  font-size: 1.5rem;
-  font-weight: 800;
-  color: var(--ide-title);
-  line-height: 1.1;
-}
-
-.metric-label {
-  margin: 0.2rem 0 0;
-  color: var(--ide-muted);
-  font-size: 0.82rem;
-  line-height: 1.35;
-}
-
-
-.grid.cards > ul > li {
+.home-paths > ul > li,
+.news-highlight > ul > li {
   background: var(--ide-card-bg);
   border: 1px solid var(--ide-border);
   border-radius: 16px;
@@ -184,12 +154,23 @@ table th {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.grid.cards > ul > li:hover {
+.home-paths > ul > li:hover,
+.news-highlight > ul > li:hover {
   transform: translateY(-4px);
   box-shadow: 0 14px 30px rgba(18, 49, 74, 0.18);
 }
 
-.grid.cards h3 {
+.home-paths > ul > li {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-paths > ul > li > p:last-child {
+  margin-top: auto;
+}
+
+.home-paths h3,
+.news-highlight h3 {
   margin-top: 0.2rem;
 }
 
@@ -197,7 +178,7 @@ table th {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-.grid.cards > ul > li img {
+.news-highlight > ul > li img {
   width: 100%;
   aspect-ratio: 16 / 9;
   object-fit: cover;
@@ -227,6 +208,28 @@ table th {
   transform: translateY(-2px);
   filter: brightness(1.05);
   box-shadow: 0 10px 22px rgba(15, 56, 87, 0.34);
+}
+
+.quick-link:focus-visible,
+.md-button:focus-visible {
+  outline: 3px solid var(--ide-title);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .quick-link,
+  .home-paths > ul > li,
+  .news-highlight > ul > li,
+  .institutional-link {
+    transition: none;
+  }
+
+  .quick-link:hover,
+  .home-paths > ul > li:hover,
+  .news-highlight > ul > li:hover,
+  .institutional-link:hover {
+    transform: none;
+  }
 }
 
 .quick-link--alt {
@@ -476,10 +479,6 @@ table th {
 
   .md-typeset h1 {
     font-size: 1.65rem;
-  }
-
-  .home-metrics {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .home-visitor-counter {

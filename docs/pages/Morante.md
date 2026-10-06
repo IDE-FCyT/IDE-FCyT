@@ -1,4 +1,7 @@
 # Aplicaciones de tecnologias de informacion geografica
+
+[← Volver a proyectos de investigación](proyectos.md)
+
 ---
 
 **Tipo de contenido:** Material de divulgacion y apoyo academico  

@@ -1,4 +1,7 @@
 # 🌿 Aportes a la caracterización de la vulnerabilidad ambiental en el Delta del río Paraná, Argentina, mediante geoinformática y técnicas de evaluación multicriterio
+
+[← Volver a proyectos de investigación](proyectos.md)
+
 ---
 
 **Autores:** Facundo Boladeras, Virginia Piani, Lisandra P. Zamboni, Walter Sione, Fernando Tentor y Pablo Aceñolaza  

@@ -1,4 +1,7 @@
 # Incendios en Isla Puente (noviembre 2021)
+
+[← Volver a proyectos de investigación](proyectos.md)
+
 ---
 
 **Autores:** Facundo Boladeras, Pamela Zamboni, Noeli Baeza, Fernando Tentor, Walter Sione  

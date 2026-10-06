@@ -86,41 +86,9 @@ extra:
 nav:
   - Inicio: index.md
   - Catálogo: pages/catalog_index.md
-  - Uso de la IDE:
-      - Indicaciones de uso: pages/Indicaciones_de_uso.md
-  - Proyectos:
-      - Proyecto por ecosistema/región:
-          - Delta del Paraná:
-              - Vulnerabilidad del Delta: pages/VulnerabilidadDeltadelParaná.md
-              - Incendios e Islas: pages/incendioislapuente.md
-          - Región del Espinal:
-              - Cambio de uso del suelo: pages/cambio_uso_suelo.md
-              - Proyecto PFI Aceñolaza: pages/espinal_pfi.md
-          - Humedales:
-              - Investigación doctoral en humedales: pages/humedales.md
-      - Proyecto por línea temática:
-          - Gestión forestal:
-              - Algoritmo GEE plantaciones forestales: pages/algoritmo_GEE_forestal.md
-              - Proyecto Hansen Bosque: pages/handsen.md
-          - Modelado y tecnologías:
-              - Aplicaciones de Tecnologías de Información Geográfica: pages/Morante.md
-              - Modelos de paisaje con TanGeoMS: pages/modelos_paisaje.md
-          - VANT (Drones): pages/vant.md
-      - Proyectos institucionales y territoriales:
-          - Reserva Esc. Alberdi: pages/escuela_alberdi.md
-          - Contexto territorial cuenca Paracao: pages/paracao.md
-          - Articulación UADER-FCyT y San Benito "Espacios Verdes": pages/san_benito.md
-  - Posters:
-      - "2025":
-          - IDERA 2025: pages/posters_idera_2025.md
-      - "2026":
-          - IDERA 2026: pages/posters_idera_2026.md
-  - Divulgación y publicaciones:
-      - Novedades: pages/novedades.md
-      - Publicaciones científicas:
-          - Avances página web "Reserva Alberdi": pages/webRA.md
-          - Mapa web "Reservas Naturales de Entre Ríos": pages/mapaweb.md
-      - Conversatorios CIDS: pages/cids.md
+  - Cómo usar la IDE: pages/Indicaciones_de_uso.md
+  - Proyectos: pages/proyectos.md
+  - Producción y divulgación: pages/produccion_divulgacion.md
   - Formación:
       - Maestría en Ciencia de Datos: pages/maestria.md
   - Institucional:

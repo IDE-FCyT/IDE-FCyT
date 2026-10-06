@@ -1,4 +1,7 @@
 # 🏞️ Contexto territorial de la cuenca del arroyo Paracao desde una perspectiva de conservación ecosistémica y gestión estratégica de los recursos naturales
+
+[← Volver a proyectos de investigación](proyectos.md)
+
 ---
 
 **Autores:** Laura Santoni, Pamela Zamboni  

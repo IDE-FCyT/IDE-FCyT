@@ -1,4 +1,7 @@
 # 🌱 Análisis del cambio de uso del suelo en socioecosistemas del Espinal entrerriano en un contexto de cambio climático: perspectivas desde la geomática ambiental
+
+[← Volver a proyectos de investigación](proyectos.md)
+
 ---
 
 **Autores:** Laura Santoni (CONICET), Walter Sione (UADER), Pamela Zamboni (UADER), Miguel Lovino (UNL)  

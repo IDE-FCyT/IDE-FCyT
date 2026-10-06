@@ -1,4 +1,7 @@
 # Reserva Escuela Alberdi
+
+[← Volver a proyectos de investigación](proyectos.md)
+
 ---
 
 **Institucion:** FCyT - UADER (en articulacion con FHAyCS y organismos provinciales)  

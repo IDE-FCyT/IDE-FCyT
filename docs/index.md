@@ -1,10 +1,8 @@
 <div class="home-hero" markdown>
 # IDE FCyT UADER
 
-Portal académico para organizar, visualizar y compartir información geoespacial, proyectos, publicaciones y productos de transferencia vinculados al territorio.
+Explorá datos geoespaciales, investigaciones y experiencias de la Facultad de Ciencia y Tecnología de la UADER. Elegí por dónde empezar:
 
-[Explorar proyectos](pages/VulnerabilidadDeltadelParaná.md){ .md-button .md-button--primary }
-[Abrir catálogo STAC](pages/catalog_index.md){ .md-button .md-button--soft }
 </div>
 
 <div class="home-visitor-counter">
@@ -15,69 +13,36 @@ Portal académico para organizar, visualizar y compartir información geoespacia
   <p data-visitor-note>Cantidad de visitas recibidas</p>
 </div>
 
-<div class="home-metrics" markdown>
+## ¿Qué querés hacer?
 
-<div class="metric-card">
-<p class="metric-value">15</p>
-<p class="metric-label">Proyectos territoriales destacados</p>
-</div>
+<div class="grid cards home-paths" markdown>
 
-<div class="metric-card">
-<p class="metric-value">1</p>
-<p class="metric-label">Catálogo STAC institucional</p>
-</div>
+- ### Explorar datos
 
-<div class="metric-card">
-<p class="metric-value">3</p>
-<p class="metric-label">Espacios de divulgación activa</p>
-</div>
+  Encontrá colecciones geoespaciales por temática y consultá sus mapas, metadatos y descargas.
 
-<div class="metric-card">
-<p class="metric-value">24/7</p>
-<p class="metric-label">Acceso abierto a contenidos</p>
-</div>
+  [Ir al catálogo](pages/catalog_index.md){ .quick-link }
+  [Cómo usar los datos](pages/Indicaciones_de_uso.md){ .quick-link .quick-link--alt }
+
+- ### Conocer investigaciones
+
+  Recorré los proyectos de la facultad por región, línea temática o vínculo con el territorio.
+
+  [Ver proyectos](pages/proyectos.md){ .quick-link }
+
+- ### Ver producción y novedades
+
+  Descubrí pósters, productos web, conversatorios y noticias de la IDE.
+
+  [Explorar contenidos](pages/produccion_divulgacion.md){ .quick-link }
 
 </div>
 
 ## Qué ofrece la IDE
 
-Una IDE (Infraestructura de Datos Espaciales) integra catálogos, capas SIG, visores, metadatos y documentos técnicos para facilitar la consulta y reutilización de información geográfica.
+Una IDE (Infraestructura de Datos Espaciales) reúne catálogos, capas SIG, visores y metadatos para facilitar la consulta y reutilización de información geográfica. En la FCyT articula docencia, investigación, extensión y gestión territorial.
 
-En la FCyT, esta infraestructura articula docencia, investigación, extensión y gestión territorial, con foco en datos abiertos, trazabilidad y acceso público al conocimiento.
-
-![Logo IDE FCyT](images/logo_ide.jpg)
-
-## Accesos rápidos
-
-<div class="grid cards" markdown>
-
-- ### Catálogo y estándares
-  ![Catálogo STAC e interoperabilidad](images/catalogo_objetos.jpg)
-
-  Navegá el catálogo STAC y revisá la guía de uso para comprender la estructura de datos publicada.
-
-  [Abrir catálogo STAC](pages/catalog_index.md){ .quick-link }
-  [Ver guía de uso](pages/Indicaciones_de_uso.md){ .quick-link .quick-link--alt }
-
-- ### Proyectos territoriales
-  ![Proyectos geoespaciales por región](images/poster_paracao.jpg)
-
-  Consultá trabajos organizados por región y temática: Delta del Paraná, Espinal, humedales, gestión forestal y más.
-
-  [Explorar](pages/VulnerabilidadDeltadelParaná.md){ .quick-link }
-  [Ver línea humedales](pages/humedales.md){ .quick-link .quick-link--alt }
-
-- ### Publicaciones y divulgación
-  ![Publicaciones y transferencia](images/paginaweb.png)
-
-  Accedé a resúmenes, materiales de congresos, experiencias de transferencia y novedades institucionales.
-
-  [Ir a novedades](pages/novedades.md){ .quick-link }
-  [Ver divulgación](pages/webRA.md){ .quick-link .quick-link--alt }
-
-</div>
-
-## Últimas novedades
+## Novedades destacadas
 
 <div class="grid cards news-highlight" markdown>
 
@@ -98,6 +63,8 @@ En la FCyT, esta infraestructura articula docencia, investigación, extensión y
   [Ver publicación](https://www.idera.gob.ar/index.php/publicaciones/noticias/nueva-version-del-catalogo-de-objetos-geograficos-de-idera){ .quick-link .quick-link--alt }
 
 </div>
+
+[Ver todas las novedades](pages/novedades.md)
 
 ## Articulación institucional
 

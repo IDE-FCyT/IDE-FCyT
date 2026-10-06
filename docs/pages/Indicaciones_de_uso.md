@@ -1,6 +1,17 @@
-# Indicaciones de uso
+# Cómo usar la IDE
 
-La infraestructura de datos espaciales (IDE) esta creada bajo las especificaciones STAC (SpatioTemporal Asset Catalog). [Acceso al sitio oficial de STAC](https://stacspec.org/en/)
+Esta IDE publica un catálogo de colecciones geoespaciales siguiendo STAC (SpatioTemporal Asset Catalog). Podés consultarlo desde el sitio sin conocer el formato JSON.
+
+## Empezá por acá
+
+1. **Elegí un tema y un proyecto** en el [catálogo de proyectos](catalog_index.md). Los proyectos de investigación de la facultad tienen una [entrada aparte](proyectos.md).
+2. **Abrí la ficha** del proyecto para conocer su descripción y explorar la colección con el visor STAC.
+3. **Consultá los recursos asociados** de esa ficha: si están disponibles, vas a encontrar enlaces al mapa, a la descarga o a documentación adicional.
+4. Si necesitás trabajar con los metadatos, accedé al [catálogo raíz en formato JSON](../catalog/stac_catalog.json). Es un catálogo de archivos enlazados, no un servicio de búsqueda API STAC.
+
+## Qué es STAC
+
+[STAC](https://stacspec.org/en/) es un estándar para describir y vincular datos geoespaciales de forma interoperable.
 
 En esencia, las especificaciones STAC tienen como objetivo estandarizar la forma en que se estructuran, exponen y consultan los activos geoespaciales en línea. Un "**activo espaciotemporal**" es cualquier archivo que representa información sobre la Tierra en un lugar y momento determinado, su enfoque original se centraba en escenas de imágenes satelitales, pero las especificaciones hoy en día cubren una amplia variedad de usos, incluidas fuentes de aviones y drones, datos hiperespectrales, radar de apertura sintética (SAR), video, nube de puntos, lidar, modelos digitales de elevación (DEM), vectores, compuestos como NDVI, entre otros.
 Poseer este estándar común elimina la necesidad de buscar a través de muchos proveedores de satélites el acceso a datos requeridos.
@@ -28,5 +39,5 @@ Se utiliza para describir un grupo de elementos relacionados. Son catálogos que
 
 
 ### API STAC
-Las API (interfaz de programación de aplicaciones del inglés application programming interface) STAC, es una especificación de API RESTful para consultar catálogos de forma dinámica. Está diseñada con un conjunto estándar de puntos finales (endpoint) para buscar catálogos, colecciones y elementos.
+La especificación API STAC permite consultar catálogos de forma dinámica mediante puntos de acceso estándar. Esta IDE publica archivos JSON enlazados; esta explicación del estándar no implica que el sitio ofrezca una API STAC.
 

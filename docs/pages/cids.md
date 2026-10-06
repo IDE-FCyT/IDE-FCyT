@@ -1,4 +1,7 @@
 # Ciclo de conversatorios y conferencias del CIDS
+
+[← Volver a producción y divulgación](produccion_divulgacion.md)
+
 ---
 
 El ciclo "Desde el dialogo de saberes al laboratorio a cielo abierto" es una propuesta del Centro de Innovacion y Desarrollo Sustentable (CIDS), en el marco del programa Activa Territorio de la FCyT.

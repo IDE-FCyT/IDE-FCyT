@@ -1,4 +1,7 @@
 # 🐸 Inventario de Humedales en el centro-oeste de Entre Ríos: base para su protección y gestión sostenible
+
+[← Volver a proyectos de investigación](proyectos.md)
+
 ---
 
 **Autores:** Boladeras Facundo, Battauz Yamila 

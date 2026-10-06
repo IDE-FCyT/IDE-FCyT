@@ -1,4 +1,7 @@
 # 🏔️ Tangible Landscape: interfaz tangible para el modelado geoespacial
+
+[← Volver a proyectos de investigación](proyectos.md)
+
 ---
 
 **Autores:** Tentor F. R., Sione W., Zamboni L. P., Maldonado F., Díaz S., Collado F., Baeza N., Vivas F., Bordignón F.  

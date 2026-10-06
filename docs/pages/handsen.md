@@ -1,4 +1,7 @@
 # 🌍 Hansen Global Forest Change v1.9 (2000–2021)
+
+[← Volver a proyectos de investigación](proyectos.md)
+
 ---
 
 **Autores:** M. Hansen, P. Potapov, R. Moore, M. Hancher et al.  
