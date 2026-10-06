@@ -93,6 +93,30 @@
     {
       "name": "Pamela Zamboni",
       "roles": ["processor"]
+    },
+    {
+      "name": "Laura Santoni",
+      "roles": ["processor"]
+    },
+    {
+      "name": "María Paula Barral",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Ximena Sirimarco",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Noelia Calamari",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Maria Cecilia Rubio",
+      "roles": ["processor"]
+    },
+    {
+      "name": "María Clara Rubio",
+      "roles": ["processor"]
     }
   ]
 }
