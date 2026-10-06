@@ -1,13 +1,15 @@
-# Cursos de Agua - Corrientes de Entre Ríos
+# Uso del suelo en el Espinal de Entre Ríos y Corrientes
+
+[← Volver al catálogo de proyectos](catalog_index.md)
 
 ## Descripción
 
-Cartografía de corrientes de agua en la provincia de Entre Ríos.
+Análisis del cambio de uso del suelo en socioecosistemas del Espinal de Entre Ríos y Corrientes.
 
 ## Metadatos
 
 - **Licencia:** CC-BY-4.0
-- **Proveedores:** CEREGEO, Centro Regional de Geomática, IDE-FCyT
+- **Proveedores:** CEREGEO, Centro Regional de Geomática, Fernando Tentor, Noeli Baeza, Laura Santoni
 
 ## Explorar datos
 

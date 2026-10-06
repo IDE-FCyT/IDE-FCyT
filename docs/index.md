@@ -4,7 +4,7 @@
 Portal académico para organizar, visualizar y compartir información geoespacial, proyectos, publicaciones y productos de transferencia vinculados al territorio.
 
 [Explorar proyectos](pages/VulnerabilidadDeltadelParaná.md){ .md-button .md-button--primary }
-[Abrir catálogo STAC](pages/catalogo.md){ .md-button .md-button--soft }
+[Abrir catálogo STAC](pages/catalog_index.md){ .md-button .md-button--soft }
 </div>
 
 <div class="home-visitor-counter">
@@ -56,7 +56,7 @@ En la FCyT, esta infraestructura articula docencia, investigación, extensión y
 
   Navegá el catálogo STAC y revisá la guía de uso para comprender la estructura de datos publicada.
 
-  [Abrir catálogo STAC](pages/catalogo.md){ .quick-link }
+  [Abrir catálogo STAC](pages/catalog_index.md){ .quick-link }
   [Ver guía de uso](pages/Indicaciones_de_uso.md){ .quick-link .quick-link--alt }
 
 - ### Proyectos territoriales
