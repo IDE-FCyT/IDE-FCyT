@@ -1,0 +1,122 @@
+{
+  "stac_version": "1.0.0",
+  "type": "Collection",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ],
+  "id": "servicios-ecosistemicos-espinal-monte",
+  "title": "Servicios ecosistémicos del Espinal y Monte",
+  "description": "Sistema de Información Geográfico (SIG) realizado en el marco del Programa ImpaCT.AR Ciencia y Tecnología (Proyecto Desafío 155) promovido por el Ministerio de Ciencia, Tecnología e Innovación de Argentina (MINCyT).",
+  "license": "CC-BY-4.0",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/servicios_ecosistemicos_esp.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "title": "Visualizar datos en el mapa",
+      "rel": "about",
+      "href": "https://rawcdn.githack.com/FacuBoladeras/servicios_ecosistemicos_espinal/17e0d5ba6ee11e498a0d6c91efc7ef7eecf1b73d/index.html",
+      "type": "text/html"
+    },
+    {
+      "rel": "preview",
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/miniatura_espinal-monte.png",
+      "type": "image/png"
+    },
+    {
+      "title": "Link descarga de datos",
+      "rel": "about",
+      "href": "https://drive.google.com/drive/folders/1Y_7RumcA-SmVavmucIFNVtjcqxts2A0B?usp=sharing",
+      "type": "application/zip"
+    },
+    {
+      "rel": "license",
+      "href": "https://creativecommons.org/licenses/by/4.0/",
+      "type": "text/html",
+      "title": "CC-BY 4.0"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [-74.0, -55.3, -53.6, -21.7]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [null, null]
+      ]
+    }
+  },
+  "assets": {
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/miniatura_espinal-monte.png",
+      "type": "image/png",
+      "roles": ["thumbnail"]
+    }
+  },
+  "summaries": {
+    "proj:epsg": [4326]
+  },
+  "keywords": [
+    "servicios ecosistémicos",
+    "ecorregión",
+    "espinal",
+    "monte",
+    "Argentina"
+  ],
+  "providers": [
+    {
+      "name": "CEREGEO",
+      "roles": ["producer", "licensor"]
+    },
+    {
+      "name": "Centro Regional de Geomática",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Alan Evequoz",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Pamela Zamboni",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Laura Santoni",
+      "roles": ["processor"]
+    },
+    {
+      "name": "María Paula Barral",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Ximena Sirimarco",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Noelia Calamari",
+      "roles": ["processor"]
+    },
+    {
+      "name": "Maria Cecilia Rubio",
+      "roles": ["processor"]
+    },
+    {
+      "name": "María Clara Rubio",
+      "roles": ["processor"]
+    }
+  ]
+}

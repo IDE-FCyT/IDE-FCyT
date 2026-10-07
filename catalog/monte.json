@@ -1,0 +1,111 @@
+{
+    "stac_version": "1.0.0",
+    "type": "Collection",
+    "stac_extensions": [
+        "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
+    ],
+    "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
+    "title": "Caracterización de la ecorregión Monte, Argentina",
+    "description": "Sistema de Información Geográfico (SIG) realizado en el marco del Programa ImpaCT.AR Ciencia y Tecnología (Proyecto Desafío 155) promovido por el Ministerio de Ciencia, Tecnología e Innovación de Argentina (MINCyT).",
+    "license": "CC-BY-4.0",
+    "gee:type": "vector",
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/paracao.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/docs/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "title": "Visualizar datos en el mapa",
+            "rel": "about",
+            "href": "https://rawcdn.githack.com/noelibaeza/monte/99095f533548bea8b1e108bce819d38c7e7417b6/index.html",
+            "type": "text/html",
+            "code": "JavaScript"
+        },
+        {
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/refs/heads/main/images/monte.jpg",
+            "rel": "preview",
+            "type": "image/png"
+         },
+         {
+            "rel": "about",
+            "href": "https://drive.google.com/drive/folders/1SS-oOhWny0Yn06zqR9gvLOXaJ22Zg3Od?usp=drive_link",
+            "title": "Link descarga de datos",
+            "type": "application/zip"
+         },
+       
+        {
+            "rel": "license",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
+        },
+         {
+            "rel": "about",
+            "href": "https://drive.google.com/file/d/1lbM_zfnVMKavMT0HWWMEs6DtyzE8b_34/view?usp=sharing",
+            "title": "Metadatos detallados (PDF)",
+            "type": "application/pdf"
+        }
+
+    ],
+    "extent": {
+        "spatial": {
+            "bbox": [
+                [
+                    -74.0,
+                    -55.3,
+                    -53.6,
+                    -21.7
+                ]
+            ]
+        },
+        "temporal": {
+            "interval": [
+                [
+                    "2024-11-04T10:30:00.000000Z",
+                    "2024-11-04T10:30:00.000000Z"
+                ]
+            ]
+        }
+    },
+    "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
+    "gee:user_uploaded": true,
+    "keywords": [
+        "ecorregión, espinal, Argentina, poligono"
+    ],
+    "providers": [
+        {
+            "name": "CEREGEO",
+            "roles": [
+                "producer",
+                "licensor"
+            ]
+        },
+        {
+            "name": "Centro Regional de Geomática",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Noeli Baeza",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Laura Santoni",
+            "roles": [
+                "processor"
+            ]
+        }
+    ]
+}
